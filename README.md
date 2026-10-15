@@ -41,8 +41,12 @@ python -m probegen_eval generate --dataset ReasonSeg --model nano-banana-2
 | `nano-banana-2.1` | `gemini-nano-banana-2.1` | Gemini (`gemini`) |
 | `gpt-image-2` | `gpt-image-2` | OpenAI image edits (`openai`) |
 | `seedream-5.0` | `doubao-seedream-5-0-260128` | Volcengine Ark image generation (`seedream`) |
+| `gemini-3.5-flash` | `gemini-3.5-flash` | Gemini (`gemini`), counting only |
+| `gpt-5.4` | `gpt-5.4` | OpenAI chat completions (`openai`), counting only |
+| `claude-opus-4.7` | `claude-opus-4-7` | Anthropic messages (`anthropic`), counting only |
 
-Predictions are saved to `outputs/<model>/<dataset>/`. Rerunning the command
+The last three are MLLMs: on PixMo-Points they answer with a number (saved as
+`.txt`) instead of an image. Predictions are saved to `outputs/<model>/<dataset>/`. Rerunning the command
 skips existing predictions and retries failed ones. Use `--n-samples 5` for a
 quick test.
 
@@ -56,6 +60,7 @@ and sent as JPEG together with the task prompt (mid version, below).
 | OOD segmentation | `Segment all {label}. Make the target objects (one or more) pure white and everything else pure black.` |
 | Depth | `Create a grayscale depth map of this image: brighter = closer, darker = farther.` |
 | Counting | `Put one small solid red dot precisely on each {label} in this image. Use the same bright red color for every dot. Do not change anything else in the image.` |
+| Counting (MLLMs) | `Count all objects of {label} in the image. Answer with a single integer only. Do not include words, punctuation, reasoning steps, or explanations. If uncertain, guess one integer.` |
 
 ## Evaluate
 
@@ -75,7 +80,8 @@ and listed in the report.
 - **Depth:** the grayscale prediction (brighter = closer) is aligned to the
   ground truth by least-squares scale and shift in disparity space.
 - **Counting:** red dots added relative to the input are detected by color,
-  difference and shape filtering, and counted.
+  difference and shape filtering, and counted. For MLLM answers (`.txt`), the
+  first integer in the text is the count (0 if there is none).
 
 Metrics are reported as fractions; multiply by 100 for the paper's tables.
 
@@ -85,7 +91,6 @@ Metrics are reported as fractions; multiply by 100 for the paper's tables.
 - [ ] Open-weight generators run locally: FLUX.2-dev (NF4), Qwen-Image-Edit-2511
 - [ ] Specialist models: Depth Anything V2, Marigold, Lotus-2, SAM3 + Qwen3-VL-Thinking,
       Qwen3-VL-SAMTok, CountGD++
-- [ ] MLLMs for counting: Gemini-3.5-Flash, GPT-5.4, Claude-Opus-4.7
 
 ## Citation
 

@@ -1,6 +1,7 @@
 """Counting: count red dots that the generator added to the input image."""
 
 from io import BytesIO
+import re
 
 import cv2
 import numpy as np
@@ -10,6 +11,9 @@ from .generate import prepare_input
 
 
 def score(dataset, sample, data_root, path):
+    if path.suffix == ".txt":   # MLLM answer: first integer in the text, 0 if none
+        match = re.search(r"-?\d+", path.read_text())
+        return {"prediction": int(match.group()) if match else 0, "ground_truth": sample.target["count"]}
     with Image.open(BytesIO(prepare_input(data_root / sample.image))) as decoded:
         inp = decoded.convert("RGB")   # the exact input the generator received
     with Image.open(path) as image:

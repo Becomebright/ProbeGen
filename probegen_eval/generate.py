@@ -16,10 +16,16 @@ MODELS = {  # name: (provider, model ID)
     "gpt-image-2": ("openai", "gpt-image-2"),
     "seedream-5.0": ("seedream", "doubao-seedream-5-0-260128"),
 }
+MLLMS = {  # counting only: the model answers with a number instead of an image
+    "gemini-3.5-flash": ("gemini", "gemini-3.5-flash"),
+    "gpt-5.4": ("openai", "gpt-5.4"),
+    "claude-opus-4.7": ("anthropic", "claude-opus-4-7"),
+}
 DEFAULT_BASE_URLS = {
     "openai": "https://api.openai.com/v1",
     "gemini": "https://generativelanguage.googleapis.com/v1beta",
     "seedream": "https://ark.cn-beijing.volces.com/api/v3",
+    "anthropic": "https://api.anthropic.com/v1",
 }
 
 PROMPTS = {
@@ -30,6 +36,9 @@ PROMPTS = {
     "depth": "Create a grayscale depth map of this image: brighter = closer, darker = farther.",
     "counting": "Put one small solid red dot precisely on each {label} in this image. "
                 "Use the same bright red color for every dot. Do not change anything else in the image.",
+    "counting_mllm": "Count all objects of {label} in the image. Answer with a single integer only. "
+                     "Do not include words, punctuation, reasoning steps, or explanations. "
+                     "If uncertain, guess one integer.",
 }
 CLASS_NAMES = {
     "DRAM": {3: "bird", 4: "boat", 5: "bottle", 8: "cat", 9: "chair", 10: "cow",
@@ -38,7 +47,9 @@ CLASS_NAMES = {
 }
 
 
-def render_prompt(dataset, sample):
+def render_prompt(dataset, sample, mllm=False):
+    if mllm:
+        return PROMPTS["counting_mllm"].format(label=sample.query)
     if dataset == "ReasonSeg":
         return PROMPTS["reasoning"].format(label=sample.query)
     if dataset in CLASS_NAMES:
@@ -66,20 +77,38 @@ def load_api_settings(provider, path=Path("api.local.yaml")):
     return settings.get("base_url", DEFAULT_BASE_URLS[provider]).rstrip("/"), key, settings.get("auth_mode")
 
 
-def make_backend(provider, model, base_url, key, auth_mode):
-    """Return a function (prompt, input JPEG bytes) -> generated image bytes."""
+def make_backend(provider, model, base_url, key, auth_mode, text=False):
+    """Return a function (prompt, input JPEG bytes) -> image bytes, or the answer text if `text`."""
+    b64 = lambda jpeg: base64.b64encode(jpeg).decode()
+    if provider == "anthropic":
+        client = httpx.Client(base_url=base_url + "/", timeout=300,
+                              headers={"x-api-key": key, "anthropic-version": "2023-06-01"})
+
+        def claude(prompt, jpeg):
+            image = {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": b64(jpeg)}}
+            response = client.post("messages", json={"model": model, "max_tokens": 1024, "messages": [
+                {"role": "user", "content": [image, {"type": "text", "text": prompt}]}]})
+            if response.status_code != 200:
+                raise RuntimeError(f"HTTP {response.status_code}: {response.text[:300]}")
+            return "".join(b["text"] for b in response.json()["content"] if b["type"] == "text")
+        return claude
+
     if provider == "gemini":
         bearer = auth_mode == "bearer"
         client = httpx.Client(base_url=base_url + "/", timeout=300,
                               headers={"Authorization": f"Bearer {key}"} if bearer else {"x-goog-api-key": key})
 
         def gemini(prompt, jpeg):
-            parts = [{"text": prompt}, {"inlineData": {"mimeType": "image/jpeg", "data": base64.b64encode(jpeg).decode()}}]
-            response = client.post(f"models/{model}:generateContent", json={
-                "contents": [{"role": "user", "parts": parts}],
-                "generationConfig": {"responseModalities": ["IMAGE"]}})
+            body = {"contents": [{"role": "user", "parts": [
+                {"text": prompt}, {"inlineData": {"mimeType": "image/jpeg", "data": b64(jpeg)}}]}]}
+            if not text:
+                body["generationConfig"] = {"responseModalities": ["IMAGE"]}
+            response = client.post(f"models/{model}:generateContent", json=body)
             if response.status_code != 200:
                 raise RuntimeError(f"HTTP {response.status_code}: {response.text[:300]}")
+            if text:
+                parts = response.json()["candidates"][0]["content"]["parts"]
+                return "".join(p.get("text", "") for p in parts if not p.get("thought"))
             for candidate in response.json().get("candidates", []):
                 for part in candidate.get("content", {}).get("parts", []):
                     if "inlineData" in part and not part.get("thought"):   # skip intermediate "thought" images
@@ -91,10 +120,15 @@ def make_backend(provider, model, base_url, key, auth_mode):
     client = OpenAI(api_key=key, base_url=base_url)
 
     def openai_compatible(prompt, jpeg):
+        if text:
+            response = client.chat.completions.create(model=model, messages=[{"role": "user", "content": [
+                {"type": "text", "text": prompt},
+                {"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + b64(jpeg)}}]}])
+            return response.choices[0].message.content
         if provider == "openai":
             response = client.images.edit(model=model, prompt=prompt, image=[("input.jpg", jpeg, "image/jpeg")])
         else:   # Seedream takes the input image as a data URL
-            image = "data:image/jpeg;base64," + base64.b64encode(jpeg).decode()
+            image = "data:image/jpeg;base64," + b64(jpeg)
             response = client.images.generate(model=model, prompt=prompt,
                                               extra_body={"image": image, "watermark": False})
         item = response.data[0]
@@ -103,18 +137,26 @@ def make_backend(provider, model, base_url, key, auth_mode):
 
 
 def generate(dataset, model, samples, data_root, output_dir):
-    provider, model_id = MODELS[model]
+    mllm = model in MLLMS
+    if mllm and dataset != "pixmo-points":
+        raise SystemExit(f"{model} answers with text and is evaluated on pixmo-points only")
+    provider, model_id = {**MODELS, **MLLMS}[model]
     base_url, key, auth_mode = load_api_settings(provider)
-    backend = make_backend(provider, model_id, base_url, key, auth_mode)
+    backend = make_backend(provider, model_id, base_url, key, auth_mode, text=mllm)
     output_dir.mkdir(parents=True, exist_ok=True)
     failed = 0
     for index, sample in enumerate(samples, 1):
         path = output_dir / sample.prediction
+        if mllm:
+            path = path.with_suffix(".txt")   # raw answer, parsed during evaluation
         status = "exists"
         if not path.exists():
             try:
-                content = backend(render_prompt(dataset, sample), prepare_input(data_root / sample.image))
-                Image.open(BytesIO(content)).convert("RGB").save(path, "PNG")
+                content = backend(render_prompt(dataset, sample, mllm), prepare_input(data_root / sample.image))
+                if mllm:
+                    path.write_text(content)
+                else:
+                    Image.open(BytesIO(content)).convert("RGB").save(path, "PNG")
                 status = "ok"
             except Exception as error:
                 failed += 1

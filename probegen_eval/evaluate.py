@@ -9,6 +9,8 @@ def evaluate(dataset, samples, data_root, predictions):
     rows, missing, failed = [], [], []
     for sample in samples:
         path = predictions / sample.prediction
+        if not path.is_file():   # MLLM counts are saved as text
+            path = path.with_suffix(".txt")
         if not path.is_file():
             missing.append(sample.id)
             continue

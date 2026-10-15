@@ -6,7 +6,7 @@ from pathlib import Path
 
 from .data import TASKS, load_manifest
 from .evaluate import evaluate
-from .generate import MODELS, generate
+from .generate import MLLMS, MODELS, generate
 
 
 def main(argv=None):
@@ -18,7 +18,7 @@ def main(argv=None):
         command.add_argument("--dataset", choices=TASKS, required=True)
         command.add_argument("--data-root", type=Path, default=Path("data"))
         command.add_argument("--n-samples", type=int, help="Use only the first N samples")
-    gen.add_argument("--model", choices=MODELS, required=True)
+    gen.add_argument("--model", choices=[*MODELS, *MLLMS], required=True)
     gen.add_argument("--output-dir", type=Path, help="Default: outputs/<model>/<dataset>")
     ev.add_argument("--predictions", type=Path, required=True, help="Folder of predictions")
     ev.add_argument("--output", type=Path, help="Optional JSON report with per-sample scores")
