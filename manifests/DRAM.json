@@ -1,0 +1,5006 @@
+{
+  "schema_version": 1,
+  "dataset": "DRAM",
+  "samples": [
+    {
+      "id": "test/realism/maurice-poirson/maurice-poirson-elegante-au-bois-de-bologne-1877.jpg",
+      "image": "ood_seg/DRAM/test/realism/maurice-poirson/maurice-poirson-elegante-au-bois-de-bologne-1877.jpg",
+      "prediction": "maurice-poirson-elegante-au-bois-de-bologne-1877.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/maurice-poirson/maurice-poirson-elegante-au-bois-de-bologne-1877.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/alfred-sisley/not_detected_238362.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/alfred-sisley/not_detected_238362.jpg",
+      "prediction": "not_detected_238362.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/alfred-sisley/not_detected_238362.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/giovanni-segantini-kuh-im-stall.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/giovanni-segantini-kuh-im-stall.jpg",
+      "prediction": "giovanni-segantini-kuh-im-stall.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/giovanni-segantini-kuh-im-stall.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque-wiki/Printemps_by_Charles-Emile_Jacque,_1859.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque-wiki/Printemps_by_Charles-Emile_Jacque,_1859.jpg",
+      "prediction": "Printemps_by_Charles-Emile_Jacque,_1859.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque-wiki/Printemps_by_Charles-Emile_Jacque,_1859.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1898_216031.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1898_216031.jpg",
+      "prediction": "1898_216031.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1898_216031.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/326195.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/326195.jpg",
+      "prediction": "326195.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/326195.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/an-anxious-moment-1878.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/an-anxious-moment-1878.jpg",
+      "prediction": "an-anxious-moment-1878.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/an-anxious-moment-1878.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_207133.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_207133.jpg",
+      "prediction": "1888_207133.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_207133.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/the-cliffs-at-etretat-after-the-storm-1870.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/the-cliffs-at-etretat-after-the-storm-1870.jpg",
+      "prediction": "the-cliffs-at-etretat-after-the-storm-1870.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/the-cliffs-at-etretat-after-the-storm-1870.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Best_of_Friends.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Best_of_Friends.jpg",
+      "prediction": "Best_of_Friends.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Best_of_Friends.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1888_212797.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1888_212797.jpg",
+      "prediction": "1888_212797.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1888_212797.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1933_251856.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1933_251856.jpg",
+      "prediction": "1933_251856.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1933_251856.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/a-group-of-horses-saltholmen-1906.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/a-group-of-horses-saltholmen-1906.jpg",
+      "prediction": "a-group-of-horses-saltholmen-1906.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/a-group-of-horses-saltholmen-1906.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/end-of-the-season-sun.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/end-of-the-season-sun.jpg",
+      "prediction": "end-of-the-season-sun.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/end-of-the-season-sun.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1862_212791.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1862_212791.jpg",
+      "prediction": "1862_212791.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1862_212791.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/the-birthday-present-1923.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/the-birthday-present-1923.jpg",
+      "prediction": "the-birthday-present-1923.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/the-birthday-present-1923.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/giovanni-segantini-spinning-google-art-project.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/giovanni-segantini-spinning-google-art-project.jpg",
+      "prediction": "giovanni-segantini-spinning-google-art-project.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/giovanni-segantini-spinning-google-art-project.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/beach-in-normandy.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/beach-in-normandy.jpg",
+      "prediction": "beach-in-normandy.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/beach-in-normandy.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz_Marc_-_Zwei_Katzen.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz_Marc_-_Zwei_Katzen.jpg",
+      "prediction": "Franz_Marc_-_Zwei_Katzen.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz_Marc_-_Zwei_Katzen.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191746.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191746.jpg",
+      "prediction": "191746.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191746.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/maurice-de-vlaminck/still-life-with-pears.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/maurice-de-vlaminck/still-life-with-pears.jpg",
+      "prediction": "still-life-with-pears.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/maurice-de-vlaminck/still-life-with-pears.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/three-ducks-1938.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/three-ducks-1938.jpg",
+      "prediction": "three-ducks-1938.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/three-ducks-1938.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/31660.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/31660.jpg",
+      "prediction": "31660.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/31660.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/camille-pissarro/1889_208541.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/camille-pissarro/1889_208541.jpg",
+      "prediction": "1889_208541.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/camille-pissarro/1889_208541.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/62581.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/62581.jpg",
+      "prediction": "62581.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/62581.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/nina-arbore/nina-arbore-portret-de-femeie.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/nina-arbore/nina-arbore-portret-de-femeie.jpg",
+      "prediction": "nina-arbore-portret-de-femeie.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/nina-arbore/nina-arbore-portret-de-femeie.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/woman-by-a-window-feeding-her-dog.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/woman-by-a-window-feeding-her-dog.jpg",
+      "prediction": "woman-by-a-window-feeding-her-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/woman-by-a-window-feeding-her-dog.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/1886_207102.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/1886_207102.jpg",
+      "prediction": "1886_207102.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/1886_207102.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1899_230348.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1899_230348.jpg",
+      "prediction": "1899_230348.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1899_230348.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1922_253259.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1922_253259.jpg",
+      "prediction": "1922_253259.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1922_253259.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/model-writing-postcards-1906(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/model-writing-postcards-1906(1).jpg",
+      "prediction": "model-writing-postcards-1906(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/model-writing-postcards-1906(1).png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1895_185454.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1895_185454.jpg",
+      "prediction": "1895_185454.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1895_185454.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/giovanni-fattori/bauer-mit-ochsenkarren-1900.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/giovanni-fattori/bauer-mit-ochsenkarren-1900.jpg",
+      "prediction": "bauer-mit-ochsenkarren-1900.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/giovanni-fattori/bauer-mit-ochsenkarren-1900.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/elin-danielson-gambogi-sailing-c1890-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/elin-danielson-gambogi-sailing-c1890-1.jpg",
+      "prediction": "elin-danielson-gambogi-sailing-c1890-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/elin-danielson-gambogi-sailing-c1890-1.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/marc-chagall/202997.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/marc-chagall/202997.jpg",
+      "prediction": "202997.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/marc-chagall/202997.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/g-s-1899.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/g-s-1899.jpg",
+      "prediction": "g-s-1899.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/g-s-1899.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254757.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254757.jpg",
+      "prediction": "1911_254757.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254757.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/franz-marc/1913_254725.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/franz-marc/1913_254725.jpg",
+      "prediction": "1913_254725.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/franz-marc/1913_254725.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/at-the-kitchen-1913.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/at-the-kitchen-1913.jpg",
+      "prediction": "at-the-kitchen-1913.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/at-the-kitchen-1913.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1865_212075.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1865_212075.jpg",
+      "prediction": "1865_212075.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1865_212075.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1913_249294.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1913_249294.jpg",
+      "prediction": "1913_249294.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1913_249294.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191736.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191736.jpg",
+      "prediction": "191736.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191736.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/wassily-kandisky/rapallo-boats.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/wassily-kandisky/rapallo-boats.jpg",
+      "prediction": "rapallo-boats.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/wassily-kandisky/rapallo-boats.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342576.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342576.jpg",
+      "prediction": "342576.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342576.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1932_253275.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1932_253275.jpg",
+      "prediction": "1932_253275.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1932_253275.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/the-last-of-the-crew-1883.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/the-last-of-the-crew-1883.jpg",
+      "prediction": "the-last-of-the-crew-1883.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/the-last-of-the-crew-1883.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1892_215941.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1892_215941.jpg",
+      "prediction": "1892_215941.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1892_215941.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/reflection.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/reflection.jpg",
+      "prediction": "reflection.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/reflection.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_206957.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_206957.jpg",
+      "prediction": "1890_206957.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_206957.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque-wiki/Charles_Emile_Jacque_-_retour_du_troupeau_-_Tweed_museum.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque-wiki/Charles_Emile_Jacque_-_retour_du_troupeau_-_Tweed_museum.jpg",
+      "prediction": "Charles_Emile_Jacque_-_retour_du_troupeau_-_Tweed_museum.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque-wiki/Charles_Emile_Jacque_-_retour_du_troupeau_-_Tweed_museum.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1885_212777.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1885_212777.jpg",
+      "prediction": "1885_212777.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1885_212777.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342568.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342568.jpg",
+      "prediction": "342568.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342568.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_Esel_und_Hahn_im_Stall.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_Esel_und_Hahn_im_Stall.jpg",
+      "prediction": "Henriette_Ronner-Knip_Esel_und_Hahn_im_Stall.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_Esel_und_Hahn_im_Stall.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/fr-hlingsweide-1896.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/fr-hlingsweide-1896.jpg",
+      "prediction": "fr-hlingsweide-1896.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/fr-hlingsweide-1896.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1910_251915.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1910_251915.jpg",
+      "prediction": "1910_251915.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1910_251915.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/julius-leblanc-stewart/quiet-day-on-the-seine-1880(1).jpg",
+      "image": "ood_seg/DRAM/test/realism/julius-leblanc-stewart/quiet-day-on-the-seine-1880(1).jpg",
+      "prediction": "quiet-day-on-the-seine-1880(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/julius-leblanc-stewart/quiet-day-on-the-seine-1880(1).png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1863_211711.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1863_211711.jpg",
+      "prediction": "1863_211711.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1863_211711.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/franz-marc/Franz_marc_two_cats.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/franz-marc/Franz_marc_two_cats.jpg",
+      "prediction": "Franz_marc_two_cats.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/franz-marc/Franz_marc_two_cats.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henry-william-banks-davis/midday.jpg",
+      "image": "ood_seg/DRAM/test/realism/henry-william-banks-davis/midday.jpg",
+      "prediction": "midday.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henry-william-banks-davis/midday.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1886_207117.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1886_207117.jpg",
+      "prediction": "1886_207117.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1886_207117.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_207185.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_207185.jpg",
+      "prediction": "1889_207185.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_207185.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/47588.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/47588.jpg",
+      "prediction": "47588.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/47588.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/giovanni-boldini/the-actress-rejane-and-her-dog.jpg",
+      "image": "ood_seg/DRAM/test/realism/giovanni-boldini/the-actress-rejane-and-her-dog.jpg",
+      "prediction": "the-actress-rejane-and-her-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/giovanni-boldini/the-actress-rejane-and-her-dog.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/alexej-von-jawlensky/1918_345895.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/alexej-von-jawlensky/1918_345895.jpg",
+      "prediction": "1918_345895.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/alexej-von-jawlensky/1918_345895.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/camille-pissarro/1886_208543.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/camille-pissarro/1886_208543.jpg",
+      "prediction": "1886_208543.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/camille-pissarro/1886_208543.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/robert-falk/falk-rr-butilki-i-kuvshin-1912.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/robert-falk/falk-rr-butilki-i-kuvshin-1912.jpg",
+      "prediction": "falk-rr-butilki-i-kuvshin-1912.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/robert-falk/falk-rr-butilki-i-kuvshin-1912.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_207381.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_207381.jpg",
+      "prediction": "1889_207381.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_207381.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1931_252133.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1931_252133.jpg",
+      "prediction": "1931_252133.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1931_252133.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/640px-Henriette-ronner-yorkshire-terrier.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/640px-Henriette-ronner-yorkshire-terrier.jpg",
+      "prediction": "640px-Henriette-ronner-yorkshire-terrier.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/640px-Henriette-ronner-yorkshire-terrier.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1869_211760.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1869_211760.jpg",
+      "prediction": "1869_211760.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1869_211760.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/31615.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/31615.jpg",
+      "prediction": "31615.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/31615.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1880_215573.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1880_215573.jpg",
+      "prediction": "1880_215573.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1880_215573.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-Chimney.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-Chimney.jpg",
+      "prediction": "640px-Henriette_Ronner-Knip-Chimney.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-Chimney.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/still-life-with-clogs-and-pots-1884.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/still-life-with-clogs-and-pots-1884.jpg",
+      "prediction": "still-life-with-clogs-and-pots-1884.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/still-life-with-clogs-and-pots-1884.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque/342276.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque/342276.jpg",
+      "prediction": "342276.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque/342276.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/nikolai-yaroshenko/life-is-everywhere-1888.jpg",
+      "image": "ood_seg/DRAM/test/realism/nikolai-yaroshenko/life-is-everywhere-1888.jpg",
+      "prediction": "life-is-everywhere-1888.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/nikolai-yaroshenko/life-is-everywhere-1888.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254752.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254752.jpg",
+      "prediction": "1911_254752.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254752.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1882_212234.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1882_212234.jpg",
+      "prediction": "1882_212234.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1882_212234.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/max-beckmann/1933_9223372032559831017.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/max-beckmann/1933_9223372032559831017.jpg",
+      "prediction": "1933_9223372032559831017.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/max-beckmann/1933_9223372032559831017.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/273282.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/273282.jpg",
+      "prediction": "273282.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/273282.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/30473.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/30473.jpg",
+      "prediction": "30473.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/30473.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1883_211780.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1883_211780.jpg",
+      "prediction": "1883_211780.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1883_211780.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244812.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244812.jpg",
+      "prediction": "244812.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244812.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254777.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254777.jpg",
+      "prediction": "1911_254777.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254777.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191719.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191719.jpg",
+      "prediction": "191719.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191719.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/roosters-and-chicks-1928.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/roosters-and-chicks-1928.jpg",
+      "prediction": "roosters-and-chicks-1928.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/roosters-and-chicks-1928.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/alexej-von-jawlensky/1905_345896.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/alexej-von-jawlensky/1905_345896.jpg",
+      "prediction": "1905_345896.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/alexej-von-jawlensky/1905_345896.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/roderic-oconor/tate-tate-t00133-10-001.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/roderic-oconor/tate-tate-t00133-10-001.jpg",
+      "prediction": "tate-tate-t00133-10-001.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/roderic-oconor/tate-tate-t00133-10-001.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henrique-pousao/310206.jpg",
+      "image": "ood_seg/DRAM/test/realism/henrique-pousao/310206.jpg",
+      "prediction": "310206.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henrique-pousao/310206.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1909_185419.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1909_185419.jpg",
+      "prediction": "1909_185419.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1909_185419.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/36054.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/36054.jpg",
+      "prediction": "36054.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/36054.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/alexej-von-jawlensky/stilleben-mit-weinflasche-1904.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/alexej-von-jawlensky/stilleben-mit-weinflasche-1904.jpg",
+      "prediction": "stilleben-mit-weinflasche-1904.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/alexej-von-jawlensky/stilleben-mit-weinflasche-1904.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_206809.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_206809.jpg",
+      "prediction": "1889_206809.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_206809.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/beatrix-potter/simpkin-at-the-tailor-s-bedside.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/beatrix-potter/simpkin-at-the-tailor-s-bedside.jpg",
+      "prediction": "simpkin-at-the-tailor-s-bedside.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/beatrix-potter/simpkin-at-the-tailor-s-bedside.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vasily-vereshchagin/kalmyk-lama-1870.jpg",
+      "image": "ood_seg/DRAM/test/realism/vasily-vereshchagin/kalmyk-lama-1870.jpg",
+      "prediction": "kalmyk-lama-1870.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vasily-vereshchagin/kalmyk-lama-1870.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/gerrit-dou/a-sleeping-dog-with-terracotta-pot-1650.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/gerrit-dou/a-sleeping-dog-with-terracotta-pot-1650.jpg",
+      "prediction": "a-sleeping-dog-with-terracotta-pot-1650.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/gerrit-dou/a-sleeping-dog-with-terracotta-pot-1650.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/nikolay-bogdanov-belsky/still-life-with-a-bottle-of-vine.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/nikolay-bogdanov-belsky/still-life-with-a-bottle-of-vine.jpg",
+      "prediction": "still-life-with-a-bottle-of-vine.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/nikolay-bogdanov-belsky/still-life-with-a-bottle-of-vine.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/an-eagle-1941.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/an-eagle-1941.jpg",
+      "prediction": "an-eagle-1941.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/an-eagle-1941.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/maria-bozoky/9223372032559843277.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/maria-bozoky/9223372032559843277.jpg",
+      "prediction": "9223372032559843277.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/maria-bozoky/9223372032559843277.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/31152.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/31152.jpg",
+      "prediction": "31152.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/31152.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1877_233796.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1877_233796.jpg",
+      "prediction": "1877_233796.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1877_233796.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/maurice-poirson/maurice-poirson-la-lecture-et-la-m-ditation.jpg",
+      "image": "ood_seg/DRAM/test/realism/maurice-poirson/maurice-poirson-la-lecture-et-la-m-ditation.jpg",
+      "prediction": "maurice-poirson-la-lecture-et-la-m-ditation.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/maurice-poirson/maurice-poirson-la-lecture-et-la-m-ditation.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/a-blockade-runner-1888.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/a-blockade-runner-1888.jpg",
+      "prediction": "a-blockade-runner-1888.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/a-blockade-runner-1888.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/bartolome-esteban-murillo/83418.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/bartolome-esteban-murillo/83418.jpg",
+      "prediction": "83418.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/bartolome-esteban-murillo/83418.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191901.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191901.jpg",
+      "prediction": "191901.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191901.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/camille-pissarro/1889_208183.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/camille-pissarro/1889_208183.jpg",
+      "prediction": "1889_208183.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/camille-pissarro/1889_208183.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/landscape-with-cattle-1917.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/landscape-with-cattle-1917.jpg",
+      "prediction": "landscape-with-cattle-1917.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/landscape-with-cattle-1917.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vasily-vereshchagin/cannibal.jpg",
+      "image": "ood_seg/DRAM/test/realism/vasily-vereshchagin/cannibal.jpg",
+      "prediction": "cannibal.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vasily-vereshchagin/cannibal.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1911_249272.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1911_249272.jpg",
+      "prediction": "1911_249272.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1911_249272.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1909_252194.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1909_252194.jpg",
+      "prediction": "1909_252194.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1909_252194.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1890_230416.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1890_230416.jpg",
+      "prediction": "1890_230416.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1890_230416.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/fujishima-takeji/an-amazon-by-fujishima-takeji.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/fujishima-takeji/an-amazon-by-fujishima-takeji.jpg",
+      "prediction": "an-amazon-by-fujishima-takeji.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/fujishima-takeji/an-amazon-by-fujishima-takeji.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309312.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309312.jpg",
+      "prediction": "309312.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309312.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1912_254660.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1912_254660.jpg",
+      "prediction": "1912_254660.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1912_254660.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/valentin-serov/portrait-of-count-feliks-feliksovich-sumarokov-yelstov-later-prince-yusupov-1903.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/valentin-serov/portrait-of-count-feliks-feliksovich-sumarokov-yelstov-later-prince-yusupov-1903.jpg",
+      "prediction": "portrait-of-count-feliks-feliksovich-sumarokov-yelstov-later-prince-yusupov-1903.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/valentin-serov/portrait-of-count-feliks-feliksovich-sumarokov-yelstov-later-prince-yusupov-1903.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1911_9223372032559848062.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1911_9223372032559848062.jpg",
+      "prediction": "1911_9223372032559848062.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1911_9223372032559848062.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/danielson-gambogi-kalastajaveneit.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/danielson-gambogi-kalastajaveneit.jpg",
+      "prediction": "danielson-gambogi-kalastajaveneit.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/danielson-gambogi-kalastajaveneit.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vasily-vereshchagin/triumph-1872.jpg",
+      "image": "ood_seg/DRAM/test/realism/vasily-vereshchagin/triumph-1872.jpg",
+      "prediction": "triumph-1872.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vasily-vereshchagin/triumph-1872.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/dedham-landscape.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/dedham-landscape.jpg",
+      "prediction": "dedham-landscape.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/dedham-landscape.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/nikolai-aleksandrovich-tarkhov/Nikolai+Aleksandrovich+Tarkhov-Sheep+In+The+Stable+In+Perigord.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/nikolai-aleksandrovich-tarkhov/Nikolai+Aleksandrovich+Tarkhov-Sheep+In+The+Stable+In+Perigord.jpg",
+      "prediction": "Nikolai+Aleksandrovich+Tarkhov-Sheep+In+The+Stable+In+Perigord.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/nikolai-aleksandrovich-tarkhov/Nikolai+Aleksandrovich+Tarkhov-Sheep+In+The+Stable+In+Perigord.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/hangover-1889.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/hangover-1889.jpg",
+      "prediction": "hangover-1889.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/hangover-1889.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/eagle.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/eagle.jpg",
+      "prediction": "eagle.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/eagle.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/edelfelt-albert/albert-edelfelt-going-to-the-christening-1880.jpg",
+      "image": "ood_seg/DRAM/test/realism/edelfelt-albert/albert-edelfelt-going-to-the-christening-1880.jpg",
+      "prediction": "albert-edelfelt-going-to-the-christening-1880.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/edelfelt-albert/albert-edelfelt-going-to-the-christening-1880.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/pierre-auguste-renoir/child-with-cat-julie-manet-1887.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/pierre-auguste-renoir/child-with-cat-julie-manet-1887.jpg",
+      "prediction": "child-with-cat-julie-manet-1887.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/pierre-auguste-renoir/child-with-cat-julie-manet-1887.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191972.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191972.jpg",
+      "prediction": "191972.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191972.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206165.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206165.jpg",
+      "prediction": "1888_206165.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206165.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858512.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858512.jpg",
+      "prediction": "unknown-year_9223372032559858512.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858512.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/henri-de-toulouse-lautrec/1897_230473.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/henri-de-toulouse-lautrec/1897_230473.jpg",
+      "prediction": "1897_230473.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/henri-de-toulouse-lautrec/1897_230473.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/plowing(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/plowing(1).jpg",
+      "prediction": "plowing(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/plowing(1).png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1907_185338.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1907_185338.jpg",
+      "prediction": "1907_185338.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1907_185338.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342577.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342577.jpg",
+      "prediction": "342577.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342577.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/albert-anker/jeune-fille-nourrissant-les-poules-1865.jpg",
+      "image": "ood_seg/DRAM/test/realism/albert-anker/jeune-fille-nourrissant-les-poules-1865.jpg",
+      "prediction": "jeune-fille-nourrissant-les-poules-1865.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/albert-anker/jeune-fille-nourrissant-les-poules-1865.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254722.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254722.jpg",
+      "prediction": "1911_254722.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254722.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/albert-anker/die-bauern-und-die-zeitung-1867.jpg",
+      "image": "ood_seg/DRAM/test/realism/albert-anker/die-bauern-und-die-zeitung-1867.jpg",
+      "prediction": "die-bauern-und-die-zeitung-1867.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/albert-anker/die-bauern-und-die-zeitung-1867.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1907_185382.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1907_185382.jpg",
+      "prediction": "1907_185382.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1907_185382.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342563.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342563.jpg",
+      "prediction": "342563.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342563.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/pierre-bonnard/1913_221895.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/pierre-bonnard/1913_221895.jpg",
+      "prediction": "1913_221895.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/pierre-bonnard/1913_221895.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/the-long-sleep-1868.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/the-long-sleep-1868.jpg",
+      "prediction": "the-long-sleep-1868.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/the-long-sleep-1868.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/1885_207012.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/1885_207012.jpg",
+      "prediction": "1885_207012.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/1885_207012.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/summertime-1894.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/summertime-1894.jpg",
+      "prediction": "summertime-1894.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/summertime-1894.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_-_Poes_met_jongen.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_-_Poes_met_jongen.jpg",
+      "prediction": "Henriette_Ronner-Knip_-_Poes_met_jongen.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip_-_Poes_met_jongen.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/326189.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/326189.jpg",
+      "prediction": "326189.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/326189.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/vase-with-carnations-and-bottle-1886.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/vase-with-carnations-and-bottle-1886.jpg",
+      "prediction": "vase-with-carnations-and-bottle-1886.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/vase-with-carnations-and-bottle-1886.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1880_230430.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1880_230430.jpg",
+      "prediction": "1880_230430.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1880_230430.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henrique-pousao/310204.jpg",
+      "image": "ood_seg/DRAM/test/realism/henrique-pousao/310204.jpg",
+      "prediction": "310204.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henrique-pousao/310204.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/pierre-bonnard/1905_221847.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/pierre-bonnard/1905_221847.jpg",
+      "prediction": "1905_221847.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/pierre-bonnard/1905_221847.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/sara-with-her-dog-1901.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/sara-with-her-dog-1901.jpg",
+      "prediction": "sara-with-her-dog-1901.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/sara-with-her-dog-1901.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1880_233962.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1880_233962.jpg",
+      "prediction": "1880_233962.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1880_233962.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/at-the-races-1899.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/at-the-races-1899.jpg",
+      "prediction": "at-the-races-1899.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/at-the-races-1899.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/francisco-de-zurbaran/agnus-dei-1640-1.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/francisco-de-zurbaran/agnus-dei-1640-1.jpg",
+      "prediction": "agnus-dei-1640-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/francisco-de-zurbaran/agnus-dei-1640-1.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/afternoon-in-the-norfolk-meadows.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/afternoon-in-the-norfolk-meadows.jpg",
+      "prediction": "afternoon-in-the-norfolk-meadows.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/afternoon-in-the-norfolk-meadows.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244785.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244785.jpg",
+      "prediction": "244785.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244785.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/albert-anker/display-image.jpg",
+      "image": "ood_seg/DRAM/test/realism/albert-anker/display-image.jpg",
+      "prediction": "display-image.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/albert-anker/display-image.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/beatrix-potter/simpkin-housekeeping-1902.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/beatrix-potter/simpkin-housekeeping-1902.jpg",
+      "prediction": "simpkin-housekeeping-1902.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/beatrix-potter/simpkin-housekeeping-1902.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/albert-anker/grandmother.jpg",
+      "image": "ood_seg/DRAM/test/realism/albert-anker/grandmother.jpg",
+      "prediction": "grandmother.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/albert-anker/grandmother.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/running-horse-1941.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/running-horse-1941.jpg",
+      "prediction": "running-horse-1941.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/running-horse-1941.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/william-sidney-cooper/HerneMill_1914.jpg",
+      "image": "ood_seg/DRAM/test/realism/william-sidney-cooper/HerneMill_1914.jpg",
+      "prediction": "HerneMill_1914.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/william-sidney-cooper/HerneMill_1914.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/japonism/mary-cassatt/feeding-the-ducks-1895.jpg",
+      "image": "ood_seg/DRAM/test/unseen/japonism/mary-cassatt/feeding-the-ducks-1895.jpg",
+      "prediction": "feeding-the-ducks-1895.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/japonism/mary-cassatt/feeding-the-ducks-1895.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/japonism/pierre-bonnard/1894_222090.jpg",
+      "image": "ood_seg/DRAM/test/unseen/japonism/pierre-bonnard/1894_222090.jpg",
+      "prediction": "1894_222090.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/japonism/pierre-bonnard/1894_222090.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/ivan-kramskoy/books-got-her-1872.jpg",
+      "image": "ood_seg/DRAM/test/realism/ivan-kramskoy/books-got-her-1872.jpg",
+      "prediction": "books-got-her-1872.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/ivan-kramskoy/books-got-her-1872.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1882_212795.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1882_212795.jpg",
+      "prediction": "1882_212795.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1882_212795.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/william-orpen/ready-to-start-self-portrait-6-octobre-1917.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/william-orpen/ready-to-start-self-portrait-6-octobre-1917.jpg",
+      "prediction": "ready-to-start-self-portrait-6-octobre-1917.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/william-orpen/ready-to-start-self-portrait-6-octobre-1917.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/portrait-of-mie-louise-durand-ruel-1911.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/portrait-of-mie-louise-durand-ruel-1911.jpg",
+      "prediction": "portrait-of-mie-louise-durand-ruel-1911.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/portrait-of-mie-louise-durand-ruel-1911.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/cattle-in-moonlight.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/cattle-in-moonlight.jpg",
+      "prediction": "cattle-in-moonlight.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/cattle-in-moonlight.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/a-late-riser-s-miserable-breakfast-1900(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/a-late-riser-s-miserable-breakfast-1900(1).jpg",
+      "prediction": "a-late-riser-s-miserable-breakfast-1900(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/a-late-riser-s-miserable-breakfast-1900(1).png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1914_252257.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1914_252257.jpg",
+      "prediction": "1914_252257.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1914_252257.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/47077.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/47077.jpg",
+      "prediction": "47077.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/47077.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/louis-marcoussis/nature-morte-cubiste-1914.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/louis-marcoussis/nature-morte-cubiste-1914.jpg",
+      "prediction": "nature-morte-cubiste-1914.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/louis-marcoussis/nature-morte-cubiste-1914.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/wassily-kandisky/rapallo-grauer-day-1905.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/wassily-kandisky/rapallo-grauer-day-1905.jpg",
+      "prediction": "rapallo-grauer-day-1905.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/wassily-kandisky/rapallo-grauer-day-1905.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244813.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244813.jpg",
+      "prediction": "244813.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244813.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/273249.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/273249.jpg",
+      "prediction": "273249.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/273249.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/rooster-1943.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/rooster-1943.jpg",
+      "prediction": "rooster-1943.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/rooster-1943.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/cattle-seen-against-the-sun-on-the-island-of-saltholm-a-color-study-1892.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/cattle-seen-against-the-sun-on-the-island-of-saltholm-a-color-study-1892.jpg",
+      "prediction": "cattle-seen-against-the-sun-on-the-island-of-saltholm-a-color-study-1892.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/cattle-seen-against-the-sun-on-the-island-of-saltholm-a-color-study-1892.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/pablo-picasso/cat-eating-a-bird-1939.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/pablo-picasso/cat-eating-a-bird-1939.jpg",
+      "prediction": "cat-eating-a-bird-1939.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/pablo-picasso/cat-eating-a-bird-1939.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/franz-marc/large-lenggries-horses-1908.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/franz-marc/large-lenggries-horses-1908.jpg",
+      "prediction": "large-lenggries-horses-1908.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/franz-marc/large-lenggries-horses-1908.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/japonism/vasily-vereshchagin/japanese-1903.jpg",
+      "image": "ood_seg/DRAM/test/unseen/japonism/vasily-vereshchagin/japanese-1903.jpg",
+      "prediction": "japanese-1903.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/japonism/vasily-vereshchagin/japanese-1903.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1881_230567.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1881_230567.jpg",
+      "prediction": "1881_230567.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1881_230567.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/68788.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/68788.jpg",
+      "prediction": "68788.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/68788.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_the_maine_coon.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_the_maine_coon.jpg",
+      "prediction": "640px-Henriette_ronner-knip_the_maine_coon.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_the_maine_coon.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/beatrix-potter/the-tailor-by-the-heat-1902.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/beatrix-potter/the-tailor-by-the-heat-1902.jpg",
+      "prediction": "the-tailor-by-the-heat-1902.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/beatrix-potter/the-tailor-by-the-heat-1902.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/cowgirl-in-the-meadow-1906(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/cowgirl-in-the-meadow-1906(1).jpg",
+      "prediction": "cowgirl-in-the-meadow-1906(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/cowgirl-in-the-meadow-1906(1).png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1893_215943.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1893_215943.jpg",
+      "prediction": "1893_215943.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1893_215943.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/maurice-poirson/maurice-poirson-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/maurice-poirson/maurice-poirson-1.jpg",
+      "prediction": "maurice-poirson-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/maurice-poirson/maurice-poirson-1.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/99912.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/99912.jpg",
+      "prediction": "99912.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/99912.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/eagle-1935.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/eagle-1935.jpg",
+      "prediction": "eagle-1935.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/eagle-1935.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/stefan-luchian/shepherdess.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/stefan-luchian/shepherdess.jpg",
+      "prediction": "shepherdess.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/stefan-luchian/shepherdess.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1919_253249.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1919_253249.jpg",
+      "prediction": "1919_253249.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1919_253249.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/homeward-at-milking-time-evening-saltholm-1897.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/homeward-at-milking-time-evening-saltholm-1897.jpg",
+      "prediction": "homeward-at-milking-time-evening-saltholm-1897.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/homeward-at-milking-time-evening-saltholm-1897.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309280.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309280.jpg",
+      "prediction": "309280.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309280.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/r-ckkehr-zum-schafstall-1891-92.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/r-ckkehr-zum-schafstall-1891-92.jpg",
+      "prediction": "r-ckkehr-zum-schafstall-1891-92.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/r-ckkehr-zum-schafstall-1891-92.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/anna-ancher/1913_9223372032559822513.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/anna-ancher/1913_9223372032559822513.jpg",
+      "prediction": "1913_9223372032559822513.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/anna-ancher/1913_9223372032559822513.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191712.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191712.jpg",
+      "prediction": "191712.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191712.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1912_254673.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1912_254673.jpg",
+      "prediction": "1912_254673.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1912_254673.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_cat_nap.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_cat_nap.jpg",
+      "prediction": "640px-Henriette_ronner-knip_cat_nap.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/640px-Henriette_ronner-knip_cat_nap.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342580.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342580.jpg",
+      "prediction": "342580.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342580.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/52778.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/52778.jpg",
+      "prediction": "52778.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/52778.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon-wiki/728px-NATURE_MORTE_AU_HARENG.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon-wiki/728px-NATURE_MORTE_AU_HARENG.jpg",
+      "prediction": "728px-NATURE_MORTE_AU_HARENG.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon-wiki/728px-NATURE_MORTE_AU_HARENG.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/antonio-jacobsen/steamship-oscar-ii-entering-new-york-harbor.jpg",
+      "image": "ood_seg/DRAM/test/realism/antonio-jacobsen/steamship-oscar-ii-entering-new-york-harbor.jpg",
+      "prediction": "steamship-oscar-ii-entering-new-york-harbor.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/antonio-jacobsen/steamship-oscar-ii-entering-new-york-harbor.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/lazy-nook-1897(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/lazy-nook-1897(1).jpg",
+      "prediction": "lazy-nook-1897(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/lazy-nook-1897(1).png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/maria-bozoky/9223372032559842818.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/maria-bozoky/9223372032559842818.jpg",
+      "prediction": "9223372032559842818.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/maria-bozoky/9223372032559842818.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1919_251870.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1919_251870.jpg",
+      "prediction": "1919_251870.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1919_251870.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/alfred-sisley/goose-girl.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/alfred-sisley/goose-girl.jpg",
+      "prediction": "alfred-sisley-goose-girl.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/alfred-sisley/goose-girl.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_205966.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_205966.jpg",
+      "prediction": "1888_205966.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_205966.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/max-beckmann/1943_259800.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/max-beckmann/1943_259800.jpg",
+      "prediction": "1943_259800.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/max-beckmann/1943_259800.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/samuel-peploe/still-life-painter-s-materials-1899.jpg",
+      "image": "ood_seg/DRAM/test/realism/samuel-peploe/still-life-painter-s-materials-1899.jpg",
+      "prediction": "still-life-painter-s-materials-1899.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/samuel-peploe/still-life-painter-s-materials-1899.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254682.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254682.jpg",
+      "prediction": "1911_254682.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254682.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/79779.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/79779.jpg",
+      "prediction": "79779.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/79779.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/rudolf-lang/9223372032559843426.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/rudolf-lang/9223372032559843426.jpg",
+      "prediction": "9223372032559843426.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/rudolf-lang/9223372032559843426.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/on-the-way-to-the-market-1859.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/on-the-way-to-the-market-1859.jpg",
+      "prediction": "on-the-way-to-the-market-1859.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/on-the-way-to-the-market-1859.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254748.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254748.jpg",
+      "prediction": "1911_254748.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254748.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/franz-marc/Franz_marc_cats.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/franz-marc/Franz_marc_cats.jpg",
+      "prediction": "Franz_marc_cats.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/franz-marc/Franz_marc_cats.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1888_233801.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1888_233801.jpg",
+      "prediction": "1888_233801.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1888_233801.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/326185.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/326185.jpg",
+      "prediction": "326185.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/326185.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1888_215855.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1888_215855.jpg",
+      "prediction": "1888_215855.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1888_215855.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_207049.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_207049.jpg",
+      "prediction": "1887_207049.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_207049.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1893_185352.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1893_185352.jpg",
+      "prediction": "1893_185352.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1893_185352.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/fishing-boats-on-the-deauville-beach-1866.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/fishing-boats-on-the-deauville-beach-1866.jpg",
+      "prediction": "fishing-boats-on-the-deauville-beach-1866.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/fishing-boats-on-the-deauville-beach-1866.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/273276.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/273276.jpg",
+      "prediction": "273276.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/273276.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque/342284.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque/342284.jpg",
+      "prediction": "342284.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque/342284.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/alexej-von-jawlensky/1915_345935.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/alexej-von-jawlensky/1915_345935.jpg",
+      "prediction": "1915_345935.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/alexej-von-jawlensky/1915_345935.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/kees-van-dongen/302927.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/kees-van-dongen/302927.jpg",
+      "prediction": "302927.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/kees-van-dongen/302927.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1932_253248.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1932_253248.jpg",
+      "prediction": "1932_253248.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1932_253248.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/nadezda-petrovic/1907_9223372032559846798.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/nadezda-petrovic/1907_9223372032559846798.jpg",
+      "prediction": "1907_9223372032559846798.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/nadezda-petrovic/1907_9223372032559846798.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/gwen-john/young-woman-holding-a-black-cat.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/gwen-john/young-woman-holding-a-black-cat.jpg",
+      "prediction": "young-woman-holding-a-black-cat.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/gwen-john/young-woman-holding-a-black-cat.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_206709.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_206709.jpg",
+      "prediction": "1890_206709.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_206709.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206452.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206452.jpg",
+      "prediction": "1888_206452.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206452.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/maxime-maufra/the-port-of-la-rochelle-at-twilight-1911.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/maxime-maufra/the-port-of-la-rochelle-at-twilight-1911.jpg",
+      "prediction": "the-port-of-la-rochelle-at-twilight-1911.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/maxime-maufra/the-port-of-la-rochelle-at-twilight-1911.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/the-last-crunbs-1891.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/the-last-crunbs-1891.jpg",
+      "prediction": "the-last-crunbs-1891.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/the-last-crunbs-1891.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque/342292.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque/342292.jpg",
+      "prediction": "342292.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque/342292.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/anna-ancher/1905_9223372032559822572.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/anna-ancher/1905_9223372032559822572.jpg",
+      "prediction": "1905_9223372032559822572.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/anna-ancher/1905_9223372032559822572.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/rudolf-lang/9223372032559843429.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/rudolf-lang/9223372032559843429.jpg",
+      "prediction": "9223372032559843429.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/rudolf-lang/9223372032559843429.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_205715.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_205715.jpg",
+      "prediction": "1887_205715.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_205715.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1867_211945.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1867_211945.jpg",
+      "prediction": "1867_211945.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1867_211945.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/7306.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/7306.jpg",
+      "prediction": "7306.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/7306.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/at-the-circus-fernando-the-rider-1888.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/at-the-circus-fernando-the-rider-1888.jpg",
+      "prediction": "at-the-circus-fernando-the-rider-1888.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/at-the-circus-fernando-the-rider-1888.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/galloping-horse-1937.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/galloping-horse-1937.jpg",
+      "prediction": "galloping-horse-1937.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/galloping-horse-1937.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/giovanni-fattori/pause-in-the-maremma-with-farmers-and-ox-cart-1875.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/giovanni-fattori/pause-in-the-maremma-with-farmers-and-ox-cart-1875.jpg",
+      "prediction": "pause-in-the-maremma-with-farmers-and-ox-cart-1875.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/giovanni-fattori/pause-in-the-maremma-with-farmers-and-ox-cart-1875.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/fauvism/cuno-amiet/1910_322921.jpg",
+      "image": "ood_seg/DRAM/test/unseen/fauvism/cuno-amiet/1910_322921.jpg",
+      "prediction": "1910_322921.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/fauvism/cuno-amiet/1910_322921.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/De_Pianoles_door_Henriette_Ronner-Knip.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/De_Pianoles_door_Henriette_Ronner-Knip.jpg",
+      "prediction": "De_Pianoles_door_Henriette_Ronner-Knip.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/De_Pianoles_door_Henriette_Ronner-Knip.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/joseph-farquharson/sheep-in-the-snow.jpg",
+      "image": "ood_seg/DRAM/test/realism/joseph-farquharson/sheep-in-the-snow.jpg",
+      "prediction": "sheep-in-the-snow.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/joseph-farquharson/sheep-in-the-snow.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/konstantin-korovin/black-cat-on-a-windowsill-1902.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/konstantin-korovin/black-cat-on-a-windowsill-1902.jpg",
+      "prediction": "black-cat-on-a-windowsill-1902.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/konstantin-korovin/black-cat-on-a-windowsill-1902.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_206985.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_206985.jpg",
+      "prediction": "1887_206985.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_206985.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/theophile-steinlen/cats-1910.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/theophile-steinlen/cats-1910.jpg",
+      "prediction": "cats-1910.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/theophile-steinlen/cats-1910.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/portrait-of-i-e-tsvetkov-1890.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/portrait-of-i-e-tsvetkov-1890.jpg",
+      "prediction": "portrait-of-i-e-tsvetkov-1890.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/portrait-of-i-e-tsvetkov-1890.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1879_230356.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1879_230356.jpg",
+      "prediction": "1879_230356.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1879_230356.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz_Marc_024.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz_Marc_024.jpg",
+      "prediction": "Franz_Marc_024.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz_Marc_024.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/girl-with-seagulls-trouville-1865.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/girl-with-seagulls-trouville-1865.jpg",
+      "prediction": "girl-with-seagulls-trouville-1865.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/girl-with-seagulls-trouville-1865.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/freshness-of-morning-1920.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/freshness-of-morning-1920.jpg",
+      "prediction": "freshness-of-morning-1920.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/freshness-of-morning-1920.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/41720.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/41720.jpg",
+      "prediction": "41720.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/41720.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1912_249268.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1912_249268.jpg",
+      "prediction": "1912_249268.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1912_249268.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/anne-vallayer-coster/still-life-with-round-bottle-1770.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/anne-vallayer-coster/still-life-with-round-bottle-1770.jpg",
+      "prediction": "still-life-with-round-bottle-1770.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/anne-vallayer-coster/still-life-with-round-bottle-1770.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/fauvism/georges-braque/the-harbor-1906.jpg",
+      "image": "ood_seg/DRAM/test/unseen/fauvism/georges-braque/the-harbor-1906.jpg",
+      "prediction": "the-harbor-1906.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/fauvism/georges-braque/the-harbor-1906.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1880_211793.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1880_211793.jpg",
+      "prediction": "1880_211793.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1880_211793.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/gerrit-dou/the-herring-seller-1675.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/gerrit-dou/the-herring-seller-1675.jpg",
+      "prediction": "the-herring-seller-1675.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/gerrit-dou/the-herring-seller-1675.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/afternoon-by-the-sea-aka-gravesend-bay.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/afternoon-by-the-sea-aka-gravesend-bay.jpg",
+      "prediction": "afternoon-by-the-sea-aka-gravesend-bay.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/afternoon-by-the-sea-aka-gravesend-bay.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/jarnefelt-eero/j-rnefeltsavolaisvene.jpg",
+      "image": "ood_seg/DRAM/test/realism/jarnefelt-eero/j-rnefeltsavolaisvene.jpg",
+      "prediction": "j-rnefeltsavolaisvene.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/jarnefelt-eero/j-rnefeltsavolaisvene.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1883_233816.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1883_233816.jpg",
+      "prediction": "1883_233816.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1883_233816.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1890_185452.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1890_185452.jpg",
+      "prediction": "1890_185452.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1890_185452.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/lilla-cabot-perry/woman-with-a-cat-1901.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/lilla-cabot-perry/woman-with-a-cat-1901.jpg",
+      "prediction": "woman-with-a-cat-1901.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/lilla-cabot-perry/woman-with-a-cat-1901.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1886_206617.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1886_206617.jpg",
+      "prediction": "1886_206617.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1886_206617.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/elin-danielson-gambogi-still-life-a-1995-65-finnish-national-gallery-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/elin-danielson-gambogi-still-life-a-1995-65-finnish-national-gallery-1.jpg",
+      "prediction": "elin-danielson-gambogi-still-life-a-1995-65-finnish-national-gallery-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/elin-danielson-gambogi-still-life-a-1995-65-finnish-national-gallery-1.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/cattle-near-a-gate-saltholm.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/cattle-near-a-gate-saltholm.jpg",
+      "prediction": "cattle-near-a-gate-saltholm.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/cattle-near-a-gate-saltholm.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/cuno-amiet/1910_322916.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/cuno-amiet/1910_322916.jpg",
+      "prediction": "1910_322916.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/cuno-amiet/1910_322916.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/101010.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/101010.jpg",
+      "prediction": "101010.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/101010.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/anna-ancher/unknown-year_9223372032559822787.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/anna-ancher/unknown-year_9223372032559822787.jpg",
+      "prediction": "unknown-year_9223372032559822787.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/anna-ancher/unknown-year_9223372032559822787.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1895_215758.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1895_215758.jpg",
+      "prediction": "1895_215758.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1895_215758.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191914.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191914.jpg",
+      "prediction": "191914.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191914.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/18073.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/18073.jpg",
+      "prediction": "18073.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/18073.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/two-cats.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/two-cats.jpg",
+      "prediction": "two-cats.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/two-cats.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/maurice-poirson/527df972-b145-4f61-aa20-0fdd31ba373f-1-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/maurice-poirson/527df972-b145-4f61-aa20-0fdd31ba373f-1-1.jpg",
+      "prediction": "527df972-b145-4f61-aa20-0fdd31ba373f-1-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/maurice-poirson/527df972-b145-4f61-aa20-0fdd31ba373f-1-1.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1881_233916.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1881_233916.jpg",
+      "prediction": "1881_233916.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1881_233916.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/fauvism/georges-braque/ship-at-le-havre-1905.jpg",
+      "image": "ood_seg/DRAM/test/unseen/fauvism/georges-braque/ship-at-le-havre-1905.jpg",
+      "prediction": "ship-at-le-havre-1905.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/fauvism/georges-braque/ship-at-le-havre-1905.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/two-birds-1943.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/two-birds-1943.jpg",
+      "prediction": "two-birds-1943.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/two-birds-1943.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309316.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309316.jpg",
+      "prediction": "309316.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309316.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/mittag-in-den-alpen-1891.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/mittag-in-den-alpen-1891.jpg",
+      "prediction": "mittag-in-den-alpen-1891.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/mittag-in-den-alpen-1891.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1912_254729.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1912_254729.jpg",
+      "prediction": "1912_254729.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1912_254729.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/pierre-bonnard/unknown-year_221867.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/pierre-bonnard/unknown-year_221867.jpg",
+      "prediction": "unknown-year_221867.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/pierre-bonnard/unknown-year_221867.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/paul-cezanne/unknown-year_215875.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/paul-cezanne/unknown-year_215875.jpg",
+      "prediction": "unknown-year_215875.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/paul-cezanne/unknown-year_215875.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/kees-van-dongen/302935.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/kees-van-dongen/302935.jpg",
+      "prediction": "302935.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/kees-van-dongen/302935.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206362.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206362.jpg",
+      "prediction": "1888_206362.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206362.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-In_Front_Chimney.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-In_Front_Chimney.jpg",
+      "prediction": "640px-Henriette_Ronner-Knip-In_Front_Chimney.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/640px-Henriette_Ronner-Knip-In_Front_Chimney.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/franz-marc-wiki/Franz_marc-lying_dog_also_known_as_portrait_of_a_dog_.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/franz-marc-wiki/Franz_marc-lying_dog_also_known_as_portrait_of_a_dog_.jpg",
+      "prediction": "Franz_marc-lying_dog_also_known_as_portrait_of_a_dog_.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/franz-marc-wiki/Franz_marc-lying_dog_also_known_as_portrait_of_a_dog_.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/30585.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/30585.jpg",
+      "prediction": "30585.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/30585.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/bartolome-esteban-murillo/10167.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/bartolome-esteban-murillo/10167.jpg",
+      "prediction": "10167.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/bartolome-esteban-murillo/10167.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/rudolf-lang/9223372032559843412.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/rudolf-lang/9223372032559843412.jpg",
+      "prediction": "9223372032559843412.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/rudolf-lang/9223372032559843412.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319503.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319503.jpg",
+      "prediction": "319503.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319503.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1891_215946.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1891_215946.jpg",
+      "prediction": "1891_215946.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1891_215946.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/konstantinos-volanakis/greek-ship.jpg",
+      "image": "ood_seg/DRAM/test/realism/konstantinos-volanakis/greek-ship.jpg",
+      "prediction": "greek-ship.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/konstantinos-volanakis/greek-ship.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/francis-picabia/237011.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/francis-picabia/237011.jpg",
+      "prediction": "237011.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/francis-picabia/237011.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/pierre-bonnard/1899_221919.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/pierre-bonnard/1899_221919.jpg",
+      "prediction": "1899_221919.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/pierre-bonnard/1899_221919.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/louise_abbema/cae-19-abbema041.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/louise_abbema/cae-19-abbema041.jpg",
+      "prediction": "cae-19-abbema041.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/louise_abbema/cae-19-abbema041.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz-Marc-Flock-of-Sheep-II.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz-Marc-Flock-of-Sheep-II.jpg",
+      "prediction": "Franz-Marc-Flock-of-Sheep-II.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz-Marc-Flock-of-Sheep-II.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/joseph-farquharson/in-the-shade.jpg",
+      "image": "ood_seg/DRAM/test/realism/joseph-farquharson/in-the-shade.jpg",
+      "prediction": "in-the-shade.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/joseph-farquharson/in-the-shade.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/pride-of-place-1891.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/pride-of-place-1891.jpg",
+      "prediction": "pride-of-place-1891.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/pride-of-place-1891.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1913_251909.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1913_251909.jpg",
+      "prediction": "1913_251909.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1913_251909.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244789.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244789.jpg",
+      "prediction": "244789.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244789.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1897_230544.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1897_230544.jpg",
+      "prediction": "1897_230544.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1897_230544.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_205838.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_205838.jpg",
+      "prediction": "1890_205838.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_205838.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_206804.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_206804.jpg",
+      "prediction": "1889_206804.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_206804.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Katjesspel.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Katjesspel.jpg",
+      "prediction": "Katjesspel.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Katjesspel.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1872_212045.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1872_212045.jpg",
+      "prediction": "1872_212045.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1872_212045.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/pierre-auguste-renoir/tama-the-japanese-dog.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/pierre-auguste-renoir/tama-the-japanese-dog.jpg",
+      "prediction": "tama-the-japanese-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/pierre-auguste-renoir/tama-the-japanese-dog.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ding-yanyong/still-life-1972.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ding-yanyong/still-life-1972.jpg",
+      "prediction": "still-life-1972.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ding-yanyong/still-life-1972.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309329.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309329.jpg",
+      "prediction": "309329.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309329.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319500.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319500.jpg",
+      "prediction": "319500.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319500.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/two-sisters-1893.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/two-sisters-1893.jpg",
+      "prediction": "two-sisters-1893.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/two-sisters-1893.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191718.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191718.jpg",
+      "prediction": "191718.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191718.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/fisher-finland-1899.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/fisher-finland-1899.jpg",
+      "prediction": "fisher-finland-1899.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/fisher-finland-1899.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1899_230628.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1899_230628.jpg",
+      "prediction": "1899_230628.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1899_230628.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/56656.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/56656.jpg",
+      "prediction": "56656.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/56656.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/theodore-gericault/dead-cat.jpg",
+      "image": "ood_seg/DRAM/test/realism/theodore-gericault/dead-cat.jpg",
+      "prediction": "dead-cat.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/theodore-gericault/dead-cat.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342567.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342567.jpg",
+      "prediction": "342567.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342567.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206684.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206684.jpg",
+      "prediction": "1888_206684.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206684.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1868_211916.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1868_211916.jpg",
+      "prediction": "1868_211916.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1868_211916.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/cormorant-1931.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/cormorant-1931.jpg",
+      "prediction": "cormorant-1931.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/cormorant-1931.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/1885_206987.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/1885_206987.jpg",
+      "prediction": "1885_206987.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/1885_206987.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1906_185468.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1906_185468.jpg",
+      "prediction": "1906_185468.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1906_185468.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/326186.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/326186.jpg",
+      "prediction": "326186.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/326186.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/a-cow-in-a-landscape.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/a-cow-in-a-landscape.jpg",
+      "prediction": "a-cow-in-a-landscape.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/a-cow-in-a-landscape.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_206350.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_206350.jpg",
+      "prediction": "1890_206350.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_206350.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1881_230409.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1881_230409.jpg",
+      "prediction": "1881_230409.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1881_230409.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1918_253290.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1918_253290.jpg",
+      "prediction": "1918_253290.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1918_253290.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/so-full-of-shapes-is-fancy-1878.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/so-full-of-shapes-is-fancy-1878.jpg",
+      "prediction": "so-full-of-shapes-is-fancy-1878.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/so-full-of-shapes-is-fancy-1878.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/spring-call-1938.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/spring-call-1938.jpg",
+      "prediction": "spring-call-1938.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/spring-call-1938.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/giovanni-segantini/giovanni-segantini-high-noon-in-the-alps-google-art-project.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/giovanni-segantini/giovanni-segantini-high-noon-in-the-alps-google-art-project.jpg",
+      "prediction": "giovanni-segantini-high-noon-in-the-alps-google-art-project.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/giovanni-segantini/giovanni-segantini-high-noon-in-the-alps-google-art-project.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1912_249283.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1912_249283.jpg",
+      "prediction": "1912_249283.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1912_249283.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1881_211770.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1881_211770.jpg",
+      "prediction": "1881_211770.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1881_211770.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309317.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309317.jpg",
+      "prediction": "309317.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309317.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/max-beckmann/1927_259748.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/max-beckmann/1927_259748.jpg",
+      "prediction": "1927_259748.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/max-beckmann/1927_259748.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/herdsman-1860.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/herdsman-1860.jpg",
+      "prediction": "herdsman-1860.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/herdsman-1860.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/henri-de-toulouse-lautrec/1888_230444.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/henri-de-toulouse-lautrec/1888_230444.jpg",
+      "prediction": "1888_230444.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/henri-de-toulouse-lautrec/1888_230444.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1879_230442.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1879_230442.jpg",
+      "prediction": "1879_230442.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1879_230442.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206698.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206698.jpg",
+      "prediction": "1888_206698.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206698.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/bartolome-esteban-murillo/3895.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/bartolome-esteban-murillo/3895.jpg",
+      "prediction": "3895.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/bartolome-esteban-murillo/3895.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244692.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244692.jpg",
+      "prediction": "244692.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244692.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319522.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319522.jpg",
+      "prediction": "319522.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319522.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/a-girl-with-geese-1875.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/a-girl-with-geese-1875.jpg",
+      "prediction": "a-girl-with-geese-1875.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/a-girl-with-geese-1875.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1898_215894.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1898_215894.jpg",
+      "prediction": "1898_215894.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1898_215894.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/homer-watson/herding-sheep-1910.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/homer-watson/herding-sheep-1910.jpg",
+      "prediction": "herding-sheep-1910.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/homer-watson/herding-sheep-1910.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henry-william-banks-davis/evening-light-1878.jpg",
+      "image": "ood_seg/DRAM/test/realism/henry-william-banks-davis/evening-light-1878.jpg",
+      "prediction": "evening-light-1878.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henry-william-banks-davis/evening-light-1878.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1894_215909.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1894_215909.jpg",
+      "prediction": "1894_215909.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1894_215909.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/william-sidney-cooper/evening-at-sturry-kent-1890.jpg",
+      "image": "ood_seg/DRAM/test/realism/william-sidney-cooper/evening-at-sturry-kent-1890.jpg",
+      "prediction": "evening-at-sturry-kent-1890.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/william-sidney-cooper/evening-at-sturry-kent-1890.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1910_251945.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1910_251945.jpg",
+      "prediction": "1910_251945.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1910_251945.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/view-near-polling-1876.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/view-near-polling-1876.jpg",
+      "prediction": "view-near-polling-1876.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/view-near-polling-1876.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1925_185483.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1925_185483.jpg",
+      "prediction": "1925_185483.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1925_185483.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/pierre-auguste-renoir/the-inn-of-mother-anthony-1866.jpg",
+      "image": "ood_seg/DRAM/test/realism/pierre-auguste-renoir/the-inn-of-mother-anthony-1866.jpg",
+      "prediction": "the-inn-of-mother-anthony-1866.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/pierre-auguste-renoir/the-inn-of-mother-anthony-1866.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/theodore-gericault/the-head-of-white-horse.jpg",
+      "image": "ood_seg/DRAM/test/realism/theodore-gericault/the-head-of-white-horse.jpg",
+      "prediction": "the-head-of-white-horse.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/theodore-gericault/the-head-of-white-horse.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/elsie-cassatt-holding-a-big-dog.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/elsie-cassatt-holding-a-big-dog.jpg",
+      "prediction": "elsie-cassatt-holding-a-big-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/elsie-cassatt-holding-a-big-dog.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/jean-francois-millet/190025.jpg",
+      "image": "ood_seg/DRAM/test/realism/jean-francois-millet/190025.jpg",
+      "prediction": "190025.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/jean-francois-millet/190025.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/goose-girl.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/goose-girl.jpg",
+      "prediction": "constant-troyon-goose-girl.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/goose-girl.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/clarence-gagnon/clearing-weather-beaupr-1903.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/clarence-gagnon/clearing-weather-beaupr-1903.jpg",
+      "prediction": "clearing-weather-beaupr-1903.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/clarence-gagnon/clearing-weather-beaupr-1903.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/julius-leblanc-stewart/rio-della-maddalena-1908(1).jpg",
+      "image": "ood_seg/DRAM/test/realism/julius-leblanc-stewart/rio-della-maddalena-1908(1).jpg",
+      "prediction": "rio-della-maddalena-1908(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/julius-leblanc-stewart/rio-della-maddalena-1908(1).png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vasily-vereshchagin/himalayan-ponies-1875.jpg",
+      "image": "ood_seg/DRAM/test/realism/vasily-vereshchagin/himalayan-ponies-1875.jpg",
+      "prediction": "himalayan-ponies-1875.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vasily-vereshchagin/himalayan-ponies-1875.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/kees-van-dongen/302932.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/kees-van-dongen/302932.jpg",
+      "prediction": "302932.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/kees-van-dongen/302932.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_207129.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_207129.jpg",
+      "prediction": "1889_207129.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_207129.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/william-h-johnson/still-life-bottles-jugs-pitcher-1938.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/william-h-johnson/still-life-bottles-jugs-pitcher-1938.jpg",
+      "prediction": "still-life-bottles-jugs-pitcher-1938.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/william-h-johnson/still-life-bottles-jugs-pitcher-1938.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1882_211999.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1882_211999.jpg",
+      "prediction": "1882_211999.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1882_211999.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/francis-picabia/236960.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/francis-picabia/236960.jpg",
+      "prediction": "236960.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/francis-picabia/236960.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/theophile-steinlen/old-cat-1902.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/theophile-steinlen/old-cat-1902.jpg",
+      "prediction": "old-cat-1902.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/theophile-steinlen/old-cat-1902.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/camille-pissarro/1887_208544.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/camille-pissarro/1887_208544.jpg",
+      "prediction": "1887_208544.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/camille-pissarro/1887_208544.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/273267.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/273267.jpg",
+      "prediction": "273267.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/273267.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/albert-anker/hohes-alter-ii-alte-frau-sich-aufw-rmend-1885.jpg",
+      "image": "ood_seg/DRAM/test/realism/albert-anker/hohes-alter-ii-alte-frau-sich-aufw-rmend-1885.jpg",
+      "prediction": "hohes-alter-ii-alte-frau-sich-aufw-rmend-1885.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/albert-anker/hohes-alter-ii-alte-frau-sich-aufw-rmend-1885.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/marc-chagall/202887.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/marc-chagall/202887.jpg",
+      "prediction": "202887.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/marc-chagall/202887.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/falcon.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/falcon.jpg",
+      "prediction": "falcon.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/falcon.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/sara-holding-a-cat.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/sara-holding-a-cat.jpg",
+      "prediction": "sara-holding-a-cat.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/sara-holding-a-cat.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1894_230701.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1894_230701.jpg",
+      "prediction": "1894_230701.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1894_230701.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342579.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342579.jpg",
+      "prediction": "342579.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342579.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/joseph-farquharson/rugged-pasture.jpg",
+      "image": "ood_seg/DRAM/test/realism/joseph-farquharson/rugged-pasture.jpg",
+      "prediction": "rugged-pasture.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/joseph-farquharson/rugged-pasture.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henreiette-ronner-knip/2.jpg",
+      "image": "ood_seg/DRAM/test/realism/henreiette-ronner-knip/2.jpg",
+      "prediction": "2.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henreiette-ronner-knip/2.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/calves-in-a-meadow-1864.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/calves-in-a-meadow-1864.jpg",
+      "prediction": "calves-in-a-meadow-1864.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/calves-in-a-meadow-1864.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/good-friends-1.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/good-friends-1.jpg",
+      "prediction": "good-friends-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/good-friends-1.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1863_212386.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1863_212386.jpg",
+      "prediction": "1863_212386.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1863_212386.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/august-macke/1910_249261.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/august-macke/1910_249261.jpg",
+      "prediction": "1910_249261.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/august-macke/1910_249261.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1889_185443.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1889_185443.jpg",
+      "prediction": "1889_185443.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1889_185443.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/tick-tack-1881.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/tick-tack-1881.jpg",
+      "prediction": "tick-tack-1881.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/tick-tack-1881.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/october-morning-1920.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/october-morning-1920.jpg",
+      "prediction": "october-morning-1920.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/october-morning-1920.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_206266.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_206266.jpg",
+      "prediction": "1889_206266.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_206266.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1919_185430.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1919_185430.jpg",
+      "prediction": "1919_185430.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1919_185430.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1881_230411.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1881_230411.jpg",
+      "prediction": "1881_230411.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1881_230411.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/giovanni-boldini/girl-with-black-cat-1885.jpg",
+      "image": "ood_seg/DRAM/test/realism/giovanni-boldini/girl-with-black-cat-1885.jpg",
+      "prediction": "girl-with-black-cat-1885.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/giovanni-boldini/girl-with-black-cat-1885.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_205969.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_205969.jpg",
+      "prediction": "1887_205969.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_205969.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_206986.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_206986.jpg",
+      "prediction": "1889_206986.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_206986.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1882_233964.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1882_233964.jpg",
+      "prediction": "1882_233964.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1882_233964.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/alexej-von-jawlensky/1913_345906.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/alexej-von-jawlensky/1913_345906.jpg",
+      "prediction": "1913_345906.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/alexej-von-jawlensky/1913_345906.png",
+        "class_id": 16
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque/342289.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque/342289.jpg",
+      "prediction": "342289.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque/342289.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1899_230626.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1899_230626.jpg",
+      "prediction": "1899_230626.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1899_230626.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/cat-1941.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/cat-1941.jpg",
+      "prediction": "cat-1941.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/cat-1941.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/The_Dog_Cart.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/The_Dog_Cart.jpg",
+      "prediction": "The_Dog_Cart.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/The_Dog_Cart.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/riding-on-a-donkey-1930.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/riding-on-a-donkey-1930.jpg",
+      "prediction": "riding-on-a-donkey-1930.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/riding-on-a-donkey-1930.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon/1918_253284.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon/1918_253284.jpg",
+      "prediction": "1918_253284.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon/1918_253284.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206948.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206948.jpg",
+      "prediction": "1888_206948.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206948.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_205964.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_205964.jpg",
+      "prediction": "1888_205964.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_205964.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/1920_252171.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/1920_252171.jpg",
+      "prediction": "1920_252171.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/1920_252171.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/george-washington-lambert/weighing-the-fleece-1921.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/george-washington-lambert/weighing-the-fleece-1921.jpg",
+      "prediction": "weighing-the-fleece-1921.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/george-washington-lambert/weighing-the-fleece-1921.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/theodor-philipsen/cows-near-the-well-at-gammelgaard-saltholm-1901.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/theodor-philipsen/cows-near-the-well-at-gammelgaard-saltholm-1901.jpg",
+      "prediction": "cows-near-the-well-at-gammelgaard-saltholm-1901.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/theodor-philipsen/cows-near-the-well-at-gammelgaard-saltholm-1901.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/ivan-kramskoy/girl-with-a-cat-1882.jpg",
+      "image": "ood_seg/DRAM/test/realism/ivan-kramskoy/girl-with-a-cat-1882.jpg",
+      "prediction": "girl-with-a-cat-1882.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/ivan-kramskoy/girl-with-a-cat-1882.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/gustave-courbet/191909.jpg",
+      "image": "ood_seg/DRAM/test/realism/gustave-courbet/191909.jpg",
+      "prediction": "191909.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/gustave-courbet/191909.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/franz-marc/1913_254744.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/franz-marc/1913_254744.jpg",
+      "prediction": "1913_254744.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/franz-marc/1913_254744.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/morning-tea-1891.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/morning-tea-1891.jpg",
+      "prediction": "morning-tea-1891.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/morning-tea-1891.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1868_211923.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1868_211923.jpg",
+      "prediction": "1868_211923.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1868_211923.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_205716.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_205716.jpg",
+      "prediction": "1887_205716.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_205716.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/elin-danielson-gambogi-young-needleworkers-1915-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/elin-danielson-gambogi-young-needleworkers-1915-1.jpg",
+      "prediction": "elin-danielson-gambogi-young-needleworkers-1915-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/elin-danielson-gambogi-young-needleworkers-1915-1.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/giovanni-fattori/cowboys-and-herds-in-the-maremma-1894.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/giovanni-fattori/cowboys-and-herds-in-the-maremma-1894.jpg",
+      "prediction": "cowboys-and-herds-in-the-maremma-1894.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/giovanni-fattori/cowboys-and-herds-in-the-maremma-1894.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/the-stable-1906(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/the-stable-1906(1).jpg",
+      "prediction": "the-stable-1906(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/the-stable-1906(1).png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/corneliu-baba/still-life.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/corneliu-baba/still-life.jpg",
+      "prediction": "still-life.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/corneliu-baba/still-life.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vladimir-makovsky/hunters-at-rest-1887.jpg",
+      "image": "ood_seg/DRAM/test/realism/vladimir-makovsky/hunters-at-rest-1887.jpg",
+      "prediction": "hunters-at-rest-1887.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vladimir-makovsky/hunters-at-rest-1887.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/maria-bozoky/9223372032559842836.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/maria-bozoky/9223372032559842836.jpg",
+      "prediction": "9223372032559842836.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/maria-bozoky/9223372032559842836.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/pierre-auguste-renoir/1862_219052.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/pierre-auguste-renoir/1862_219052.jpg",
+      "prediction": "1862_219052.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/pierre-auguste-renoir/1862_219052.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Kittens_at_play.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Kittens_at_play.jpg",
+      "prediction": "Kittens_at_play.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Kittens_at_play.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_206331.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_206331.jpg",
+      "prediction": "1890_206331.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_206331.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1884_233893.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1884_233893.jpg",
+      "prediction": "1884_233893.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1884_233893.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/grace-cossington-smith/sunny-morning-cows-at-lanyon-1916.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/grace-cossington-smith/sunny-morning-cows-at-lanyon-1916.jpg",
+      "prediction": "sunny-morning-cows-at-lanyon-1916.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/grace-cossington-smith/sunny-morning-cows-at-lanyon-1916.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz-marc-shepherdess-with-sheep.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz-marc-shepherdess-with-sheep.jpg",
+      "prediction": "Franz-marc-shepherdess-with-sheep.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz-marc-shepherdess-with-sheep.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/342564.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/342564.jpg",
+      "prediction": "342564.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/342564.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/carl-larsson/fishing-1905(1).jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/carl-larsson/fishing-1905(1).jpg",
+      "prediction": "fishing-1905(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/carl-larsson/fishing-1905(1).png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/fauvism/henri-matisse/portrait-of-andre-derain-1905.jpg",
+      "image": "ood_seg/DRAM/test/unseen/fauvism/henri-matisse/portrait-of-andre-derain-1905.jpg",
+      "prediction": "portrait-of-andre-derain-1905.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/fauvism/henri-matisse/portrait-of-andre-derain-1905.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/theophile-steinlen/le-chat-enerve.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/theophile-steinlen/le-chat-enerve.jpg",
+      "prediction": "le-chat-enerve.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/theophile-steinlen/le-chat-enerve.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1881_230638.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1881_230638.jpg",
+      "prediction": "1881_230638.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1881_230638.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/woman-on-a-striped-with-a-dog-also-known-as-young-woman-on-a-striped-sofa-with-her-dog.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/woman-on-a-striped-with-a-dog-also-known-as-young-woman-on-a-striped-sofa-with-her-dog.jpg",
+      "prediction": "woman-on-a-striped-with-a-dog-also-known-as-young-woman-on-a-striped-sofa-with-her-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/woman-on-a-striped-with-a-dog-also-known-as-young-woman-on-a-striped-sofa-with-her-dog.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_206732.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_206732.jpg",
+      "prediction": "1890_206732.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_206732.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/suzanne-valadon-wiki/Suzanne-Valadon-L-Etable-en-Beaujolais.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/suzanne-valadon-wiki/Suzanne-Valadon-L-Etable-en-Beaujolais.jpg",
+      "prediction": "Suzanne-Valadon-L-Etable-en-Beaujolais.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/suzanne-valadon-wiki/Suzanne-Valadon-L-Etable-en-Beaujolais.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/bartolome-esteban-murillo/17739.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/bartolome-esteban-murillo/17739.jpg",
+      "prediction": "17739.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/bartolome-esteban-murillo/17739.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1889_207300.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1889_207300.jpg",
+      "prediction": "1889_207300.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1889_207300.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/louisa-matthiasdottir/326198.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/louisa-matthiasdottir/326198.jpg",
+      "prediction": "326198.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/louisa-matthiasdottir/326198.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vincent-van-gogh/1884_206988.jpg",
+      "image": "ood_seg/DRAM/test/realism/vincent-van-gogh/1884_206988.jpg",
+      "prediction": "1884_206988.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vincent-van-gogh/1884_206988.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/cuno-amiet/1930_322964.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/cuno-amiet/1930_322964.jpg",
+      "prediction": "1930_322964.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/cuno-amiet/1930_322964.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/THE_YOUNG_ARTIST.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/THE_YOUNG_ARTIST.jpg",
+      "prediction": "THE_YOUNG_ARTIST.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/THE_YOUNG_ARTIST.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/a-lady-in-black-aka-the-red-shawl.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/a-lady-in-black-aka-the-red-shawl.jpg",
+      "prediction": "a-lady-in-black-aka-the-red-shawl.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/a-lady-in-black-aka-the-red-shawl.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1916_185445.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1916_185445.jpg",
+      "prediction": "1916_185445.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1916_185445.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/an-exile-of-the-45jpg.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/an-exile-of-the-45jpg.jpg",
+      "prediction": "an-exile-of-the-45jpg.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/an-exile-of-the-45jpg.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/408477.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/408477.jpg",
+      "prediction": "408477.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/408477.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/charles-jacque-wiki/640px-Charles_Emile_Jacque_-_Landschap_met_schapen_en_herderin_-_0417_-_Rijksmuseum_Twenthe.jpg",
+      "image": "ood_seg/DRAM/test/realism/charles-jacque-wiki/640px-Charles_Emile_Jacque_-_Landschap_met_schapen_en_herderin_-_0417_-_Rijksmuseum_Twenthe.jpg",
+      "prediction": "640px-Charles_Emile_Jacque_-_Landschap_met_schapen_en_herderin_-_0417_-_Rijksmuseum_Twenthe.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/charles-jacque-wiki/640px-Charles_Emile_Jacque_-_Landschap_met_schapen_en_herderin_-_0417_-_Rijksmuseum_Twenthe.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1890_233798.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1890_233798.jpg",
+      "prediction": "1890_233798.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1890_233798.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/rudolf-lang/9223372032559843417.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/rudolf-lang/9223372032559843417.jpg",
+      "prediction": "9223372032559843417.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/rudolf-lang/9223372032559843417.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/marc-chagall/202747.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/marc-chagall/202747.jpg",
+      "prediction": "202747.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/marc-chagall/202747.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/danielson-gambogi-elin/elin-danielson-gambogi-sunset.jpg",
+      "image": "ood_seg/DRAM/test/realism/danielson-gambogi-elin/elin-danielson-gambogi-sunset.jpg",
+      "prediction": "elin-danielson-gambogi-sunset.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/danielson-gambogi-elin/elin-danielson-gambogi-sunset.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/baroque/bartolome-esteban-murillo/45687.jpg",
+      "image": "ood_seg/DRAM/test/unseen/baroque/bartolome-esteban-murillo/45687.jpg",
+      "prediction": "45687.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/baroque/bartolome-esteban-murillo/45687.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/maria-bozoky/9223372032559842905.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/maria-bozoky/9223372032559842905.jpg",
+      "prediction": "9223372032559842905.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/maria-bozoky/9223372032559842905.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/5693.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/5693.jpg",
+      "prediction": "5693.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/5693.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/elin-danielson-gambogi-the-spinner.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/elin-danielson-gambogi-the-spinner.jpg",
+      "prediction": "elin-danielson-gambogi-the-spinner.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/elin-danielson-gambogi-the-spinner.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz_marc-cats_red_and_white.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz_marc-cats_red_and_white.jpg",
+      "prediction": "Franz_marc-cats_red_and_white.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz_marc-cats_red_and_white.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/camille-pissarro/shepherdess-and-sheep-1887.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/camille-pissarro/shepherdess-and-sheep-1887.jpg",
+      "prediction": "shepherdess-and-sheep-1887.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/camille-pissarro/shepherdess-and-sheep-1887.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/pablo-picasso/bull-plate-iv-1945.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/pablo-picasso/bull-plate-iv-1945.jpg",
+      "prediction": "bull-plate-iv-1945.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/pablo-picasso/bull-plate-iv-1945.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/elin-danielson-gambogi/elin-danielson-gambogi-seated-man-at-the-table-a-iv-3609-finnish-national-gallery-1.jpg",
+      "image": "ood_seg/DRAM/test/realism/elin-danielson-gambogi/elin-danielson-gambogi-seated-man-at-the-table-a-iv-3609-finnish-national-gallery-1.jpg",
+      "prediction": "elin-danielson-gambogi-seated-man-at-the-table-a-iv-3609-finnish-national-gallery-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/elin-danielson-gambogi/elin-danielson-gambogi-seated-man-at-the-table-a-iv-3609-finnish-national-gallery-1.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1879_233795.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1879_233795.jpg",
+      "prediction": "1879_233795.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1879_233795.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1910_254714.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1910_254714.jpg",
+      "prediction": "1910_254714.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1910_254714.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319508.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319508.jpg",
+      "prediction": "319508.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319508.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/theo-van-doesburg/theo_van_doesburg_two_dogs_1899.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/theo-van-doesburg/theo_van_doesburg_two_dogs_1899.jpg",
+      "prediction": "theo_van_doesburg_two_dogs_1899.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/theo-van-doesburg/theo_van_doesburg_two_dogs_1899.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1887_205987.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1887_205987.jpg",
+      "prediction": "1887_205987.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1887_205987.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/cat.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/cat.jpg",
+      "prediction": "cat.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/cat.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1912_254705.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1912_254705.jpg",
+      "prediction": "1912_254705.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1912_254705.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/a-summer-afternon-in-holland-aka-sunlight-and-shadow.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/a-summer-afternon-in-holland-aka-sunlight-and-shadow.jpg",
+      "prediction": "a-summer-afternon-in-holland-aka-sunlight-and-shadow.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/a-summer-afternon-in-holland-aka-sunlight-and-shadow.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz-Marc-Steffelalm-II-with-Sheep.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz-Marc-Steffelalm-II-with-Sheep.jpg",
+      "prediction": "Franz-Marc-Steffelalm-II-with-Sheep.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz-Marc-Steffelalm-II-with-Sheep.png",
+        "class_id": 17
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/maxime-maufra/departure-of-fishing-boats-1900.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/maxime-maufra/departure-of-fishing-boats-1900.jpg",
+      "prediction": "departure-of-fishing-boats-1900.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/maxime-maufra/departure-of-fishing-boats-1900.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/paul-cezanne/1895_215874.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/paul-cezanne/1895_215874.jpg",
+      "prediction": "1895_215874.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/paul-cezanne/1895_215874.png",
+        "class_id": 5
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/claude-monet/1865_212843.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/claude-monet/1865_212843.jpg",
+      "prediction": "1865_212843.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/claude-monet/1865_212843.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1880_230448.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1880_230448.jpg",
+      "prediction": "1880_230448.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1880_230448.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/eagle-1.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/eagle-1.jpg",
+      "prediction": "eagle-1.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/eagle-1.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/art-nouveau/beatrix-potter/simpkin-goes-out-1902.jpg",
+      "image": "ood_seg/DRAM/test/unseen/art-nouveau/beatrix-potter/simpkin-goes-out-1902.jpg",
+      "prediction": "simpkin-goes-out-1902.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/art-nouveau/beatrix-potter/simpkin-goes-out-1902.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/franz-marc/franz_marc_siberian_sheepdogs.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/franz-marc/franz_marc_siberian_sheepdogs.jpg",
+      "prediction": "franz_marc_siberian_sheepdogs.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/franz-marc/franz_marc_siberian_sheepdogs.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1888_206334.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1888_206334.jpg",
+      "prediction": "1888_206334.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1888_206334.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henry-william-banks-davis/a-summer-afternoon-1873.jpg",
+      "image": "ood_seg/DRAM/test/realism/henry-william-banks-davis/a-summer-afternoon-1873.jpg",
+      "prediction": "a-summer-afternoon-1873.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henry-william-banks-davis/a-summer-afternoon-1873.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/ernst-ludwig-kirchner/unknown-year_252126.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/ernst-ludwig-kirchner/unknown-year_252126.jpg",
+      "prediction": "unknown-year_252126.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/ernst-ludwig-kirchner/unknown-year_252126.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/fauvism/jean-metzinger/nu-nude-1906.jpg",
+      "image": "ood_seg/DRAM/test/unseen/fauvism/jean-metzinger/nu-nude-1906.jpg",
+      "prediction": "nu-nude-1906.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/fauvism/jean-metzinger/nu-nude-1906.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254692.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254692.jpg",
+      "prediction": "1911_254692.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254692.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/briton-riviere/watching-dog-1875.jpg",
+      "image": "ood_seg/DRAM/test/realism/briton-riviere/watching-dog-1875.jpg",
+      "prediction": "watching-dog-1875.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/briton-riviere/watching-dog-1875.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc-wiki/Franz_Marc_013.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc-wiki/Franz_Marc_013.jpg",
+      "prediction": "Franz_Marc_013.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc-wiki/Franz_Marc_013.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/grace-cossington-smith/quaker-girl-1915.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/grace-cossington-smith/quaker-girl-1915.jpg",
+      "prediction": "quaker-girl-1915.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/grace-cossington-smith/quaker-girl-1915.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/giovanni-fattori/berittener-hirte-und-k-he-1880.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/giovanni-fattori/berittener-hirte-und-k-he-1880.jpg",
+      "prediction": "berittener-hirte-und-k-he-1880.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/giovanni-fattori/berittener-hirte-und-k-he-1880.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/alfred-sisley/geese.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/alfred-sisley/geese.jpg",
+      "prediction": "geese.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/alfred-sisley/geese.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/maxime-maufra/the-transatlantic-leaving-port-1905.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/maxime-maufra/the-transatlantic-leaving-port-1905.jpg",
+      "prediction": "the-transatlantic-leaving-port-1905.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/maxime-maufra/the-transatlantic-leaving-port-1905.png",
+        "class_id": 4
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/william-merritt-chase/portrait-of-james-rapelje-howell.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/william-merritt-chase/portrait-of-james-rapelje-howell.jpg",
+      "prediction": "portrait-of-james-rapelje-howell.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/william-merritt-chase/portrait-of-james-rapelje-howell.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/algernon-talmage/the-sketchers-1930.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/algernon-talmage/the-sketchers-1930.jpg",
+      "prediction": "the-sketchers-1930.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/algernon-talmage/the-sketchers-1930.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/83093.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/83093.jpg",
+      "prediction": "83093.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/83093.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/pablo-picasso/portrait-of-paul-éluard-1937.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/pablo-picasso/portrait-of-paul-éluard-1937.jpg",
+      "prediction": "portrait-of-paul-éluard-1937.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/pablo-picasso/portrait-of-paul-éluard-1937.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/constant-troyon/cows-in-the-field-1852.jpg",
+      "image": "ood_seg/DRAM/test/realism/constant-troyon/cows-in-the-field-1852.jpg",
+      "prediction": "cows-in-the-field-1852.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/constant-troyon/cows-in-the-field-1852.png",
+        "class_id": 10
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/susan-on-a-balcony-holding-a-dog.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/susan-on-a-balcony-holding-a-dog.jpg",
+      "prediction": "susan-on-a-balcony-holding-a-dog.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/susan-on-a-balcony-holding-a-dog.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/vasily-vereshchagin/a-rich-kyrgyz-hunter-with-a-falcon-1871.jpg",
+      "image": "ood_seg/DRAM/test/realism/vasily-vereshchagin/a-rich-kyrgyz-hunter-with-a-falcon-1871.jpg",
+      "prediction": "a-rich-kyrgyz-hunter-with-a-falcon-1871.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/vasily-vereshchagin/a-rich-kyrgyz-hunter-with-a-falcon-1871.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/julius-leblanc-stewart/end-of-summertime-the-ride-form-the-cover-of-soleil-du-dimanche-sunday-20th-of-october-1901-1901(1).jpg",
+      "image": "ood_seg/DRAM/test/realism/julius-leblanc-stewart/end-of-summertime-the-ride-form-the-cover-of-soleil-du-dimanche-sunday-20th-of-october-1901-1901(1).jpg",
+      "prediction": "end-of-summertime-the-ride-form-the-cover-of-soleil-du-dimanche-sunday-20th-of-october-1901-1901(1).png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/julius-leblanc-stewart/end-of-summertime-the-ride-form-the-cover-of-soleil-du-dimanche-sunday-20th-of-october-1901-1901(1).png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/balthus/244795.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/balthus/244795.jpg",
+      "prediction": "244795.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/balthus/244795.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/victor-borisov-musatov/boy-with-a-dog-1895.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/victor-borisov-musatov/boy-with-a-dog-1895.jpg",
+      "prediction": "boy-with-a-dog-1895.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/victor-borisov-musatov/boy-with-a-dog-1895.png",
+        "class_id": 12
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/mary-cassatt/children-playing-with-a-cat-1908.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/mary-cassatt/children-playing-with-a-cat-1908.jpg",
+      "prediction": "children-playing-with-a-cat-1908.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/mary-cassatt/children-playing-with-a-cat-1908.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1894_185328.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1894_185328.jpg",
+      "prediction": "1894_185328.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1894_185328.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/edvard-munch/1919_185374.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/edvard-munch/1919_185374.jpg",
+      "prediction": "1919_185374.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/edvard-munch/1919_185374.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/pablo-picasso/jacqueline-with-flowers-1954.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/pablo-picasso/jacqueline-with-flowers-1954.jpg",
+      "prediction": "jacqueline-with-flowers-1954.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/pablo-picasso/jacqueline-with-flowers-1954.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/divisionism/cuno-amiet/1907_322963.jpg",
+      "image": "ood_seg/DRAM/test/unseen/divisionism/cuno-amiet/1907_322963.jpg",
+      "prediction": "1907_322963.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/divisionism/cuno-amiet/1907_322963.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henreiette-ronner-knip/3.jpg",
+      "image": "ood_seg/DRAM/test/realism/henreiette-ronner-knip/3.jpg",
+      "prediction": "3.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henreiette-ronner-knip/3.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henry-herbert-la-thangue/309292.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henry-herbert-la-thangue/309292.jpg",
+      "prediction": "309292.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henry-herbert-la-thangue/309292.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/henri-de-toulouse-lautrec/1899_230363.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/henri-de-toulouse-lautrec/1899_230363.jpg",
+      "prediction": "1899_230363.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/henri-de-toulouse-lautrec/1899_230363.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858515.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858515.jpg",
+      "prediction": "unknown-year_9223372032559858515.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/nadezda-petrovic/unknown-year_9223372032559858515.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/gustave-caillebotte/1874_233824.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/gustave-caillebotte/1874_233824.jpg",
+      "prediction": "1874_233824.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/gustave-caillebotte/1874_233824.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip-aprole_douner.jpg",
+      "image": "ood_seg/DRAM/test/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip-aprole_douner.jpg",
+      "prediction": "Henriette_Ronner-Knip-aprole_douner.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henriette-ronner-knip-wiki/Henriette_Ronner-Knip-aprole_douner.png",
+        "class_id": 8
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/ink_and_wash/xu-beihong/hawk-1946.jpg",
+      "image": "ood_seg/DRAM/test/unseen/ink_and_wash/xu-beihong/hawk-1946.jpg",
+      "prediction": "hawk-1946.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/ink_and_wash/xu-beihong/hawk-1946.png",
+        "class_id": 3
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/cubism/pablo-picasso/jacqueline-sitting-with-her-cat-1964.jpg",
+      "image": "ood_seg/DRAM/test/unseen/cubism/pablo-picasso/jacqueline-sitting-with-her-cat-1964.jpg",
+      "prediction": "jacqueline-sitting-with-her-cat-1964.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/cubism/pablo-picasso/jacqueline-sitting-with-her-cat-1964.png",
+        "class_id": 9
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319521.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319521.jpg",
+      "prediction": "319521.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319521.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/realism/henry-william-banks-davis/mother-and-son-1881.jpg",
+      "image": "ood_seg/DRAM/test/realism/henry-william-banks-davis/mother-and-son-1881.jpg",
+      "prediction": "mother-and-son-1881.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/realism/henry-william-banks-davis/mother-and-son-1881.png",
+        "class_id": 13
+      },
+      "query": ""
+    },
+    {
+      "id": "test/unseen/rococo/george-morland/319565.jpg",
+      "image": "ood_seg/DRAM/test/unseen/rococo/george-morland/319565.jpg",
+      "prediction": "319565.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/unseen/rococo/george-morland/319565.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/post_impressionism/vincent-van-gogh/1890_205873.jpg",
+      "image": "ood_seg/DRAM/test/post_impressionism/vincent-van-gogh/1890_205873.jpg",
+      "prediction": "1890_205873.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/post_impressionism/vincent-van-gogh/1890_205873.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/expressionism/franz-marc/1911_254776.jpg",
+      "image": "ood_seg/DRAM/test/expressionism/franz-marc/1911_254776.jpg",
+      "prediction": "1911_254776.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/expressionism/franz-marc/1911_254776.png",
+        "class_id": 15
+      },
+      "query": ""
+    },
+    {
+      "id": "test/impressionism/henri-de-toulouse-lautrec/1881_230422.jpg",
+      "image": "ood_seg/DRAM/test/impressionism/henri-de-toulouse-lautrec/1881_230422.jpg",
+      "prediction": "1881_230422.png",
+      "target": {
+        "label": "ood_seg/DRAM/labels/impressionism/henri-de-toulouse-lautrec/1881_230422.png",
+        "class_id": 12
+      },
+      "query": ""
+    }
+  ]
+}

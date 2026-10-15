@@ -1,0 +1,4506 @@
+{
+  "schema_version": 1,
+  "dataset": "nyuv2",
+  "samples": [
+    {
+      "id": "kitchen_0004_0001.png",
+      "image": "depth/nyuv2/test/kitchen_0004/rgb_0001.png",
+      "prediction": "kitchen_0004_0001.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0004/depth_0001.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0004_0002.png",
+      "image": "depth/nyuv2/test/kitchen_0004/rgb_0002.png",
+      "prediction": "kitchen_0004_0002.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0004/depth_0002.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0005_0009.png",
+      "image": "depth/nyuv2/test/office_0005/rgb_0009.png",
+      "prediction": "office_0005_0009.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0005/depth_0009.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0007_0014.png",
+      "image": "depth/nyuv2/test/office_0007/rgb_0014.png",
+      "prediction": "office_0007_0014.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0007/depth_0014.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0008_0015.png",
+      "image": "depth/nyuv2/test/office_0008/rgb_0015.png",
+      "prediction": "office_0008_0015.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0008/depth_0015.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0008_0016.png",
+      "image": "depth/nyuv2/test/office_0008/rgb_0016.png",
+      "prediction": "office_0008_0016.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0008/depth_0016.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0008_0017.png",
+      "image": "depth/nyuv2/test/office_0008/rgb_0017.png",
+      "prediction": "office_0008_0017.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0008/depth_0017.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0008_0018.png",
+      "image": "depth/nyuv2/test/office_0008/rgb_0018.png",
+      "prediction": "office_0008_0018.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0008/depth_0018.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0010_0021.png",
+      "image": "depth/nyuv2/test/office_0010/rgb_0021.png",
+      "prediction": "office_0010_0021.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0010/depth_0021.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0028.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0028.png",
+      "prediction": "office_0013_0028.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0028.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0029.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0029.png",
+      "prediction": "office_0013_0029.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0029.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0030.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0030.png",
+      "prediction": "office_0013_0030.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0030.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0031.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0031.png",
+      "prediction": "office_0013_0031.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0031.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0032.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0032.png",
+      "prediction": "office_0013_0032.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0032.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0033.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0033.png",
+      "prediction": "office_0013_0033.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0033.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0013_0034.png",
+      "image": "depth/nyuv2/test/office_0013/rgb_0034.png",
+      "prediction": "office_0013_0034.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0013/depth_0034.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0014_0035.png",
+      "image": "depth/nyuv2/test/office_0014/rgb_0035.png",
+      "prediction": "office_0014_0035.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0014/depth_0035.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0014_0036.png",
+      "image": "depth/nyuv2/test/office_0014/rgb_0036.png",
+      "prediction": "office_0014_0036.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0014/depth_0036.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0014_0037.png",
+      "image": "depth/nyuv2/test/office_0014/rgb_0037.png",
+      "prediction": "office_0014_0037.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0014/depth_0037.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0014_0038.png",
+      "image": "depth/nyuv2/test/office_0014/rgb_0038.png",
+      "prediction": "office_0014_0038.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0014/depth_0038.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0015_0039.png",
+      "image": "depth/nyuv2/test/office_0015/rgb_0039.png",
+      "prediction": "office_0015_0039.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0015/depth_0039.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0015_0040.png",
+      "image": "depth/nyuv2/test/office_0015/rgb_0040.png",
+      "prediction": "office_0015_0040.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0015/depth_0040.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0015_0041.png",
+      "image": "depth/nyuv2/test/office_0015/rgb_0041.png",
+      "prediction": "office_0015_0041.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0015/depth_0041.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0015_0042.png",
+      "image": "depth/nyuv2/test/office_0015/rgb_0042.png",
+      "prediction": "office_0015_0042.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0015/depth_0042.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0015_0043.png",
+      "image": "depth/nyuv2/test/office_0015/rgb_0043.png",
+      "prediction": "office_0015_0043.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0015/depth_0043.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0003_0046.png",
+      "image": "depth/nyuv2/test/bathroom_0003/rgb_0046.png",
+      "prediction": "bathroom_0003_0046.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0003/depth_0046.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0004_0047.png",
+      "image": "depth/nyuv2/test/bathroom_0004/rgb_0047.png",
+      "prediction": "bathroom_0004_0047.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0004/depth_0047.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0011_0056.png",
+      "image": "depth/nyuv2/test/bedroom_0011/rgb_0056.png",
+      "prediction": "bedroom_0011_0056.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0011/depth_0056.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0011_0057.png",
+      "image": "depth/nyuv2/test/bedroom_0011/rgb_0057.png",
+      "prediction": "bedroom_0011_0057.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0011/depth_0057.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0013_0059.png",
+      "image": "depth/nyuv2/test/bedroom_0013/rgb_0059.png",
+      "prediction": "bedroom_0013_0059.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0013/depth_0059.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0013_0060.png",
+      "image": "depth/nyuv2/test/bedroom_0013/rgb_0060.png",
+      "prediction": "bedroom_0013_0060.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0013/depth_0060.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0013_0061.png",
+      "image": "depth/nyuv2/test/bedroom_0013/rgb_0061.png",
+      "prediction": "bedroom_0013_0061.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0013/depth_0061.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0013_0062.png",
+      "image": "depth/nyuv2/test/bedroom_0013/rgb_0062.png",
+      "prediction": "bedroom_0013_0062.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0013/depth_0062.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0013_0063.png",
+      "image": "depth/nyuv2/test/bedroom_0013/rgb_0063.png",
+      "prediction": "bedroom_0013_0063.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0013/depth_0063.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0018_0076.png",
+      "image": "depth/nyuv2/test/bedroom_0018/rgb_0076.png",
+      "prediction": "bedroom_0018_0076.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0018/depth_0076.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0018_0077.png",
+      "image": "depth/nyuv2/test/bedroom_0018/rgb_0077.png",
+      "prediction": "bedroom_0018_0077.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0018/depth_0077.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0018_0078.png",
+      "image": "depth/nyuv2/test/bedroom_0018/rgb_0078.png",
+      "prediction": "bedroom_0018_0078.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0018/depth_0078.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0018_0079.png",
+      "image": "depth/nyuv2/test/bedroom_0018/rgb_0079.png",
+      "prediction": "bedroom_0018_0079.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0018/depth_0079.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0084.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0084.png",
+      "prediction": "bookstore_0001_0084.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0084.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0085.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0085.png",
+      "prediction": "bookstore_0001_0085.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0085.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0086.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0086.png",
+      "prediction": "bookstore_0001_0086.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0086.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0087.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0087.png",
+      "prediction": "bookstore_0001_0087.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0087.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0088.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0088.png",
+      "prediction": "bookstore_0001_0088.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0088.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0089.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0089.png",
+      "prediction": "bookstore_0001_0089.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0089.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0090.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0090.png",
+      "prediction": "bookstore_0001_0090.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0090.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0091.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0091.png",
+      "prediction": "bookstore_0001_0091.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0091.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0117.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0117.png",
+      "prediction": "bookstore_0001_0117.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0117.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0118.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0118.png",
+      "prediction": "bookstore_0001_0118.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0118.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bookstore_0001_0119.png",
+      "image": "depth/nyuv2/test/bookstore_0001/rgb_0119.png",
+      "prediction": "bookstore_0001_0119.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bookstore_0001/depth_0119.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0005_0125.png",
+      "image": "depth/nyuv2/test/kitchen_0005/rgb_0125.png",
+      "prediction": "kitchen_0005_0125.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0005/depth_0125.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0005_0126.png",
+      "image": "depth/nyuv2/test/kitchen_0005/rgb_0126.png",
+      "prediction": "kitchen_0005_0126.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0005/depth_0126.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0005_0127.png",
+      "image": "depth/nyuv2/test/kitchen_0005/rgb_0127.png",
+      "prediction": "kitchen_0005_0127.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0005/depth_0127.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0005_0128.png",
+      "image": "depth/nyuv2/test/kitchen_0005/rgb_0128.png",
+      "prediction": "kitchen_0005_0128.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0005/depth_0128.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0005_0129.png",
+      "image": "depth/nyuv2/test/kitchen_0005/rgb_0129.png",
+      "prediction": "kitchen_0005_0129.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0005/depth_0129.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0007_0131.png",
+      "image": "depth/nyuv2/test/kitchen_0007/rgb_0131.png",
+      "prediction": "kitchen_0007_0131.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0007/depth_0131.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0007_0132.png",
+      "image": "depth/nyuv2/test/kitchen_0007/rgb_0132.png",
+      "prediction": "kitchen_0007_0132.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0007/depth_0132.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0007_0133.png",
+      "image": "depth/nyuv2/test/kitchen_0007/rgb_0133.png",
+      "prediction": "kitchen_0007_0133.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0007/depth_0133.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0007_0134.png",
+      "image": "depth/nyuv2/test/kitchen_0007/rgb_0134.png",
+      "prediction": "kitchen_0007_0134.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0007/depth_0134.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0009_0137.png",
+      "image": "depth/nyuv2/test/kitchen_0009/rgb_0137.png",
+      "prediction": "kitchen_0009_0137.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0009/depth_0137.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0008_0153.png",
+      "image": "depth/nyuv2/test/living_room_0008/rgb_0153.png",
+      "prediction": "living_room_0008_0153.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0008/depth_0153.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0008_0154.png",
+      "image": "depth/nyuv2/test/living_room_0008/rgb_0154.png",
+      "prediction": "living_room_0008_0154.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0008/depth_0154.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0009_0155.png",
+      "image": "depth/nyuv2/test/living_room_0009/rgb_0155.png",
+      "prediction": "living_room_0009_0155.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0009/depth_0155.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0013_0167.png",
+      "image": "depth/nyuv2/test/living_room_0013/rgb_0167.png",
+      "prediction": "living_room_0013_0167.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0013/depth_0167.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0013_0168.png",
+      "image": "depth/nyuv2/test/living_room_0013/rgb_0168.png",
+      "prediction": "living_room_0013_0168.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0013/depth_0168.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0014_0169.png",
+      "image": "depth/nyuv2/test/living_room_0014/rgb_0169.png",
+      "prediction": "living_room_0014_0169.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0014/depth_0169.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0171.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0171.png",
+      "prediction": "bedroom_0003_0171.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0171.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0172.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0172.png",
+      "prediction": "bedroom_0003_0172.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0172.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0173.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0173.png",
+      "prediction": "bedroom_0003_0173.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0173.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0174.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0174.png",
+      "prediction": "bedroom_0003_0174.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0174.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0175.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0175.png",
+      "prediction": "bedroom_0003_0175.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0175.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0003_0176.png",
+      "image": "depth/nyuv2/test/bedroom_0003/rgb_0176.png",
+      "prediction": "bedroom_0003_0176.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0003/depth_0176.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0005_0180.png",
+      "image": "depth/nyuv2/test/bedroom_0005/rgb_0180.png",
+      "prediction": "bedroom_0005_0180.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0005/depth_0180.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0005_0181.png",
+      "image": "depth/nyuv2/test/bedroom_0005/rgb_0181.png",
+      "prediction": "bedroom_0005_0181.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0005/depth_0181.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0005_0182.png",
+      "image": "depth/nyuv2/test/bedroom_0005/rgb_0182.png",
+      "prediction": "bedroom_0005_0182.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0005/depth_0182.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0183.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0183.png",
+      "prediction": "bedroom_0006_0183.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0183.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0184.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0184.png",
+      "prediction": "bedroom_0006_0184.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0184.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0185.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0185.png",
+      "prediction": "bedroom_0006_0185.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0185.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0186.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0186.png",
+      "prediction": "bedroom_0006_0186.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0186.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0187.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0187.png",
+      "prediction": "bedroom_0006_0187.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0187.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0006_0188.png",
+      "image": "depth/nyuv2/test/bedroom_0006/rgb_0188.png",
+      "prediction": "bedroom_0006_0188.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0006/depth_0188.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0007_0189.png",
+      "image": "depth/nyuv2/test/bedroom_0007/rgb_0189.png",
+      "prediction": "bedroom_0007_0189.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0007/depth_0189.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0007_0190.png",
+      "image": "depth/nyuv2/test/bedroom_0007/rgb_0190.png",
+      "prediction": "bedroom_0007_0190.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0007/depth_0190.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0007_0191.png",
+      "image": "depth/nyuv2/test/bedroom_0007/rgb_0191.png",
+      "prediction": "bedroom_0007_0191.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0007/depth_0191.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0007_0192.png",
+      "image": "depth/nyuv2/test/bedroom_0007/rgb_0192.png",
+      "prediction": "bedroom_0007_0192.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0007/depth_0192.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0007_0193.png",
+      "image": "depth/nyuv2/test/bedroom_0007/rgb_0193.png",
+      "prediction": "bedroom_0007_0193.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0007/depth_0193.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0194.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0194.png",
+      "prediction": "kitchen_0002_0194.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0194.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0195.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0195.png",
+      "prediction": "kitchen_0002_0195.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0195.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0196.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0196.png",
+      "prediction": "kitchen_0002_0196.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0196.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0197.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0197.png",
+      "prediction": "kitchen_0002_0197.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0197.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0198.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0198.png",
+      "prediction": "kitchen_0002_0198.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0198.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0199.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0199.png",
+      "prediction": "kitchen_0002_0199.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0199.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0200.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0200.png",
+      "prediction": "kitchen_0002_0200.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0200.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0201.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0201.png",
+      "prediction": "kitchen_0002_0201.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0201.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0002_0202.png",
+      "image": "depth/nyuv2/test/kitchen_0002/rgb_0202.png",
+      "prediction": "kitchen_0002_0202.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0002/depth_0202.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0002_0207.png",
+      "image": "depth/nyuv2/test/living_room_0002/rgb_0207.png",
+      "prediction": "living_room_0002_0207.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0002/depth_0207.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0003_0208.png",
+      "image": "depth/nyuv2/test/living_room_0003/rgb_0208.png",
+      "prediction": "living_room_0003_0208.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0003/depth_0208.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0003_0209.png",
+      "image": "depth/nyuv2/test/living_room_0003/rgb_0209.png",
+      "prediction": "living_room_0003_0209.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0003/depth_0209.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0003_0210.png",
+      "image": "depth/nyuv2/test/living_room_0003/rgb_0210.png",
+      "prediction": "living_room_0003_0210.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0003/depth_0210.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0003_0211.png",
+      "image": "depth/nyuv2/test/living_room_0003/rgb_0211.png",
+      "prediction": "living_room_0003_0211.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0003/depth_0211.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0003_0212.png",
+      "image": "depth/nyuv2/test/living_room_0003/rgb_0212.png",
+      "prediction": "living_room_0003_0212.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0003/depth_0212.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0022_0220.png",
+      "image": "depth/nyuv2/test/bedroom_0022/rgb_0220.png",
+      "prediction": "bedroom_0022_0220.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0022/depth_0220.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0024_0221.png",
+      "image": "depth/nyuv2/test/bedroom_0024/rgb_0221.png",
+      "prediction": "bedroom_0024_0221.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0024/depth_0221.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0024_0222.png",
+      "image": "depth/nyuv2/test/bedroom_0024/rgb_0222.png",
+      "prediction": "bedroom_0024_0222.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0024/depth_0222.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0015_0250.png",
+      "image": "depth/nyuv2/test/kitchen_0015/rgb_0250.png",
+      "prediction": "kitchen_0015_0250.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0015/depth_0250.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0021_0264.png",
+      "image": "depth/nyuv2/test/living_room_0021/rgb_0264.png",
+      "prediction": "living_room_0021_0264.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0021/depth_0264.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0016_0271.png",
+      "image": "depth/nyuv2/test/office_0016/rgb_0271.png",
+      "prediction": "office_0016_0271.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0016/depth_0271.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0017_0272.png",
+      "image": "depth/nyuv2/test/office_0017/rgb_0272.png",
+      "prediction": "office_0017_0272.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0017/depth_0272.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_room_0001_0273.png",
+      "image": "depth/nyuv2/test/study_room_0001/rgb_0273.png",
+      "prediction": "study_room_0001_0273.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_room_0001/depth_0273.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_room_0006_0279.png",
+      "image": "depth/nyuv2/test/study_room_0006/rgb_0279.png",
+      "prediction": "study_room_0006_0279.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_room_0006/depth_0279.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0131_0280.png",
+      "image": "depth/nyuv2/test/bedroom_0131/rgb_0280.png",
+      "prediction": "bedroom_0131_0280.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0131/depth_0280.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0131_0281.png",
+      "image": "depth/nyuv2/test/bedroom_0131/rgb_0281.png",
+      "prediction": "bedroom_0131_0281.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0131/depth_0281.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0131_0282.png",
+      "image": "depth/nyuv2/test/bedroom_0131/rgb_0282.png",
+      "prediction": "bedroom_0131_0282.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0131/depth_0282.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0131_0283.png",
+      "image": "depth/nyuv2/test/bedroom_0131/rgb_0283.png",
+      "prediction": "bedroom_0131_0283.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0131/depth_0283.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0001_0284.png",
+      "image": "depth/nyuv2/test/classroom_0001/rgb_0284.png",
+      "prediction": "classroom_0001_0284.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0001/depth_0284.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0001_0285.png",
+      "image": "depth/nyuv2/test/classroom_0001/rgb_0285.png",
+      "prediction": "classroom_0001_0285.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0001/depth_0285.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0007_0296.png",
+      "image": "depth/nyuv2/test/classroom_0007/rgb_0296.png",
+      "prediction": "classroom_0007_0296.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0007/depth_0296.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0007_0297.png",
+      "image": "depth/nyuv2/test/classroom_0007/rgb_0297.png",
+      "prediction": "classroom_0007_0297.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0007/depth_0297.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0007_0298.png",
+      "image": "depth/nyuv2/test/classroom_0007/rgb_0298.png",
+      "prediction": "classroom_0007_0298.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0007/depth_0298.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0008_0299.png",
+      "image": "depth/nyuv2/test/classroom_0008/rgb_0299.png",
+      "prediction": "classroom_0008_0299.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0008/depth_0299.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0008_0300.png",
+      "image": "depth/nyuv2/test/classroom_0008/rgb_0300.png",
+      "prediction": "classroom_0008_0300.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0008/depth_0300.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0009_0301.png",
+      "image": "depth/nyuv2/test/classroom_0009/rgb_0301.png",
+      "prediction": "classroom_0009_0301.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0009/depth_0301.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0009_0302.png",
+      "image": "depth/nyuv2/test/classroom_0009/rgb_0302.png",
+      "prediction": "classroom_0009_0302.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0009/depth_0302.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0014_0310.png",
+      "image": "depth/nyuv2/test/classroom_0014/rgb_0310.png",
+      "prediction": "classroom_0014_0310.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0014/depth_0310.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0014_0311.png",
+      "image": "depth/nyuv2/test/classroom_0014/rgb_0311.png",
+      "prediction": "classroom_0014_0311.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0014/depth_0311.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0015_0312.png",
+      "image": "depth/nyuv2/test/classroom_0015/rgb_0312.png",
+      "prediction": "classroom_0015_0312.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0015/depth_0312.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0017_0315.png",
+      "image": "depth/nyuv2/test/classroom_0017/rgb_0315.png",
+      "prediction": "classroom_0017_0315.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0017/depth_0315.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0017_0316.png",
+      "image": "depth/nyuv2/test/classroom_0017/rgb_0316.png",
+      "prediction": "classroom_0017_0316.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0017/depth_0316.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0017_0317.png",
+      "image": "depth/nyuv2/test/classroom_0017/rgb_0317.png",
+      "prediction": "classroom_0017_0317.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0017/depth_0317.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0023_0325.png",
+      "image": "depth/nyuv2/test/classroom_0023/rgb_0325.png",
+      "prediction": "classroom_0023_0325.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0023/depth_0325.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0023_0326.png",
+      "image": "depth/nyuv2/test/classroom_0023/rgb_0326.png",
+      "prediction": "classroom_0023_0326.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0023/depth_0326.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0023_0327.png",
+      "image": "depth/nyuv2/test/classroom_0023/rgb_0327.png",
+      "prediction": "classroom_0023_0327.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0023/depth_0327.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0023_0328.png",
+      "image": "depth/nyuv2/test/classroom_0023/rgb_0328.png",
+      "prediction": "classroom_0023_0328.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0023/depth_0328.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0024_0329.png",
+      "image": "depth/nyuv2/test/classroom_0024/rgb_0329.png",
+      "prediction": "classroom_0024_0329.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0024/depth_0329.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0024_0330.png",
+      "image": "depth/nyuv2/test/classroom_0024/rgb_0330.png",
+      "prediction": "classroom_0024_0330.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0024/depth_0330.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0026_0331.png",
+      "image": "depth/nyuv2/test/classroom_0026/rgb_0331.png",
+      "prediction": "classroom_0026_0331.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0026/depth_0331.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "classroom_0026_0332.png",
+      "image": "depth/nyuv2/test/classroom_0026/rgb_0332.png",
+      "prediction": "classroom_0026_0332.png",
+      "target": {
+        "depth": "depth/nyuv2/test/classroom_0026/depth_0332.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "computer_lab_0001_0333.png",
+      "image": "depth/nyuv2/test/computer_lab_0001/rgb_0333.png",
+      "prediction": "computer_lab_0001_0333.png",
+      "target": {
+        "depth": "depth/nyuv2/test/computer_lab_0001/depth_0333.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "computer_lab_0001_0334.png",
+      "image": "depth/nyuv2/test/computer_lab_0001/rgb_0334.png",
+      "prediction": "computer_lab_0001_0334.png",
+      "target": {
+        "depth": "depth/nyuv2/test/computer_lab_0001/depth_0334.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "computer_lab_0001_0335.png",
+      "image": "depth/nyuv2/test/computer_lab_0001/rgb_0335.png",
+      "prediction": "computer_lab_0001_0335.png",
+      "target": {
+        "depth": "depth/nyuv2/test/computer_lab_0001/depth_0335.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "foyer_0001_0351.png",
+      "image": "depth/nyuv2/test/foyer_0001/rgb_0351.png",
+      "prediction": "foyer_0001_0351.png",
+      "target": {
+        "depth": "depth/nyuv2/test/foyer_0001/depth_0351.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "foyer_0001_0352.png",
+      "image": "depth/nyuv2/test/foyer_0001/rgb_0352.png",
+      "prediction": "foyer_0001_0352.png",
+      "target": {
+        "depth": "depth/nyuv2/test/foyer_0001/depth_0352.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0001_0355.png",
+      "image": "depth/nyuv2/test/home_office_0001/rgb_0355.png",
+      "prediction": "home_office_0001_0355.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0001/depth_0355.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0001_0356.png",
+      "image": "depth/nyuv2/test/home_office_0001/rgb_0356.png",
+      "prediction": "home_office_0001_0356.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0001/depth_0356.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0001_0357.png",
+      "image": "depth/nyuv2/test/home_office_0001/rgb_0357.png",
+      "prediction": "home_office_0001_0357.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0001/depth_0357.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0001_0358.png",
+      "image": "depth/nyuv2/test/home_office_0001/rgb_0358.png",
+      "prediction": "home_office_0001_0358.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0001/depth_0358.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0002_0359.png",
+      "image": "depth/nyuv2/test/home_office_0002/rgb_0359.png",
+      "prediction": "home_office_0002_0359.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0002/depth_0359.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0002_0360.png",
+      "image": "depth/nyuv2/test/home_office_0002/rgb_0360.png",
+      "prediction": "home_office_0002_0360.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0002/depth_0360.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0002_0361.png",
+      "image": "depth/nyuv2/test/home_office_0002/rgb_0361.png",
+      "prediction": "home_office_0002_0361.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0002/depth_0361.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0002_0362.png",
+      "image": "depth/nyuv2/test/home_office_0002/rgb_0362.png",
+      "prediction": "home_office_0002_0362.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0002/depth_0362.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0003_0363.png",
+      "image": "depth/nyuv2/test/home_office_0003/rgb_0363.png",
+      "prediction": "home_office_0003_0363.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0003/depth_0363.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0003_0364.png",
+      "image": "depth/nyuv2/test/home_office_0003/rgb_0364.png",
+      "prediction": "home_office_0003_0364.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0003/depth_0364.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0009_0384.png",
+      "image": "depth/nyuv2/test/home_office_0009/rgb_0384.png",
+      "prediction": "home_office_0009_0384.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0009/depth_0384.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0009_0385.png",
+      "image": "depth/nyuv2/test/home_office_0009/rgb_0385.png",
+      "prediction": "home_office_0009_0385.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0009/depth_0385.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0009_0386.png",
+      "image": "depth/nyuv2/test/home_office_0009/rgb_0386.png",
+      "prediction": "home_office_0009_0386.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0009/depth_0386.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0010_0387.png",
+      "image": "depth/nyuv2/test/home_office_0010/rgb_0387.png",
+      "prediction": "home_office_0010_0387.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0010/depth_0387.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0010_0388.png",
+      "image": "depth/nyuv2/test/home_office_0010/rgb_0388.png",
+      "prediction": "home_office_0010_0388.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0010/depth_0388.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0010_0389.png",
+      "image": "depth/nyuv2/test/home_office_0010/rgb_0389.png",
+      "prediction": "home_office_0010_0389.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0010/depth_0389.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0010_0390.png",
+      "image": "depth/nyuv2/test/home_office_0010/rgb_0390.png",
+      "prediction": "home_office_0010_0390.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0010/depth_0390.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0012_0395.png",
+      "image": "depth/nyuv2/test/home_office_0012/rgb_0395.png",
+      "prediction": "home_office_0012_0395.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0012/depth_0395.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0012_0396.png",
+      "image": "depth/nyuv2/test/home_office_0012/rgb_0396.png",
+      "prediction": "home_office_0012_0396.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0012/depth_0396.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0012_0397.png",
+      "image": "depth/nyuv2/test/home_office_0012/rgb_0397.png",
+      "prediction": "home_office_0012_0397.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0012/depth_0397.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_kitchen_0002_0411.png",
+      "image": "depth/nyuv2/test/office_kitchen_0002/rgb_0411.png",
+      "prediction": "office_kitchen_0002_0411.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_kitchen_0002/depth_0411.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_kitchen_0002_0412.png",
+      "image": "depth/nyuv2/test/office_kitchen_0002/rgb_0412.png",
+      "prediction": "office_kitchen_0002_0412.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_kitchen_0002/depth_0412.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_kitchen_0002_0413.png",
+      "image": "depth/nyuv2/test/office_kitchen_0002/rgb_0413.png",
+      "prediction": "office_kitchen_0002_0413.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_kitchen_0002/depth_0413.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_kitchen_0002_0414.png",
+      "image": "depth/nyuv2/test/office_kitchen_0002/rgb_0414.png",
+      "prediction": "office_kitchen_0002_0414.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_kitchen_0002/depth_0414.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0430.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0430.png",
+      "prediction": "playroom_0005_0430.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0430.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0431.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0431.png",
+      "prediction": "playroom_0005_0431.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0431.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0432.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0432.png",
+      "prediction": "playroom_0005_0432.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0432.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0433.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0433.png",
+      "prediction": "playroom_0005_0433.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0433.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0434.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0434.png",
+      "prediction": "playroom_0005_0434.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0434.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0005_0435.png",
+      "image": "depth/nyuv2/test/playroom_0005/rgb_0435.png",
+      "prediction": "playroom_0005_0435.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0005/depth_0435.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0007_0441.png",
+      "image": "depth/nyuv2/test/playroom_0007/rgb_0441.png",
+      "prediction": "playroom_0007_0441.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0007/depth_0441.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0007_0442.png",
+      "image": "depth/nyuv2/test/playroom_0007/rgb_0442.png",
+      "prediction": "playroom_0007_0442.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0007/depth_0442.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0007_0443.png",
+      "image": "depth/nyuv2/test/playroom_0007/rgb_0443.png",
+      "prediction": "playroom_0007_0443.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0007/depth_0443.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0008_0444.png",
+      "image": "depth/nyuv2/test/playroom_0008/rgb_0444.png",
+      "prediction": "playroom_0008_0444.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0008/depth_0444.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0008_0445.png",
+      "image": "depth/nyuv2/test/playroom_0008/rgb_0445.png",
+      "prediction": "playroom_0008_0445.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0008/depth_0445.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0008_0446.png",
+      "image": "depth/nyuv2/test/playroom_0008/rgb_0446.png",
+      "prediction": "playroom_0008_0446.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0008/depth_0446.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0008_0447.png",
+      "image": "depth/nyuv2/test/playroom_0008/rgb_0447.png",
+      "prediction": "playroom_0008_0447.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0008/depth_0447.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "playroom_0008_0448.png",
+      "image": "depth/nyuv2/test/playroom_0008/rgb_0448.png",
+      "prediction": "playroom_0008_0448.png",
+      "target": {
+        "depth": "depth/nyuv2/test/playroom_0008/depth_0448.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "reception_room_0003_0462.png",
+      "image": "depth/nyuv2/test/reception_room_0003/rgb_0462.png",
+      "prediction": "reception_room_0003_0462.png",
+      "target": {
+        "depth": "depth/nyuv2/test/reception_room_0003/depth_0462.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "reception_room_0003_0463.png",
+      "image": "depth/nyuv2/test/reception_room_0003/rgb_0463.png",
+      "prediction": "reception_room_0003_0463.png",
+      "target": {
+        "depth": "depth/nyuv2/test/reception_room_0003/depth_0463.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "reception_room_0003_0464.png",
+      "image": "depth/nyuv2/test/reception_room_0003/rgb_0464.png",
+      "prediction": "reception_room_0003_0464.png",
+      "target": {
+        "depth": "depth/nyuv2/test/reception_room_0003/depth_0464.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "reception_room_0003_0465.png",
+      "image": "depth/nyuv2/test/reception_room_0003/rgb_0465.png",
+      "prediction": "reception_room_0003_0465.png",
+      "target": {
+        "depth": "depth/nyuv2/test/reception_room_0003/depth_0465.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "reception_room_0003_0466.png",
+      "image": "depth/nyuv2/test/reception_room_0003/rgb_0466.png",
+      "prediction": "reception_room_0003_0466.png",
+      "target": {
+        "depth": "depth/nyuv2/test/reception_room_0003/depth_0466.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0001_0469.png",
+      "image": "depth/nyuv2/test/study_0001/rgb_0469.png",
+      "prediction": "study_0001_0469.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0001/depth_0469.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0001_0470.png",
+      "image": "depth/nyuv2/test/study_0001/rgb_0470.png",
+      "prediction": "study_0001_0470.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0001/depth_0470.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0001_0471.png",
+      "image": "depth/nyuv2/test/study_0001/rgb_0471.png",
+      "prediction": "study_0001_0471.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0001/depth_0471.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0001_0472.png",
+      "image": "depth/nyuv2/test/study_0001/rgb_0472.png",
+      "prediction": "study_0001_0472.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0001/depth_0472.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0001_0473.png",
+      "image": "depth/nyuv2/test/study_0001/rgb_0473.png",
+      "prediction": "study_0001_0473.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0001/depth_0473.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0002_0474.png",
+      "image": "depth/nyuv2/test/study_0002/rgb_0474.png",
+      "prediction": "study_0002_0474.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0002/depth_0474.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0002_0475.png",
+      "image": "depth/nyuv2/test/study_0002/rgb_0475.png",
+      "prediction": "study_0002_0475.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0002/depth_0475.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0002_0476.png",
+      "image": "depth/nyuv2/test/study_0002/rgb_0476.png",
+      "prediction": "study_0002_0476.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0002/depth_0476.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0002_0477.png",
+      "image": "depth/nyuv2/test/study_0002/rgb_0477.png",
+      "prediction": "study_0002_0477.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0002/depth_0477.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0058_0508.png",
+      "image": "depth/nyuv2/test/bathroom_0058/rgb_0508.png",
+      "prediction": "bathroom_0058_0508.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0058/depth_0508.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0058_0509.png",
+      "image": "depth/nyuv2/test/bathroom_0058/rgb_0509.png",
+      "prediction": "bathroom_0058_0509.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0058/depth_0509.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0058_0510.png",
+      "image": "depth/nyuv2/test/bathroom_0058/rgb_0510.png",
+      "prediction": "bathroom_0058_0510.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0058/depth_0510.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0060_0511.png",
+      "image": "depth/nyuv2/test/bathroom_0060/rgb_0511.png",
+      "prediction": "bathroom_0060_0511.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0060/depth_0511.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0060_0512.png",
+      "image": "depth/nyuv2/test/bathroom_0060/rgb_0512.png",
+      "prediction": "bathroom_0060_0512.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0060/depth_0512.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0060_0513.png",
+      "image": "depth/nyuv2/test/bathroom_0060/rgb_0513.png",
+      "prediction": "bathroom_0060_0513.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0060/depth_0513.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0133_0515.png",
+      "image": "depth/nyuv2/test/bedroom_0133/rgb_0515.png",
+      "prediction": "bedroom_0133_0515.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0133/depth_0515.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0133_0516.png",
+      "image": "depth/nyuv2/test/bedroom_0133/rgb_0516.png",
+      "prediction": "bedroom_0133_0516.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0133/depth_0516.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0133_0517.png",
+      "image": "depth/nyuv2/test/bedroom_0133/rgb_0517.png",
+      "prediction": "bedroom_0133_0517.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0133/depth_0517.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0133_0518.png",
+      "image": "depth/nyuv2/test/bedroom_0133/rgb_0518.png",
+      "prediction": "bedroom_0133_0518.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0133/depth_0518.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0133_0519.png",
+      "image": "depth/nyuv2/test/bedroom_0133/rgb_0519.png",
+      "prediction": "bedroom_0133_0519.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0133/depth_0519.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0134_0520.png",
+      "image": "depth/nyuv2/test/bedroom_0134/rgb_0520.png",
+      "prediction": "bedroom_0134_0520.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0134/depth_0520.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0134_0521.png",
+      "image": "depth/nyuv2/test/bedroom_0134/rgb_0521.png",
+      "prediction": "bedroom_0134_0521.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0134/depth_0521.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0134_0522.png",
+      "image": "depth/nyuv2/test/bedroom_0134/rgb_0522.png",
+      "prediction": "bedroom_0134_0522.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0134/depth_0522.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0135_0523.png",
+      "image": "depth/nyuv2/test/bedroom_0135/rgb_0523.png",
+      "prediction": "bedroom_0135_0523.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0135/depth_0523.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0135_0524.png",
+      "image": "depth/nyuv2/test/bedroom_0135/rgb_0524.png",
+      "prediction": "bedroom_0135_0524.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0135/depth_0524.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0135_0525.png",
+      "image": "depth/nyuv2/test/bedroom_0135/rgb_0525.png",
+      "prediction": "bedroom_0135_0525.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0135/depth_0525.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0135_0526.png",
+      "image": "depth/nyuv2/test/bedroom_0135/rgb_0526.png",
+      "prediction": "bedroom_0135_0526.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0135/depth_0526.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0137_0531.png",
+      "image": "depth/nyuv2/test/bedroom_0137/rgb_0531.png",
+      "prediction": "bedroom_0137_0531.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0137/depth_0531.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0137_0532.png",
+      "image": "depth/nyuv2/test/bedroom_0137/rgb_0532.png",
+      "prediction": "bedroom_0137_0532.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0137/depth_0532.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0137_0533.png",
+      "image": "depth/nyuv2/test/bedroom_0137/rgb_0533.png",
+      "prediction": "bedroom_0137_0533.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0137/depth_0533.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0139_0537.png",
+      "image": "depth/nyuv2/test/bedroom_0139/rgb_0537.png",
+      "prediction": "bedroom_0139_0537.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0139/depth_0537.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0139_0538.png",
+      "image": "depth/nyuv2/test/bedroom_0139/rgb_0538.png",
+      "prediction": "bedroom_0139_0538.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0139/depth_0538.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0139_0539.png",
+      "image": "depth/nyuv2/test/bedroom_0139/rgb_0539.png",
+      "prediction": "bedroom_0139_0539.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0139/depth_0539.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "dining_room_0038_0549.png",
+      "image": "depth/nyuv2/test/dining_room_0038/rgb_0549.png",
+      "prediction": "dining_room_0038_0549.png",
+      "target": {
+        "depth": "depth/nyuv2/test/dining_room_0038/depth_0549.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "dining_room_0038_0550.png",
+      "image": "depth/nyuv2/test/dining_room_0038/rgb_0550.png",
+      "prediction": "dining_room_0038_0550.png",
+      "target": {
+        "depth": "depth/nyuv2/test/dining_room_0038/depth_0550.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "dining_room_0038_0551.png",
+      "image": "depth/nyuv2/test/dining_room_0038/rgb_0551.png",
+      "prediction": "dining_room_0038_0551.png",
+      "target": {
+        "depth": "depth/nyuv2/test/dining_room_0038/depth_0551.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0014_0555.png",
+      "image": "depth/nyuv2/test/home_office_0014/rgb_0555.png",
+      "prediction": "home_office_0014_0555.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0014/depth_0555.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0014_0556.png",
+      "image": "depth/nyuv2/test/home_office_0014/rgb_0556.png",
+      "prediction": "home_office_0014_0556.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0014/depth_0556.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0014_0557.png",
+      "image": "depth/nyuv2/test/home_office_0014/rgb_0557.png",
+      "prediction": "home_office_0014_0557.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0014/depth_0557.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "home_office_0014_0558.png",
+      "image": "depth/nyuv2/test/home_office_0014/rgb_0558.png",
+      "prediction": "home_office_0014_0558.png",
+      "target": {
+        "depth": "depth/nyuv2/test/home_office_0014/depth_0558.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0055_0559.png",
+      "image": "depth/nyuv2/test/kitchen_0055/rgb_0559.png",
+      "prediction": "kitchen_0055_0559.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0055/depth_0559.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0055_0560.png",
+      "image": "depth/nyuv2/test/kitchen_0055/rgb_0560.png",
+      "prediction": "kitchen_0055_0560.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0055/depth_0560.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0056_0561.png",
+      "image": "depth/nyuv2/test/kitchen_0056/rgb_0561.png",
+      "prediction": "kitchen_0056_0561.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0056/depth_0561.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0056_0562.png",
+      "image": "depth/nyuv2/test/kitchen_0056/rgb_0562.png",
+      "prediction": "kitchen_0056_0562.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0056/depth_0562.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0056_0563.png",
+      "image": "depth/nyuv2/test/kitchen_0056/rgb_0563.png",
+      "prediction": "kitchen_0056_0563.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0056/depth_0563.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0056_0564.png",
+      "image": "depth/nyuv2/test/kitchen_0056/rgb_0564.png",
+      "prediction": "kitchen_0056_0564.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0056/depth_0564.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0057_0565.png",
+      "image": "depth/nyuv2/test/kitchen_0057/rgb_0565.png",
+      "prediction": "kitchen_0057_0565.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0057/depth_0565.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0057_0566.png",
+      "image": "depth/nyuv2/test/kitchen_0057/rgb_0566.png",
+      "prediction": "kitchen_0057_0566.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0057/depth_0566.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0057_0567.png",
+      "image": "depth/nyuv2/test/kitchen_0057/rgb_0567.png",
+      "prediction": "kitchen_0057_0567.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0057/depth_0567.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0057_0568.png",
+      "image": "depth/nyuv2/test/kitchen_0057/rgb_0568.png",
+      "prediction": "kitchen_0057_0568.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0057/depth_0568.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0058_0569.png",
+      "image": "depth/nyuv2/test/kitchen_0058/rgb_0569.png",
+      "prediction": "kitchen_0058_0569.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0058/depth_0569.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0058_0570.png",
+      "image": "depth/nyuv2/test/kitchen_0058/rgb_0570.png",
+      "prediction": "kitchen_0058_0570.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0058/depth_0570.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0058_0571.png",
+      "image": "depth/nyuv2/test/kitchen_0058/rgb_0571.png",
+      "prediction": "kitchen_0058_0571.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0058/depth_0571.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0081_0579.png",
+      "image": "depth/nyuv2/test/living_room_0081/rgb_0579.png",
+      "prediction": "living_room_0081_0579.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0081/depth_0579.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0081_0580.png",
+      "image": "depth/nyuv2/test/living_room_0081/rgb_0580.png",
+      "prediction": "living_room_0081_0580.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0081/depth_0580.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0081_0581.png",
+      "image": "depth/nyuv2/test/living_room_0081/rgb_0581.png",
+      "prediction": "living_room_0081_0581.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0081/depth_0581.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0081_0582.png",
+      "image": "depth/nyuv2/test/living_room_0081/rgb_0582.png",
+      "prediction": "living_room_0081_0582.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0081/depth_0582.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0081_0583.png",
+      "image": "depth/nyuv2/test/living_room_0081/rgb_0583.png",
+      "prediction": "living_room_0081_0583.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0081/depth_0583.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0084_0591.png",
+      "image": "depth/nyuv2/test/living_room_0084/rgb_0591.png",
+      "prediction": "living_room_0084_0591.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0084/depth_0591.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0084_0592.png",
+      "image": "depth/nyuv2/test/living_room_0084/rgb_0592.png",
+      "prediction": "living_room_0084_0592.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0084/depth_0592.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0084_0593.png",
+      "image": "depth/nyuv2/test/living_room_0084/rgb_0593.png",
+      "prediction": "living_room_0084_0593.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0084/depth_0593.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0084_0594.png",
+      "image": "depth/nyuv2/test/living_room_0084/rgb_0594.png",
+      "prediction": "living_room_0084_0594.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0084/depth_0594.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0087_0603.png",
+      "image": "depth/nyuv2/test/living_room_0087/rgb_0603.png",
+      "prediction": "living_room_0087_0603.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0087/depth_0603.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0087_0604.png",
+      "image": "depth/nyuv2/test/living_room_0087/rgb_0604.png",
+      "prediction": "living_room_0087_0604.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0087/depth_0604.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0087_0605.png",
+      "image": "depth/nyuv2/test/living_room_0087/rgb_0605.png",
+      "prediction": "living_room_0087_0605.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0087/depth_0605.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0087_0606.png",
+      "image": "depth/nyuv2/test/living_room_0087/rgb_0606.png",
+      "prediction": "living_room_0087_0606.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0087/depth_0606.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "living_room_0087_0607.png",
+      "image": "depth/nyuv2/test/living_room_0087/rgb_0607.png",
+      "prediction": "living_room_0087_0607.png",
+      "target": {
+        "depth": "depth/nyuv2/test/living_room_0087/depth_0607.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0020_0612.png",
+      "image": "depth/nyuv2/test/office_0020/rgb_0612.png",
+      "prediction": "office_0020_0612.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0020/depth_0612.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0020_0613.png",
+      "image": "depth/nyuv2/test/office_0020/rgb_0613.png",
+      "prediction": "office_0020_0613.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0020/depth_0613.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0022_0617.png",
+      "image": "depth/nyuv2/test/office_0022/rgb_0617.png",
+      "prediction": "office_0022_0617.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0022/depth_0617.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0022_0618.png",
+      "image": "depth/nyuv2/test/office_0022/rgb_0618.png",
+      "prediction": "office_0022_0618.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0022/depth_0618.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0022_0619.png",
+      "image": "depth/nyuv2/test/office_0022/rgb_0619.png",
+      "prediction": "office_0022_0619.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0022/depth_0619.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0022_0620.png",
+      "image": "depth/nyuv2/test/office_0022/rgb_0620.png",
+      "prediction": "office_0022_0620.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0022/depth_0620.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0022_0621.png",
+      "image": "depth/nyuv2/test/office_0022/rgb_0621.png",
+      "prediction": "office_0022_0621.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0022/depth_0621.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0633.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0633.png",
+      "prediction": "office_0027_0633.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0633.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0634.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0634.png",
+      "prediction": "office_0027_0634.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0634.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0635.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0635.png",
+      "prediction": "office_0027_0635.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0635.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0636.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0636.png",
+      "prediction": "office_0027_0636.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0636.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0637.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0637.png",
+      "prediction": "office_0027_0637.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0637.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "office_0027_0638.png",
+      "image": "depth/nyuv2/test/office_0027/rgb_0638.png",
+      "prediction": "office_0027_0638.png",
+      "target": {
+        "depth": "depth/nyuv2/test/office_0027/depth_0638.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0007_0644.png",
+      "image": "depth/nyuv2/test/study_0007/rgb_0644.png",
+      "prediction": "study_0007_0644.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0007/depth_0644.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "study_0007_0645.png",
+      "image": "depth/nyuv2/test/study_0007/rgb_0645.png",
+      "prediction": "study_0007_0645.png",
+      "target": {
+        "depth": "depth/nyuv2/test/study_0007/depth_0645.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0008_0650.png",
+      "image": "depth/nyuv2/test/bathroom_0008/rgb_0650.png",
+      "prediction": "bathroom_0008_0650.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0008/depth_0650.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0009_0651.png",
+      "image": "depth/nyuv2/test/bathroom_0009/rgb_0651.png",
+      "prediction": "bathroom_0009_0651.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0009/depth_0651.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0012_0656.png",
+      "image": "depth/nyuv2/test/bathroom_0012/rgb_0656.png",
+      "prediction": "bathroom_0012_0656.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0012/depth_0656.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0012_0657.png",
+      "image": "depth/nyuv2/test/bathroom_0012/rgb_0657.png",
+      "prediction": "bathroom_0012_0657.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0012/depth_0657.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0012_0658.png",
+      "image": "depth/nyuv2/test/bathroom_0012/rgb_0658.png",
+      "prediction": "bathroom_0012_0658.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0012/depth_0658.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0015_0663.png",
+      "image": "depth/nyuv2/test/bathroom_0015/rgb_0663.png",
+      "prediction": "bathroom_0015_0663.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0015/depth_0663.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0015_0664.png",
+      "image": "depth/nyuv2/test/bathroom_0015/rgb_0664.png",
+      "prediction": "bathroom_0015_0664.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0015/depth_0664.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0017_0668.png",
+      "image": "depth/nyuv2/test/bathroom_0017/rgb_0668.png",
+      "prediction": "bathroom_0017_0668.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0017/depth_0668.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0017_0669.png",
+      "image": "depth/nyuv2/test/bathroom_0017/rgb_0669.png",
+      "prediction": "bathroom_0017_0669.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0017/depth_0669.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0017_0670.png",
+      "image": "depth/nyuv2/test/bathroom_0017/rgb_0670.png",
+      "prediction": "bathroom_0017_0670.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0017/depth_0670.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0018_0671.png",
+      "image": "depth/nyuv2/test/bathroom_0018/rgb_0671.png",
+      "prediction": "bathroom_0018_0671.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0018/depth_0671.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0018_0672.png",
+      "image": "depth/nyuv2/test/bathroom_0018/rgb_0672.png",
+      "prediction": "bathroom_0018_0672.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0018/depth_0672.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0018_0673.png",
+      "image": "depth/nyuv2/test/bathroom_0018/rgb_0673.png",
+      "prediction": "bathroom_0018_0673.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0018/depth_0673.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0020_0676.png",
+      "image": "depth/nyuv2/test/bathroom_0020/rgb_0676.png",
+      "prediction": "bathroom_0020_0676.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0020/depth_0676.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0020_0677.png",
+      "image": "depth/nyuv2/test/bathroom_0020/rgb_0677.png",
+      "prediction": "bathroom_0020_0677.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0020/depth_0677.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0021_0678.png",
+      "image": "depth/nyuv2/test/bathroom_0021/rgb_0678.png",
+      "prediction": "bathroom_0021_0678.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0021/depth_0678.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0021_0679.png",
+      "image": "depth/nyuv2/test/bathroom_0021/rgb_0679.png",
+      "prediction": "bathroom_0021_0679.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0021/depth_0679.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0022_0680.png",
+      "image": "depth/nyuv2/test/bathroom_0022/rgb_0680.png",
+      "prediction": "bathroom_0022_0680.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0022/depth_0680.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0022_0681.png",
+      "image": "depth/nyuv2/test/bathroom_0022/rgb_0681.png",
+      "prediction": "bathroom_0022_0681.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0022/depth_0681.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0025_0686.png",
+      "image": "depth/nyuv2/test/bathroom_0025/rgb_0686.png",
+      "prediction": "bathroom_0025_0686.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0025/depth_0686.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0025_0687.png",
+      "image": "depth/nyuv2/test/bathroom_0025/rgb_0687.png",
+      "prediction": "bathroom_0025_0687.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0025/depth_0687.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0026_0688.png",
+      "image": "depth/nyuv2/test/bathroom_0026/rgb_0688.png",
+      "prediction": "bathroom_0026_0688.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0026/depth_0688.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0026_0689.png",
+      "image": "depth/nyuv2/test/bathroom_0026/rgb_0689.png",
+      "prediction": "bathroom_0026_0689.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0026/depth_0689.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0026_0690.png",
+      "image": "depth/nyuv2/test/bathroom_0026/rgb_0690.png",
+      "prediction": "bathroom_0026_0690.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0026/depth_0690.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0029_0693.png",
+      "image": "depth/nyuv2/test/bathroom_0029/rgb_0693.png",
+      "prediction": "bathroom_0029_0693.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0029/depth_0693.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0029_0694.png",
+      "image": "depth/nyuv2/test/bathroom_0029/rgb_0694.png",
+      "prediction": "bathroom_0029_0694.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0029/depth_0694.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0031_0697.png",
+      "image": "depth/nyuv2/test/bathroom_0031/rgb_0697.png",
+      "prediction": "bathroom_0031_0697.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0031/depth_0697.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0031_0698.png",
+      "image": "depth/nyuv2/test/bathroom_0031/rgb_0698.png",
+      "prediction": "bathroom_0031_0698.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0031/depth_0698.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0031_0699.png",
+      "image": "depth/nyuv2/test/bathroom_0031/rgb_0699.png",
+      "prediction": "bathroom_0031_0699.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0031/depth_0699.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0036_0706.png",
+      "image": "depth/nyuv2/test/bathroom_0036/rgb_0706.png",
+      "prediction": "bathroom_0036_0706.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0036/depth_0706.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0036_0707.png",
+      "image": "depth/nyuv2/test/bathroom_0036/rgb_0707.png",
+      "prediction": "bathroom_0036_0707.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0036/depth_0707.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0036_0708.png",
+      "image": "depth/nyuv2/test/bathroom_0036/rgb_0708.png",
+      "prediction": "bathroom_0036_0708.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0036/depth_0708.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0037_0709.png",
+      "image": "depth/nyuv2/test/bathroom_0037/rgb_0709.png",
+      "prediction": "bathroom_0037_0709.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0037/depth_0709.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0037_0710.png",
+      "image": "depth/nyuv2/test/bathroom_0037/rgb_0710.png",
+      "prediction": "bathroom_0037_0710.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0037/depth_0710.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0038_0711.png",
+      "image": "depth/nyuv2/test/bathroom_0038/rgb_0711.png",
+      "prediction": "bathroom_0038_0711.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0038/depth_0711.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0038_0712.png",
+      "image": "depth/nyuv2/test/bathroom_0038/rgb_0712.png",
+      "prediction": "bathroom_0038_0712.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0038/depth_0712.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0038_0713.png",
+      "image": "depth/nyuv2/test/bathroom_0038/rgb_0713.png",
+      "prediction": "bathroom_0038_0713.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0038/depth_0713.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0040_0717.png",
+      "image": "depth/nyuv2/test/bathroom_0040/rgb_0717.png",
+      "prediction": "bathroom_0040_0717.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0040/depth_0717.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0040_0718.png",
+      "image": "depth/nyuv2/test/bathroom_0040/rgb_0718.png",
+      "prediction": "bathroom_0040_0718.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0040/depth_0718.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0043_0724.png",
+      "image": "depth/nyuv2/test/bathroom_0043/rgb_0724.png",
+      "prediction": "bathroom_0043_0724.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0043/depth_0724.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0043_0725.png",
+      "image": "depth/nyuv2/test/bathroom_0043/rgb_0725.png",
+      "prediction": "bathroom_0043_0725.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0043/depth_0725.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0043_0726.png",
+      "image": "depth/nyuv2/test/bathroom_0043/rgb_0726.png",
+      "prediction": "bathroom_0043_0726.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0043/depth_0726.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0044_0727.png",
+      "image": "depth/nyuv2/test/bathroom_0044/rgb_0727.png",
+      "prediction": "bathroom_0044_0727.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0044/depth_0727.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0044_0728.png",
+      "image": "depth/nyuv2/test/bathroom_0044/rgb_0728.png",
+      "prediction": "bathroom_0044_0728.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0044/depth_0728.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0046_0731.png",
+      "image": "depth/nyuv2/test/bathroom_0046/rgb_0731.png",
+      "prediction": "bathroom_0046_0731.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0046/depth_0731.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0046_0732.png",
+      "image": "depth/nyuv2/test/bathroom_0046/rgb_0732.png",
+      "prediction": "bathroom_0046_0732.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0046/depth_0732.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0047_0733.png",
+      "image": "depth/nyuv2/test/bathroom_0047/rgb_0733.png",
+      "prediction": "bathroom_0047_0733.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0047/depth_0733.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0047_0734.png",
+      "image": "depth/nyuv2/test/bathroom_0047/rgb_0734.png",
+      "prediction": "bathroom_0047_0734.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0047/depth_0734.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0052_0743.png",
+      "image": "depth/nyuv2/test/bathroom_0052/rgb_0743.png",
+      "prediction": "bathroom_0052_0743.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0052/depth_0743.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bathroom_0052_0744.png",
+      "image": "depth/nyuv2/test/bathroom_0052/rgb_0744.png",
+      "prediction": "bathroom_0052_0744.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bathroom_0052/depth_0744.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0021_0759.png",
+      "image": "depth/nyuv2/test/kitchen_0021/rgb_0759.png",
+      "prediction": "kitchen_0021_0759.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0021/depth_0759.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0021_0760.png",
+      "image": "depth/nyuv2/test/kitchen_0021/rgb_0760.png",
+      "prediction": "kitchen_0021_0760.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0021/depth_0760.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0021_0761.png",
+      "image": "depth/nyuv2/test/kitchen_0021/rgb_0761.png",
+      "prediction": "kitchen_0021_0761.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0021/depth_0761.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0022_0762.png",
+      "image": "depth/nyuv2/test/kitchen_0022/rgb_0762.png",
+      "prediction": "kitchen_0022_0762.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0022/depth_0762.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0022_0763.png",
+      "image": "depth/nyuv2/test/kitchen_0022/rgb_0763.png",
+      "prediction": "kitchen_0022_0763.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0022/depth_0763.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0022_0764.png",
+      "image": "depth/nyuv2/test/kitchen_0022/rgb_0764.png",
+      "prediction": "kitchen_0022_0764.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0022/depth_0764.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0022_0765.png",
+      "image": "depth/nyuv2/test/kitchen_0022/rgb_0765.png",
+      "prediction": "kitchen_0022_0765.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0022/depth_0765.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0022_0766.png",
+      "image": "depth/nyuv2/test/kitchen_0022/rgb_0766.png",
+      "prediction": "kitchen_0022_0766.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0022/depth_0766.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0023_0767.png",
+      "image": "depth/nyuv2/test/kitchen_0023/rgb_0767.png",
+      "prediction": "kitchen_0023_0767.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0023/depth_0767.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0023_0768.png",
+      "image": "depth/nyuv2/test/kitchen_0023/rgb_0768.png",
+      "prediction": "kitchen_0023_0768.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0023/depth_0768.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0023_0769.png",
+      "image": "depth/nyuv2/test/kitchen_0023/rgb_0769.png",
+      "prediction": "kitchen_0023_0769.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0023/depth_0769.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0023_0770.png",
+      "image": "depth/nyuv2/test/kitchen_0023/rgb_0770.png",
+      "prediction": "kitchen_0023_0770.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0023/depth_0770.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0023_0771.png",
+      "image": "depth/nyuv2/test/kitchen_0023/rgb_0771.png",
+      "prediction": "kitchen_0023_0771.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0023/depth_0771.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0024_0772.png",
+      "image": "depth/nyuv2/test/kitchen_0024/rgb_0772.png",
+      "prediction": "kitchen_0024_0772.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0024/depth_0772.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0024_0773.png",
+      "image": "depth/nyuv2/test/kitchen_0024/rgb_0773.png",
+      "prediction": "kitchen_0024_0773.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0024/depth_0773.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0024_0774.png",
+      "image": "depth/nyuv2/test/kitchen_0024/rgb_0774.png",
+      "prediction": "kitchen_0024_0774.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0024/depth_0774.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0024_0775.png",
+      "image": "depth/nyuv2/test/kitchen_0024/rgb_0775.png",
+      "prediction": "kitchen_0024_0775.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0024/depth_0775.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0024_0776.png",
+      "image": "depth/nyuv2/test/kitchen_0024/rgb_0776.png",
+      "prediction": "kitchen_0024_0776.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0024/depth_0776.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0025_0777.png",
+      "image": "depth/nyuv2/test/kitchen_0025/rgb_0777.png",
+      "prediction": "kitchen_0025_0777.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0025/depth_0777.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0025_0778.png",
+      "image": "depth/nyuv2/test/kitchen_0025/rgb_0778.png",
+      "prediction": "kitchen_0025_0778.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0025/depth_0778.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0025_0779.png",
+      "image": "depth/nyuv2/test/kitchen_0025/rgb_0779.png",
+      "prediction": "kitchen_0025_0779.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0025/depth_0779.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0026_0780.png",
+      "image": "depth/nyuv2/test/kitchen_0026/rgb_0780.png",
+      "prediction": "kitchen_0026_0780.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0026/depth_0780.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0026_0781.png",
+      "image": "depth/nyuv2/test/kitchen_0026/rgb_0781.png",
+      "prediction": "kitchen_0026_0781.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0026/depth_0781.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0026_0782.png",
+      "image": "depth/nyuv2/test/kitchen_0026/rgb_0782.png",
+      "prediction": "kitchen_0026_0782.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0026/depth_0782.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0027_0783.png",
+      "image": "depth/nyuv2/test/kitchen_0027/rgb_0783.png",
+      "prediction": "kitchen_0027_0783.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0027/depth_0783.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0027_0784.png",
+      "image": "depth/nyuv2/test/kitchen_0027/rgb_0784.png",
+      "prediction": "kitchen_0027_0784.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0027/depth_0784.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0027_0785.png",
+      "image": "depth/nyuv2/test/kitchen_0027/rgb_0785.png",
+      "prediction": "kitchen_0027_0785.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0027/depth_0785.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0027_0786.png",
+      "image": "depth/nyuv2/test/kitchen_0027/rgb_0786.png",
+      "prediction": "kitchen_0027_0786.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0027/depth_0786.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0027_0787.png",
+      "image": "depth/nyuv2/test/kitchen_0027/rgb_0787.png",
+      "prediction": "kitchen_0027_0787.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0027/depth_0787.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0030_0800.png",
+      "image": "depth/nyuv2/test/kitchen_0030/rgb_0800.png",
+      "prediction": "kitchen_0030_0800.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0030/depth_0800.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0030_0801.png",
+      "image": "depth/nyuv2/test/kitchen_0030/rgb_0801.png",
+      "prediction": "kitchen_0030_0801.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0030/depth_0801.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0030_0802.png",
+      "image": "depth/nyuv2/test/kitchen_0030/rgb_0802.png",
+      "prediction": "kitchen_0030_0802.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0030/depth_0802.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0030_0803.png",
+      "image": "depth/nyuv2/test/kitchen_0030/rgb_0803.png",
+      "prediction": "kitchen_0030_0803.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0030/depth_0803.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0030_0804.png",
+      "image": "depth/nyuv2/test/kitchen_0030/rgb_0804.png",
+      "prediction": "kitchen_0030_0804.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0030/depth_0804.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0032_0810.png",
+      "image": "depth/nyuv2/test/kitchen_0032/rgb_0810.png",
+      "prediction": "kitchen_0032_0810.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0032/depth_0810.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0032_0811.png",
+      "image": "depth/nyuv2/test/kitchen_0032/rgb_0811.png",
+      "prediction": "kitchen_0032_0811.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0032/depth_0811.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0032_0812.png",
+      "image": "depth/nyuv2/test/kitchen_0032/rgb_0812.png",
+      "prediction": "kitchen_0032_0812.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0032/depth_0812.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0032_0813.png",
+      "image": "depth/nyuv2/test/kitchen_0032/rgb_0813.png",
+      "prediction": "kitchen_0032_0813.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0032/depth_0813.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0032_0814.png",
+      "image": "depth/nyuv2/test/kitchen_0032/rgb_0814.png",
+      "prediction": "kitchen_0032_0814.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0032/depth_0814.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0034_0821.png",
+      "image": "depth/nyuv2/test/kitchen_0034/rgb_0821.png",
+      "prediction": "kitchen_0034_0821.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0034/depth_0821.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0034_0822.png",
+      "image": "depth/nyuv2/test/kitchen_0034/rgb_0822.png",
+      "prediction": "kitchen_0034_0822.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0034/depth_0822.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0034_0823.png",
+      "image": "depth/nyuv2/test/kitchen_0034/rgb_0823.png",
+      "prediction": "kitchen_0034_0823.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0034/depth_0823.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0038_0833.png",
+      "image": "depth/nyuv2/test/kitchen_0038/rgb_0833.png",
+      "prediction": "kitchen_0038_0833.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0038/depth_0833.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0038_0834.png",
+      "image": "depth/nyuv2/test/kitchen_0038/rgb_0834.png",
+      "prediction": "kitchen_0038_0834.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0038/depth_0834.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0038_0835.png",
+      "image": "depth/nyuv2/test/kitchen_0038/rgb_0835.png",
+      "prediction": "kitchen_0038_0835.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0038/depth_0835.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0038_0836.png",
+      "image": "depth/nyuv2/test/kitchen_0038/rgb_0836.png",
+      "prediction": "kitchen_0038_0836.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0038/depth_0836.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0837.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0837.png",
+      "prediction": "kitchen_0039_0837.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0837.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0838.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0838.png",
+      "prediction": "kitchen_0039_0838.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0838.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0839.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0839.png",
+      "prediction": "kitchen_0039_0839.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0839.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0840.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0840.png",
+      "prediction": "kitchen_0039_0840.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0840.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0841.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0841.png",
+      "prediction": "kitchen_0039_0841.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0841.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0039_0842.png",
+      "image": "depth/nyuv2/test/kitchen_0039/rgb_0842.png",
+      "prediction": "kitchen_0039_0842.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0039/depth_0842.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0040_0843.png",
+      "image": "depth/nyuv2/test/kitchen_0040/rgb_0843.png",
+      "prediction": "kitchen_0040_0843.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0040/depth_0843.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0040_0844.png",
+      "image": "depth/nyuv2/test/kitchen_0040/rgb_0844.png",
+      "prediction": "kitchen_0040_0844.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0040/depth_0844.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0040_0845.png",
+      "image": "depth/nyuv2/test/kitchen_0040/rgb_0845.png",
+      "prediction": "kitchen_0040_0845.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0040/depth_0845.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0040_0846.png",
+      "image": "depth/nyuv2/test/kitchen_0040/rgb_0846.png",
+      "prediction": "kitchen_0040_0846.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0040/depth_0846.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0042_0850.png",
+      "image": "depth/nyuv2/test/kitchen_0042/rgb_0850.png",
+      "prediction": "kitchen_0042_0850.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0042/depth_0850.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0042_0851.png",
+      "image": "depth/nyuv2/test/kitchen_0042/rgb_0851.png",
+      "prediction": "kitchen_0042_0851.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0042/depth_0851.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0042_0852.png",
+      "image": "depth/nyuv2/test/kitchen_0042/rgb_0852.png",
+      "prediction": "kitchen_0042_0852.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0042/depth_0852.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0857.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0857.png",
+      "prediction": "kitchen_0044_0857.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0857.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0858.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0858.png",
+      "prediction": "kitchen_0044_0858.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0858.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0859.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0859.png",
+      "prediction": "kitchen_0044_0859.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0859.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0860.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0860.png",
+      "prediction": "kitchen_0044_0860.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0860.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0861.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0861.png",
+      "prediction": "kitchen_0044_0861.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0861.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0044_0862.png",
+      "image": "depth/nyuv2/test/kitchen_0044/rgb_0862.png",
+      "prediction": "kitchen_0044_0862.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0044/depth_0862.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0046_0869.png",
+      "image": "depth/nyuv2/test/kitchen_0046/rgb_0869.png",
+      "prediction": "kitchen_0046_0869.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0046/depth_0869.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0046_0870.png",
+      "image": "depth/nyuv2/test/kitchen_0046/rgb_0870.png",
+      "prediction": "kitchen_0046_0870.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0046/depth_0870.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0046_0871.png",
+      "image": "depth/nyuv2/test/kitchen_0046/rgb_0871.png",
+      "prediction": "kitchen_0046_0871.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0046/depth_0871.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0054_0906.png",
+      "image": "depth/nyuv2/test/kitchen_0054/rgb_0906.png",
+      "prediction": "kitchen_0054_0906.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0054/depth_0906.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0054_0907.png",
+      "image": "depth/nyuv2/test/kitchen_0054/rgb_0907.png",
+      "prediction": "kitchen_0054_0907.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0054/depth_0907.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "kitchen_0054_0908.png",
+      "image": "depth/nyuv2/test/kitchen_0054/rgb_0908.png",
+      "prediction": "kitchen_0054_0908.png",
+      "target": {
+        "depth": "depth/nyuv2/test/kitchen_0054/depth_0908.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0027_0917.png",
+      "image": "depth/nyuv2/test/bedroom_0027/rgb_0917.png",
+      "prediction": "bedroom_0027_0917.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0027/depth_0917.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0027_0918.png",
+      "image": "depth/nyuv2/test/bedroom_0027/rgb_0918.png",
+      "prediction": "bedroom_0027_0918.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0027/depth_0918.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0027_0919.png",
+      "image": "depth/nyuv2/test/bedroom_0027/rgb_0919.png",
+      "prediction": "bedroom_0027_0919.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0027/depth_0919.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0030_0926.png",
+      "image": "depth/nyuv2/test/bedroom_0030/rgb_0926.png",
+      "prediction": "bedroom_0030_0926.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0030/depth_0926.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0030_0927.png",
+      "image": "depth/nyuv2/test/bedroom_0030/rgb_0927.png",
+      "prediction": "bedroom_0030_0927.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0030/depth_0927.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0030_0928.png",
+      "image": "depth/nyuv2/test/bedroom_0030/rgb_0928.png",
+      "prediction": "bedroom_0030_0928.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0030/depth_0928.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0032_0932.png",
+      "image": "depth/nyuv2/test/bedroom_0032/rgb_0932.png",
+      "prediction": "bedroom_0032_0932.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0032/depth_0932.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0032_0933.png",
+      "image": "depth/nyuv2/test/bedroom_0032/rgb_0933.png",
+      "prediction": "bedroom_0032_0933.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0032/depth_0933.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0032_0934.png",
+      "image": "depth/nyuv2/test/bedroom_0032/rgb_0934.png",
+      "prediction": "bedroom_0032_0934.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0032/depth_0934.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0032_0935.png",
+      "image": "depth/nyuv2/test/bedroom_0032/rgb_0935.png",
+      "prediction": "bedroom_0032_0935.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0032/depth_0935.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0037_0945.png",
+      "image": "depth/nyuv2/test/bedroom_0037/rgb_0945.png",
+      "prediction": "bedroom_0037_0945.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0037/depth_0945.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0037_0946.png",
+      "image": "depth/nyuv2/test/bedroom_0037/rgb_0946.png",
+      "prediction": "bedroom_0037_0946.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0037/depth_0946.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0037_0947.png",
+      "image": "depth/nyuv2/test/bedroom_0037/rgb_0947.png",
+      "prediction": "bedroom_0037_0947.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0037/depth_0947.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0043_0959.png",
+      "image": "depth/nyuv2/test/bedroom_0043/rgb_0959.png",
+      "prediction": "bedroom_0043_0959.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0043/depth_0959.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0043_0960.png",
+      "image": "depth/nyuv2/test/bedroom_0043/rgb_0960.png",
+      "prediction": "bedroom_0043_0960.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0043/depth_0960.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0044_0961.png",
+      "image": "depth/nyuv2/test/bedroom_0044/rgb_0961.png",
+      "prediction": "bedroom_0044_0961.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0044/depth_0961.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0044_0962.png",
+      "image": "depth/nyuv2/test/bedroom_0044/rgb_0962.png",
+      "prediction": "bedroom_0044_0962.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0044/depth_0962.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0046_0965.png",
+      "image": "depth/nyuv2/test/bedroom_0046/rgb_0965.png",
+      "prediction": "bedroom_0046_0965.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0046/depth_0965.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0046_0966.png",
+      "image": "depth/nyuv2/test/bedroom_0046/rgb_0966.png",
+      "prediction": "bedroom_0046_0966.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0046/depth_0966.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0046_0967.png",
+      "image": "depth/nyuv2/test/bedroom_0046/rgb_0967.png",
+      "prediction": "bedroom_0046_0967.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0046/depth_0967.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0048_0970.png",
+      "image": "depth/nyuv2/test/bedroom_0048/rgb_0970.png",
+      "prediction": "bedroom_0048_0970.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0048/depth_0970.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0048_0971.png",
+      "image": "depth/nyuv2/test/bedroom_0048/rgb_0971.png",
+      "prediction": "bedroom_0048_0971.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0048/depth_0971.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0048_0972.png",
+      "image": "depth/nyuv2/test/bedroom_0048/rgb_0972.png",
+      "prediction": "bedroom_0048_0972.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0048/depth_0972.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0048_0973.png",
+      "image": "depth/nyuv2/test/bedroom_0048/rgb_0973.png",
+      "prediction": "bedroom_0048_0973.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0048/depth_0973.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0048_0974.png",
+      "image": "depth/nyuv2/test/bedroom_0048/rgb_0974.png",
+      "prediction": "bedroom_0048_0974.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0048/depth_0974.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0049_0975.png",
+      "image": "depth/nyuv2/test/bedroom_0049/rgb_0975.png",
+      "prediction": "bedroom_0049_0975.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0049/depth_0975.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0049_0976.png",
+      "image": "depth/nyuv2/test/bedroom_0049/rgb_0976.png",
+      "prediction": "bedroom_0049_0976.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0049/depth_0976.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0049_0977.png",
+      "image": "depth/nyuv2/test/bedroom_0049/rgb_0977.png",
+      "prediction": "bedroom_0049_0977.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0049/depth_0977.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0054_0991.png",
+      "image": "depth/nyuv2/test/bedroom_0054/rgb_0991.png",
+      "prediction": "bedroom_0054_0991.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0054/depth_0991.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0054_0992.png",
+      "image": "depth/nyuv2/test/bedroom_0054/rgb_0992.png",
+      "prediction": "bedroom_0054_0992.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0054/depth_0992.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0054_0993.png",
+      "image": "depth/nyuv2/test/bedroom_0054/rgb_0993.png",
+      "prediction": "bedroom_0054_0993.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0054/depth_0993.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0055_0994.png",
+      "image": "depth/nyuv2/test/bedroom_0055/rgb_0994.png",
+      "prediction": "bedroom_0055_0994.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0055/depth_0994.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0055_0995.png",
+      "image": "depth/nyuv2/test/bedroom_0055/rgb_0995.png",
+      "prediction": "bedroom_0055_0995.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0055/depth_0995.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0058_1001.png",
+      "image": "depth/nyuv2/test/bedroom_0058/rgb_1001.png",
+      "prediction": "bedroom_0058_1001.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0058/depth_1001.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0058_1002.png",
+      "image": "depth/nyuv2/test/bedroom_0058/rgb_1002.png",
+      "prediction": "bedroom_0058_1002.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0058/depth_1002.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0058_1003.png",
+      "image": "depth/nyuv2/test/bedroom_0058/rgb_1003.png",
+      "prediction": "bedroom_0058_1003.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0058/depth_1003.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0058_1004.png",
+      "image": "depth/nyuv2/test/bedroom_0058/rgb_1004.png",
+      "prediction": "bedroom_0058_1004.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0058/depth_1004.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0061_1010.png",
+      "image": "depth/nyuv2/test/bedroom_0061/rgb_1010.png",
+      "prediction": "bedroom_0061_1010.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0061/depth_1010.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0061_1011.png",
+      "image": "depth/nyuv2/test/bedroom_0061/rgb_1011.png",
+      "prediction": "bedroom_0061_1011.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0061/depth_1011.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0061_1012.png",
+      "image": "depth/nyuv2/test/bedroom_0061/rgb_1012.png",
+      "prediction": "bedroom_0061_1012.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0061/depth_1012.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0064_1021.png",
+      "image": "depth/nyuv2/test/bedroom_0064/rgb_1021.png",
+      "prediction": "bedroom_0064_1021.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0064/depth_1021.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0064_1022.png",
+      "image": "depth/nyuv2/test/bedroom_0064/rgb_1022.png",
+      "prediction": "bedroom_0064_1022.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0064/depth_1022.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0064_1023.png",
+      "image": "depth/nyuv2/test/bedroom_0064/rgb_1023.png",
+      "prediction": "bedroom_0064_1023.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0064/depth_1023.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0068_1032.png",
+      "image": "depth/nyuv2/test/bedroom_0068/rgb_1032.png",
+      "prediction": "bedroom_0068_1032.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0068/depth_1032.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0068_1033.png",
+      "image": "depth/nyuv2/test/bedroom_0068/rgb_1033.png",
+      "prediction": "bedroom_0068_1033.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0068/depth_1033.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0068_1034.png",
+      "image": "depth/nyuv2/test/bedroom_0068/rgb_1034.png",
+      "prediction": "bedroom_0068_1034.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0068/depth_1034.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0070_1038.png",
+      "image": "depth/nyuv2/test/bedroom_0070/rgb_1038.png",
+      "prediction": "bedroom_0070_1038.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0070/depth_1038.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0070_1039.png",
+      "image": "depth/nyuv2/test/bedroom_0070/rgb_1039.png",
+      "prediction": "bedroom_0070_1039.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0070/depth_1039.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0073_1048.png",
+      "image": "depth/nyuv2/test/bedroom_0073/rgb_1048.png",
+      "prediction": "bedroom_0073_1048.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0073/depth_1048.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0073_1049.png",
+      "image": "depth/nyuv2/test/bedroom_0073/rgb_1049.png",
+      "prediction": "bedroom_0073_1049.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0073/depth_1049.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0075_1052.png",
+      "image": "depth/nyuv2/test/bedroom_0075/rgb_1052.png",
+      "prediction": "bedroom_0075_1052.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0075/depth_1052.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0075_1053.png",
+      "image": "depth/nyuv2/test/bedroom_0075/rgb_1053.png",
+      "prediction": "bedroom_0075_1053.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0075/depth_1053.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0077_1057.png",
+      "image": "depth/nyuv2/test/bedroom_0077/rgb_1057.png",
+      "prediction": "bedroom_0077_1057.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0077/depth_1057.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0077_1058.png",
+      "image": "depth/nyuv2/test/bedroom_0077/rgb_1058.png",
+      "prediction": "bedroom_0077_1058.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0077/depth_1058.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0083_1075.png",
+      "image": "depth/nyuv2/test/bedroom_0083/rgb_1075.png",
+      "prediction": "bedroom_0083_1075.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0083/depth_1075.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0083_1076.png",
+      "image": "depth/nyuv2/test/bedroom_0083/rgb_1076.png",
+      "prediction": "bedroom_0083_1076.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0083/depth_1076.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0084_1077.png",
+      "image": "depth/nyuv2/test/bedroom_0084/rgb_1077.png",
+      "prediction": "bedroom_0084_1077.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0084/depth_1077.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0084_1078.png",
+      "image": "depth/nyuv2/test/bedroom_0084/rgb_1078.png",
+      "prediction": "bedroom_0084_1078.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0084/depth_1078.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0084_1079.png",
+      "image": "depth/nyuv2/test/bedroom_0084/rgb_1079.png",
+      "prediction": "bedroom_0084_1079.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0084/depth_1079.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0084_1080.png",
+      "image": "depth/nyuv2/test/bedroom_0084/rgb_1080.png",
+      "prediction": "bedroom_0084_1080.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0084/depth_1080.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0085_1081.png",
+      "image": "depth/nyuv2/test/bedroom_0085/rgb_1081.png",
+      "prediction": "bedroom_0085_1081.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0085/depth_1081.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0085_1082.png",
+      "image": "depth/nyuv2/test/bedroom_0085/rgb_1082.png",
+      "prediction": "bedroom_0085_1082.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0085/depth_1082.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0085_1083.png",
+      "image": "depth/nyuv2/test/bedroom_0085/rgb_1083.png",
+      "prediction": "bedroom_0085_1083.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0085/depth_1083.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0085_1084.png",
+      "image": "depth/nyuv2/test/bedroom_0085/rgb_1084.png",
+      "prediction": "bedroom_0085_1084.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0085/depth_1084.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0087_1088.png",
+      "image": "depth/nyuv2/test/bedroom_0087/rgb_1088.png",
+      "prediction": "bedroom_0087_1088.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0087/depth_1088.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0087_1089.png",
+      "image": "depth/nyuv2/test/bedroom_0087/rgb_1089.png",
+      "prediction": "bedroom_0087_1089.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0087/depth_1089.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0087_1090.png",
+      "image": "depth/nyuv2/test/bedroom_0087/rgb_1090.png",
+      "prediction": "bedroom_0087_1090.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0087/depth_1090.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0088_1091.png",
+      "image": "depth/nyuv2/test/bedroom_0088/rgb_1091.png",
+      "prediction": "bedroom_0088_1091.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0088/depth_1091.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0088_1092.png",
+      "image": "depth/nyuv2/test/bedroom_0088/rgb_1092.png",
+      "prediction": "bedroom_0088_1092.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0088/depth_1092.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0088_1093.png",
+      "image": "depth/nyuv2/test/bedroom_0088/rgb_1093.png",
+      "prediction": "bedroom_0088_1093.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0088/depth_1093.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0089_1094.png",
+      "image": "depth/nyuv2/test/bedroom_0089/rgb_1094.png",
+      "prediction": "bedroom_0089_1094.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0089/depth_1094.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0089_1095.png",
+      "image": "depth/nyuv2/test/bedroom_0089/rgb_1095.png",
+      "prediction": "bedroom_0089_1095.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0089/depth_1095.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0089_1096.png",
+      "image": "depth/nyuv2/test/bedroom_0089/rgb_1096.png",
+      "prediction": "bedroom_0089_1096.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0089/depth_1096.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0091_1098.png",
+      "image": "depth/nyuv2/test/bedroom_0091/rgb_1098.png",
+      "prediction": "bedroom_0091_1098.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0091/depth_1098.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0091_1099.png",
+      "image": "depth/nyuv2/test/bedroom_0091/rgb_1099.png",
+      "prediction": "bedroom_0091_1099.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0091/depth_1099.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0092_1100.png",
+      "image": "depth/nyuv2/test/bedroom_0092/rgb_1100.png",
+      "prediction": "bedroom_0092_1100.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0092/depth_1100.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0092_1101.png",
+      "image": "depth/nyuv2/test/bedroom_0092/rgb_1101.png",
+      "prediction": "bedroom_0092_1101.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0092/depth_1101.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0092_1102.png",
+      "image": "depth/nyuv2/test/bedroom_0092/rgb_1102.png",
+      "prediction": "bedroom_0092_1102.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0092/depth_1102.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0093_1103.png",
+      "image": "depth/nyuv2/test/bedroom_0093/rgb_1103.png",
+      "prediction": "bedroom_0093_1103.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0093/depth_1103.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0093_1104.png",
+      "image": "depth/nyuv2/test/bedroom_0093/rgb_1104.png",
+      "prediction": "bedroom_0093_1104.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0093/depth_1104.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0095_1106.png",
+      "image": "depth/nyuv2/test/bedroom_0095/rgb_1106.png",
+      "prediction": "bedroom_0095_1106.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0095/depth_1106.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0095_1107.png",
+      "image": "depth/nyuv2/test/bedroom_0095/rgb_1107.png",
+      "prediction": "bedroom_0095_1107.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0095/depth_1107.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0095_1108.png",
+      "image": "depth/nyuv2/test/bedroom_0095/rgb_1108.png",
+      "prediction": "bedroom_0095_1108.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0095/depth_1108.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0095_1109.png",
+      "image": "depth/nyuv2/test/bedroom_0095/rgb_1109.png",
+      "prediction": "bedroom_0095_1109.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0095/depth_1109.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0099_1117.png",
+      "image": "depth/nyuv2/test/bedroom_0099/rgb_1117.png",
+      "prediction": "bedroom_0099_1117.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0099/depth_1117.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0099_1118.png",
+      "image": "depth/nyuv2/test/bedroom_0099/rgb_1118.png",
+      "prediction": "bedroom_0099_1118.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0099/depth_1118.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0099_1119.png",
+      "image": "depth/nyuv2/test/bedroom_0099/rgb_1119.png",
+      "prediction": "bedroom_0099_1119.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0099/depth_1119.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0101_1123.png",
+      "image": "depth/nyuv2/test/bedroom_0101/rgb_1123.png",
+      "prediction": "bedroom_0101_1123.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0101/depth_1123.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0101_1124.png",
+      "image": "depth/nyuv2/test/bedroom_0101/rgb_1124.png",
+      "prediction": "bedroom_0101_1124.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0101/depth_1124.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0101_1125.png",
+      "image": "depth/nyuv2/test/bedroom_0101/rgb_1125.png",
+      "prediction": "bedroom_0101_1125.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0101/depth_1125.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0101_1126.png",
+      "image": "depth/nyuv2/test/bedroom_0101/rgb_1126.png",
+      "prediction": "bedroom_0101_1126.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0101/depth_1126.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0102_1127.png",
+      "image": "depth/nyuv2/test/bedroom_0102/rgb_1127.png",
+      "prediction": "bedroom_0102_1127.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0102/depth_1127.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0102_1128.png",
+      "image": "depth/nyuv2/test/bedroom_0102/rgb_1128.png",
+      "prediction": "bedroom_0102_1128.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0102/depth_1128.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0103_1129.png",
+      "image": "depth/nyuv2/test/bedroom_0103/rgb_1129.png",
+      "prediction": "bedroom_0103_1129.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0103/depth_1129.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0103_1130.png",
+      "image": "depth/nyuv2/test/bedroom_0103/rgb_1130.png",
+      "prediction": "bedroom_0103_1130.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0103/depth_1130.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0103_1131.png",
+      "image": "depth/nyuv2/test/bedroom_0103/rgb_1131.png",
+      "prediction": "bedroom_0103_1131.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0103/depth_1131.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0105_1135.png",
+      "image": "depth/nyuv2/test/bedroom_0105/rgb_1135.png",
+      "prediction": "bedroom_0105_1135.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0105/depth_1135.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0105_1136.png",
+      "image": "depth/nyuv2/test/bedroom_0105/rgb_1136.png",
+      "prediction": "bedroom_0105_1136.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0105/depth_1136.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0108_1144.png",
+      "image": "depth/nyuv2/test/bedroom_0108/rgb_1144.png",
+      "prediction": "bedroom_0108_1144.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0108/depth_1144.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0108_1145.png",
+      "image": "depth/nyuv2/test/bedroom_0108/rgb_1145.png",
+      "prediction": "bedroom_0108_1145.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0108/depth_1145.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0108_1146.png",
+      "image": "depth/nyuv2/test/bedroom_0108/rgb_1146.png",
+      "prediction": "bedroom_0108_1146.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0108/depth_1146.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0109_1147.png",
+      "image": "depth/nyuv2/test/bedroom_0109/rgb_1147.png",
+      "prediction": "bedroom_0109_1147.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0109/depth_1147.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0109_1148.png",
+      "image": "depth/nyuv2/test/bedroom_0109/rgb_1148.png",
+      "prediction": "bedroom_0109_1148.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0109/depth_1148.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0109_1149.png",
+      "image": "depth/nyuv2/test/bedroom_0109/rgb_1149.png",
+      "prediction": "bedroom_0109_1149.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0109/depth_1149.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0110_1150.png",
+      "image": "depth/nyuv2/test/bedroom_0110/rgb_1150.png",
+      "prediction": "bedroom_0110_1150.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0110/depth_1150.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0110_1151.png",
+      "image": "depth/nyuv2/test/bedroom_0110/rgb_1151.png",
+      "prediction": "bedroom_0110_1151.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0110/depth_1151.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0110_1152.png",
+      "image": "depth/nyuv2/test/bedroom_0110/rgb_1152.png",
+      "prediction": "bedroom_0110_1152.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0110/depth_1152.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0111_1153.png",
+      "image": "depth/nyuv2/test/bedroom_0111/rgb_1153.png",
+      "prediction": "bedroom_0111_1153.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0111/depth_1153.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0111_1154.png",
+      "image": "depth/nyuv2/test/bedroom_0111/rgb_1154.png",
+      "prediction": "bedroom_0111_1154.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0111/depth_1154.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0111_1155.png",
+      "image": "depth/nyuv2/test/bedroom_0111/rgb_1155.png",
+      "prediction": "bedroom_0111_1155.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0111/depth_1155.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0112_1156.png",
+      "image": "depth/nyuv2/test/bedroom_0112/rgb_1156.png",
+      "prediction": "bedroom_0112_1156.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0112/depth_1156.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0112_1157.png",
+      "image": "depth/nyuv2/test/bedroom_0112/rgb_1157.png",
+      "prediction": "bedroom_0112_1157.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0112/depth_1157.png"
+      },
+      "query": ""
+    },
+    {
+      "id": "bedroom_0112_1158.png",
+      "image": "depth/nyuv2/test/bedroom_0112/rgb_1158.png",
+      "prediction": "bedroom_0112_1158.png",
+      "target": {
+        "depth": "depth/nyuv2/test/bedroom_0112/depth_1158.png"
+      },
+      "query": ""
+    }
+  ]
+}

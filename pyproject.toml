@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "probegen-eval"
+version = "1.0.0"
+description = "ProbeGen: generation and evaluation for zero-shot generative perception"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+authors = [
+  {name = "Shangzhe Di", email = "dishangzhe@sjtu.edu.cn"},
+  {name = "Zhaokai Wang", email = "wangzhaokai@sjtu.edu.cn"},
+  {name = "Weidi Xie", email = "weidi@sjtu.edu.cn"},
+]
+dependencies = [
+  "numpy", "Pillow", "torch", "torchvision", "opencv-python", "scikit-image",
+  "pycocotools", "openai", "httpx", "PyYAML", "huggingface_hub",
+]
+
+[project.urls]
+Repository = "https://github.com/Becomebright/ProbeGen"
+
+[tool.setuptools.packages.find]
+include = ["probegen_eval*"]

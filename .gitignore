@@ -1,0 +1,13 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+.DS_Store
+api.local.yaml
+/data
+/outputs/
+/reports/
+# Data downloaded from Hugging Face (see DATA.md)
+/probegen-data-*.tar.gz
+/SHA256SUMS
+/.cache/

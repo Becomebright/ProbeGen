@@ -1,0 +1,4506 @@
+{
+  "schema_version": 1,
+  "dataset": "pixmo-points",
+  "samples": [
+    {
+      "id": "0",
+      "image": "counting/pixmo-points/images/0.jpg",
+      "prediction": "0.png",
+      "target": {
+        "count": 49
+      },
+      "query": "movie cases and dics"
+    },
+    {
+      "id": "1",
+      "image": "counting/pixmo-points/images/1.jpg",
+      "prediction": "1.png",
+      "target": {
+        "count": 9
+      },
+      "query": "plants growing in water"
+    },
+    {
+      "id": "2",
+      "image": "counting/pixmo-points/images/2.jpg",
+      "prediction": "2.png",
+      "target": {
+        "count": 30
+      },
+      "query": "balloons"
+    },
+    {
+      "id": "3",
+      "image": "counting/pixmo-points/images/3.jpg",
+      "prediction": "3.png",
+      "target": {
+        "count": 25
+      },
+      "query": "apple"
+    },
+    {
+      "id": "4",
+      "image": "counting/pixmo-points/images/4.jpg",
+      "prediction": "4.png",
+      "target": {
+        "count": 0
+      },
+      "query": "ski lift"
+    },
+    {
+      "id": "5",
+      "image": "counting/pixmo-points/images/5.jpg",
+      "prediction": "5.png",
+      "target": {
+        "count": 0
+      },
+      "query": "trees"
+    },
+    {
+      "id": "6",
+      "image": "counting/pixmo-points/images/6.jpg",
+      "prediction": "6.png",
+      "target": {
+        "count": 30
+      },
+      "query": "beer bottle caps "
+    },
+    {
+      "id": "7",
+      "image": "counting/pixmo-points/images/7.jpg",
+      "prediction": "7.png",
+      "target": {
+        "count": 0
+      },
+      "query": "shoes"
+    },
+    {
+      "id": "8",
+      "image": "counting/pixmo-points/images/8.jpg",
+      "prediction": "8.png",
+      "target": {
+        "count": 14
+      },
+      "query": "pens"
+    },
+    {
+      "id": "9",
+      "image": "counting/pixmo-points/images/9.jpg",
+      "prediction": "9.png",
+      "target": {
+        "count": 5
+      },
+      "query": "forks"
+    },
+    {
+      "id": "10",
+      "image": "counting/pixmo-points/images/10.jpg",
+      "prediction": "10.png",
+      "target": {
+        "count": 17
+      },
+      "query": "Steps"
+    },
+    {
+      "id": "11",
+      "image": "counting/pixmo-points/images/11.jpg",
+      "prediction": "11.png",
+      "target": {
+        "count": 10
+      },
+      "query": "brown eggs"
+    },
+    {
+      "id": "12",
+      "image": "counting/pixmo-points/images/12.jpg",
+      "prediction": "12.png",
+      "target": {
+        "count": 7
+      },
+      "query": "Hats"
+    },
+    {
+      "id": "13",
+      "image": "counting/pixmo-points/images/13.jpg",
+      "prediction": "13.png",
+      "target": {
+        "count": 10
+      },
+      "query": "Eggs"
+    },
+    {
+      "id": "14",
+      "image": "counting/pixmo-points/images/14.jpg",
+      "prediction": "14.png",
+      "target": {
+        "count": 10
+      },
+      "query": "tire"
+    },
+    {
+      "id": "15",
+      "image": "counting/pixmo-points/images/15.jpg",
+      "prediction": "15.png",
+      "target": {
+        "count": 18
+      },
+      "query": "book"
+    },
+    {
+      "id": "16",
+      "image": "counting/pixmo-points/images/16.jpg",
+      "prediction": "16.png",
+      "target": {
+        "count": 46
+      },
+      "query": "Dolls"
+    },
+    {
+      "id": "17",
+      "image": "counting/pixmo-points/images/17.jpg",
+      "prediction": "17.png",
+      "target": {
+        "count": 4
+      },
+      "query": "zebra"
+    },
+    {
+      "id": "18",
+      "image": "counting/pixmo-points/images/18.jpg",
+      "prediction": "18.png",
+      "target": {
+        "count": 13
+      },
+      "query": "Shoes"
+    },
+    {
+      "id": "19",
+      "image": "counting/pixmo-points/images/19.jpg",
+      "prediction": "19.png",
+      "target": {
+        "count": 0
+      },
+      "query": "products not on shelf"
+    },
+    {
+      "id": "20",
+      "image": "counting/pixmo-points/images/20.jpg",
+      "prediction": "20.png",
+      "target": {
+        "count": 26
+      },
+      "query": "instances of single letter A"
+    },
+    {
+      "id": "21",
+      "image": "counting/pixmo-points/images/21.jpg",
+      "prediction": "21.png",
+      "target": {
+        "count": 0
+      },
+      "query": "sun"
+    },
+    {
+      "id": "22",
+      "image": "counting/pixmo-points/images/22.jpg",
+      "prediction": "22.png",
+      "target": {
+        "count": 45
+      },
+      "query": "shrits"
+    },
+    {
+      "id": "23",
+      "image": "counting/pixmo-points/images/23.jpg",
+      "prediction": "23.png",
+      "target": {
+        "count": 14
+      },
+      "query": "plastic knick knacks"
+    },
+    {
+      "id": "24",
+      "image": "counting/pixmo-points/images/24.jpg",
+      "prediction": "24.png",
+      "target": {
+        "count": 20
+      },
+      "query": "yellow foiled wine bottles"
+    },
+    {
+      "id": "25",
+      "image": "counting/pixmo-points/images/25.jpg",
+      "prediction": "25.png",
+      "target": {
+        "count": 28
+      },
+      "query": "people"
+    },
+    {
+      "id": "26",
+      "image": "counting/pixmo-points/images/26.jpg",
+      "prediction": "26.png",
+      "target": {
+        "count": 13
+      },
+      "query": "shelved books"
+    },
+    {
+      "id": "27",
+      "image": "counting/pixmo-points/images/27.jpg",
+      "prediction": "27.png",
+      "target": {
+        "count": 10
+      },
+      "query": "cat eyes"
+    },
+    {
+      "id": "28",
+      "image": "counting/pixmo-points/images/28.jpg",
+      "prediction": "28.png",
+      "target": {
+        "count": 45
+      },
+      "query": "Tennis Balls"
+    },
+    {
+      "id": "29",
+      "image": "counting/pixmo-points/images/29.jpg",
+      "prediction": "29.png",
+      "target": {
+        "count": 14
+      },
+      "query": "tomato as an ingredient on menu"
+    },
+    {
+      "id": "30",
+      "image": "counting/pixmo-points/images/30.jpg",
+      "prediction": "30.png",
+      "target": {
+        "count": 34
+      },
+      "query": "34 unripe tomatoes on the vine "
+    },
+    {
+      "id": "31",
+      "image": "counting/pixmo-points/images/31.jpg",
+      "prediction": "31.png",
+      "target": {
+        "count": 6
+      },
+      "query": "fast food sandwich"
+    },
+    {
+      "id": "32",
+      "image": "counting/pixmo-points/images/32.jpg",
+      "prediction": "32.png",
+      "target": {
+        "count": 14
+      },
+      "query": "traffic lanes"
+    },
+    {
+      "id": "33",
+      "image": "counting/pixmo-points/images/33.jpg",
+      "prediction": "33.png",
+      "target": {
+        "count": 10
+      },
+      "query": "outlines of people lifting weights"
+    },
+    {
+      "id": "34",
+      "image": "counting/pixmo-points/images/34.jpg",
+      "prediction": "34.png",
+      "target": {
+        "count": 11
+      },
+      "query": "time"
+    },
+    {
+      "id": "35",
+      "image": "counting/pixmo-points/images/35.jpg",
+      "prediction": "35.png",
+      "target": {
+        "count": 6
+      },
+      "query": "comic panel"
+    },
+    {
+      "id": "36",
+      "image": "counting/pixmo-points/images/36.jpg",
+      "prediction": "36.png",
+      "target": {
+        "count": 12
+      },
+      "query": "pillows"
+    },
+    {
+      "id": "37",
+      "image": "counting/pixmo-points/images/37.jpg",
+      "prediction": "37.png",
+      "target": {
+        "count": 18
+      },
+      "query": "pairs of sunglasses"
+    },
+    {
+      "id": "38",
+      "image": "counting/pixmo-points/images/38.jpg",
+      "prediction": "38.png",
+      "target": {
+        "count": 9
+      },
+      "query": "Numerical days on march calendar that have purple on them"
+    },
+    {
+      "id": "39",
+      "image": "counting/pixmo-points/images/39.jpg",
+      "prediction": "39.png",
+      "target": {
+        "count": 47
+      },
+      "query": "colorful pens"
+    },
+    {
+      "id": "40",
+      "image": "counting/pixmo-points/images/40.jpg",
+      "prediction": "40.png",
+      "target": {
+        "count": 14
+      },
+      "query": "long sleeve shirts"
+    },
+    {
+      "id": "41",
+      "image": "counting/pixmo-points/images/41.jpg",
+      "prediction": "41.png",
+      "target": {
+        "count": 10
+      },
+      "query": "Books"
+    },
+    {
+      "id": "42",
+      "image": "counting/pixmo-points/images/42.jpg",
+      "prediction": "42.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Tables"
+    },
+    {
+      "id": "43",
+      "image": "counting/pixmo-points/images/43.jpg",
+      "prediction": "43.png",
+      "target": {
+        "count": 5
+      },
+      "query": "people"
+    },
+    {
+      "id": "44",
+      "image": "counting/pixmo-points/images/44.jpg",
+      "prediction": "44.png",
+      "target": {
+        "count": 6
+      },
+      "query": "pepperoni slices on table surface"
+    },
+    {
+      "id": "45",
+      "image": "counting/pixmo-points/images/45.jpg",
+      "prediction": "45.png",
+      "target": {
+        "count": 6
+      },
+      "query": "Halloween balloon"
+    },
+    {
+      "id": "46",
+      "image": "counting/pixmo-points/images/46.jpg",
+      "prediction": "46.png",
+      "target": {
+        "count": 8
+      },
+      "query": "playing cards"
+    },
+    {
+      "id": "47",
+      "image": "counting/pixmo-points/images/47.jpg",
+      "prediction": "47.png",
+      "target": {
+        "count": 5
+      },
+      "query": "red dots"
+    },
+    {
+      "id": "48",
+      "image": "counting/pixmo-points/images/48.jpg",
+      "prediction": "48.png",
+      "target": {
+        "count": 6
+      },
+      "query": "island"
+    },
+    {
+      "id": "49",
+      "image": "counting/pixmo-points/images/49.jpg",
+      "prediction": "49.png",
+      "target": {
+        "count": 34
+      },
+      "query": "Prices"
+    },
+    {
+      "id": "50",
+      "image": "counting/pixmo-points/images/50.jpg",
+      "prediction": "50.png",
+      "target": {
+        "count": 16
+      },
+      "query": "Beverages"
+    },
+    {
+      "id": "51",
+      "image": "counting/pixmo-points/images/51.jpg",
+      "prediction": "51.png",
+      "target": {
+        "count": 16
+      },
+      "query": "cats"
+    },
+    {
+      "id": "52",
+      "image": "counting/pixmo-points/images/52.jpg",
+      "prediction": "52.png",
+      "target": {
+        "count": 23
+      },
+      "query": "pictures"
+    },
+    {
+      "id": "53",
+      "image": "counting/pixmo-points/images/53.jpg",
+      "prediction": "53.png",
+      "target": {
+        "count": 18
+      },
+      "query": "Theather Perfromace"
+    },
+    {
+      "id": "54",
+      "image": "counting/pixmo-points/images/54.jpg",
+      "prediction": "54.png",
+      "target": {
+        "count": 11
+      },
+      "query": "container loaded on ship that is not red"
+    },
+    {
+      "id": "55",
+      "image": "counting/pixmo-points/images/55.jpg",
+      "prediction": "55.png",
+      "target": {
+        "count": 49
+      },
+      "query": "stadium seat number plaque"
+    },
+    {
+      "id": "56",
+      "image": "counting/pixmo-points/images/56.jpg",
+      "prediction": "56.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Cars"
+    },
+    {
+      "id": "57",
+      "image": "counting/pixmo-points/images/57.jpg",
+      "prediction": "57.png",
+      "target": {
+        "count": 25
+      },
+      "query": "people"
+    },
+    {
+      "id": "58",
+      "image": "counting/pixmo-points/images/58.jpg",
+      "prediction": "58.png",
+      "target": {
+        "count": 5
+      },
+      "query": "shirts"
+    },
+    {
+      "id": "59",
+      "image": "counting/pixmo-points/images/59.jpg",
+      "prediction": "59.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Baseball bats."
+    },
+    {
+      "id": "60",
+      "image": "counting/pixmo-points/images/60.jpg",
+      "prediction": "60.png",
+      "target": {
+        "count": 18
+      },
+      "query": "Stuffed animals"
+    },
+    {
+      "id": "61",
+      "image": "counting/pixmo-points/images/61.jpg",
+      "prediction": "61.png",
+      "target": {
+        "count": 5
+      },
+      "query": "Shoes"
+    },
+    {
+      "id": "62",
+      "image": "counting/pixmo-points/images/62.jpg",
+      "prediction": "62.png",
+      "target": {
+        "count": 14
+      },
+      "query": "pie slices"
+    },
+    {
+      "id": "63",
+      "image": "counting/pixmo-points/images/63.jpg",
+      "prediction": "63.png",
+      "target": {
+        "count": 7
+      },
+      "query": "fruit"
+    },
+    {
+      "id": "64",
+      "image": "counting/pixmo-points/images/64.jpg",
+      "prediction": "64.png",
+      "target": {
+        "count": 16
+      },
+      "query": "tools"
+    },
+    {
+      "id": "65",
+      "image": "counting/pixmo-points/images/65.jpg",
+      "prediction": "65.png",
+      "target": {
+        "count": 32
+      },
+      "query": "words"
+    },
+    {
+      "id": "66",
+      "image": "counting/pixmo-points/images/66.jpg",
+      "prediction": "66.png",
+      "target": {
+        "count": 4
+      },
+      "query": "candle flames"
+    },
+    {
+      "id": "67",
+      "image": "counting/pixmo-points/images/67.jpg",
+      "prediction": "67.png",
+      "target": {
+        "count": 11
+      },
+      "query": "traffic cones"
+    },
+    {
+      "id": "68",
+      "image": "counting/pixmo-points/images/68.jpg",
+      "prediction": "68.png",
+      "target": {
+        "count": 4
+      },
+      "query": "Urinals"
+    },
+    {
+      "id": "69",
+      "image": "counting/pixmo-points/images/69.jpg",
+      "prediction": "69.png",
+      "target": {
+        "count": 11
+      },
+      "query": "egg"
+    },
+    {
+      "id": "70",
+      "image": "counting/pixmo-points/images/70.jpg",
+      "prediction": "70.png",
+      "target": {
+        "count": 16
+      },
+      "query": "Hats/Tiara"
+    },
+    {
+      "id": "71",
+      "image": "counting/pixmo-points/images/71.jpg",
+      "prediction": "71.png",
+      "target": {
+        "count": 13
+      },
+      "query": "left shoe"
+    },
+    {
+      "id": "72",
+      "image": "counting/pixmo-points/images/72.jpg",
+      "prediction": "72.png",
+      "target": {
+        "count": 12
+      },
+      "query": "Eyes "
+    },
+    {
+      "id": "73",
+      "image": "counting/pixmo-points/images/73.jpg",
+      "prediction": "73.png",
+      "target": {
+        "count": 10
+      },
+      "query": "personal events on a calendar "
+    },
+    {
+      "id": "74",
+      "image": "counting/pixmo-points/images/74.jpg",
+      "prediction": "74.png",
+      "target": {
+        "count": 6
+      },
+      "query": "weights"
+    },
+    {
+      "id": "75",
+      "image": "counting/pixmo-points/images/75.jpg",
+      "prediction": "75.png",
+      "target": {
+        "count": 35
+      },
+      "query": "arrows"
+    },
+    {
+      "id": "76",
+      "image": "counting/pixmo-points/images/76.jpg",
+      "prediction": "76.png",
+      "target": {
+        "count": 14
+      },
+      "query": "clothes"
+    },
+    {
+      "id": "77",
+      "image": "counting/pixmo-points/images/77.jpg",
+      "prediction": "77.png",
+      "target": {
+        "count": 4
+      },
+      "query": "people"
+    },
+    {
+      "id": "78",
+      "image": "counting/pixmo-points/images/78.jpg",
+      "prediction": "78.png",
+      "target": {
+        "count": 10
+      },
+      "query": "bikes"
+    },
+    {
+      "id": "79",
+      "image": "counting/pixmo-points/images/79.jpg",
+      "prediction": "79.png",
+      "target": {
+        "count": 8
+      },
+      "query": "people"
+    },
+    {
+      "id": "80",
+      "image": "counting/pixmo-points/images/80.jpg",
+      "prediction": "80.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Clothes."
+    },
+    {
+      "id": "81",
+      "image": "counting/pixmo-points/images/81.jpg",
+      "prediction": "81.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Keys"
+    },
+    {
+      "id": "82",
+      "image": "counting/pixmo-points/images/82.jpg",
+      "prediction": "82.png",
+      "target": {
+        "count": 9
+      },
+      "query": "books"
+    },
+    {
+      "id": "83",
+      "image": "counting/pixmo-points/images/83.jpg",
+      "prediction": "83.png",
+      "target": {
+        "count": 4
+      },
+      "query": "Person "
+    },
+    {
+      "id": "84",
+      "image": "counting/pixmo-points/images/84.jpg",
+      "prediction": "84.png",
+      "target": {
+        "count": 7
+      },
+      "query": "medal"
+    },
+    {
+      "id": "85",
+      "image": "counting/pixmo-points/images/85.jpg",
+      "prediction": "85.png",
+      "target": {
+        "count": 19
+      },
+      "query": "Vintage Barbie Happy Meal Toys"
+    },
+    {
+      "id": "86",
+      "image": "counting/pixmo-points/images/86.jpg",
+      "prediction": "86.png",
+      "target": {
+        "count": 9
+      },
+      "query": "person"
+    },
+    {
+      "id": "87",
+      "image": "counting/pixmo-points/images/87.jpg",
+      "prediction": "87.png",
+      "target": {
+        "count": 4
+      },
+      "query": "bowls"
+    },
+    {
+      "id": "88",
+      "image": "counting/pixmo-points/images/88.jpg",
+      "prediction": "88.png",
+      "target": {
+        "count": 20
+      },
+      "query": "cinnamon roll"
+    },
+    {
+      "id": "89",
+      "image": "counting/pixmo-points/images/89.jpg",
+      "prediction": "89.png",
+      "target": {
+        "count": 30
+      },
+      "query": "full case visible in image"
+    },
+    {
+      "id": "90",
+      "image": "counting/pixmo-points/images/90.jpg",
+      "prediction": "90.png",
+      "target": {
+        "count": 45
+      },
+      "query": "People"
+    },
+    {
+      "id": "91",
+      "image": "counting/pixmo-points/images/91.jpg",
+      "prediction": "91.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Books"
+    },
+    {
+      "id": "92",
+      "image": "counting/pixmo-points/images/92.jpg",
+      "prediction": "92.png",
+      "target": {
+        "count": 5
+      },
+      "query": "ribbon"
+    },
+    {
+      "id": "93",
+      "image": "counting/pixmo-points/images/93.jpg",
+      "prediction": "93.png",
+      "target": {
+        "count": 50
+      },
+      "query": "keys"
+    },
+    {
+      "id": "94",
+      "image": "counting/pixmo-points/images/94.jpg",
+      "prediction": "94.png",
+      "target": {
+        "count": 27
+      },
+      "query": "human face"
+    },
+    {
+      "id": "95",
+      "image": "counting/pixmo-points/images/95.jpg",
+      "prediction": "95.png",
+      "target": {
+        "count": 28
+      },
+      "query": "cleaning and body products"
+    },
+    {
+      "id": "96",
+      "image": "counting/pixmo-points/images/96.jpg",
+      "prediction": "96.png",
+      "target": {
+        "count": 49
+      },
+      "query": "scoreboard cut-out display portals (windows)"
+    },
+    {
+      "id": "97",
+      "image": "counting/pixmo-points/images/97.jpg",
+      "prediction": "97.png",
+      "target": {
+        "count": 15
+      },
+      "query": "Rectangles in column A"
+    },
+    {
+      "id": "98",
+      "image": "counting/pixmo-points/images/98.jpg",
+      "prediction": "98.png",
+      "target": {
+        "count": 6
+      },
+      "query": "Total writing tools"
+    },
+    {
+      "id": "99",
+      "image": "counting/pixmo-points/images/99.jpg",
+      "prediction": "99.png",
+      "target": {
+        "count": 47
+      },
+      "query": "Iindividual bananas"
+    },
+    {
+      "id": "100",
+      "image": "counting/pixmo-points/images/100.jpg",
+      "prediction": "100.png",
+      "target": {
+        "count": 0
+      },
+      "query": "section shaped like triange"
+    },
+    {
+      "id": "101",
+      "image": "counting/pixmo-points/images/101.jpg",
+      "prediction": "101.png",
+      "target": {
+        "count": 0
+      },
+      "query": "lion"
+    },
+    {
+      "id": "102",
+      "image": "counting/pixmo-points/images/102.jpg",
+      "prediction": "102.png",
+      "target": {
+        "count": 0
+      },
+      "query": "black abacus beads"
+    },
+    {
+      "id": "103",
+      "image": "counting/pixmo-points/images/103.jpg",
+      "prediction": "103.png",
+      "target": {
+        "count": 0
+      },
+      "query": "cant see all the coin faces"
+    },
+    {
+      "id": "104",
+      "image": "counting/pixmo-points/images/104.jpg",
+      "prediction": "104.png",
+      "target": {
+        "count": 0
+      },
+      "query": "beer can"
+    },
+    {
+      "id": "105",
+      "image": "counting/pixmo-points/images/105.jpg",
+      "prediction": "105.png",
+      "target": {
+        "count": 0
+      },
+      "query": "thread"
+    },
+    {
+      "id": "106",
+      "image": "counting/pixmo-points/images/106.jpg",
+      "prediction": "106.png",
+      "target": {
+        "count": 0
+      },
+      "query": "red chair"
+    },
+    {
+      "id": "107",
+      "image": "counting/pixmo-points/images/107.jpg",
+      "prediction": "107.png",
+      "target": {
+        "count": 0
+      },
+      "query": "Mugs"
+    },
+    {
+      "id": "108",
+      "image": "counting/pixmo-points/images/108.jpg",
+      "prediction": "108.png",
+      "target": {
+        "count": 4
+      },
+      "query": "tennis balls"
+    },
+    {
+      "id": "109",
+      "image": "counting/pixmo-points/images/109.jpg",
+      "prediction": "109.png",
+      "target": {
+        "count": 4
+      },
+      "query": "Water Hole"
+    },
+    {
+      "id": "110",
+      "image": "counting/pixmo-points/images/110.jpg",
+      "prediction": "110.png",
+      "target": {
+        "count": 4
+      },
+      "query": "Plates"
+    },
+    {
+      "id": "111",
+      "image": "counting/pixmo-points/images/111.jpg",
+      "prediction": "111.png",
+      "target": {
+        "count": 4
+      },
+      "query": "empity glasses"
+    },
+    {
+      "id": "112",
+      "image": "counting/pixmo-points/images/112.jpg",
+      "prediction": "112.png",
+      "target": {
+        "count": 4
+      },
+      "query": "green leaves in the foreground in focus"
+    },
+    {
+      "id": "113",
+      "image": "counting/pixmo-points/images/113.jpg",
+      "prediction": "113.png",
+      "target": {
+        "count": 4
+      },
+      "query": "zebras"
+    },
+    {
+      "id": "114",
+      "image": "counting/pixmo-points/images/114.jpg",
+      "prediction": "114.png",
+      "target": {
+        "count": 4
+      },
+      "query": "sneakers"
+    },
+    {
+      "id": "115",
+      "image": "counting/pixmo-points/images/115.jpg",
+      "prediction": "115.png",
+      "target": {
+        "count": 4
+      },
+      "query": "people"
+    },
+    {
+      "id": "116",
+      "image": "counting/pixmo-points/images/116.jpg",
+      "prediction": "116.png",
+      "target": {
+        "count": 5
+      },
+      "query": "pillows"
+    },
+    {
+      "id": "117",
+      "image": "counting/pixmo-points/images/117.jpg",
+      "prediction": "117.png",
+      "target": {
+        "count": 5
+      },
+      "query": "Harry Potter books"
+    },
+    {
+      "id": "118",
+      "image": "counting/pixmo-points/images/118.jpg",
+      "prediction": "118.png",
+      "target": {
+        "count": 5
+      },
+      "query": "dogs"
+    },
+    {
+      "id": "119",
+      "image": "counting/pixmo-points/images/119.jpg",
+      "prediction": "119.png",
+      "target": {
+        "count": 5
+      },
+      "query": "wind fan"
+    },
+    {
+      "id": "120",
+      "image": "counting/pixmo-points/images/120.jpg",
+      "prediction": "120.png",
+      "target": {
+        "count": 5
+      },
+      "query": "people"
+    },
+    {
+      "id": "121",
+      "image": "counting/pixmo-points/images/121.jpg",
+      "prediction": "121.png",
+      "target": {
+        "count": 5
+      },
+      "query": "People"
+    },
+    {
+      "id": "122",
+      "image": "counting/pixmo-points/images/122.jpg",
+      "prediction": "122.png",
+      "target": {
+        "count": 5
+      },
+      "query": "gears"
+    },
+    {
+      "id": "123",
+      "image": "counting/pixmo-points/images/123.jpg",
+      "prediction": "123.png",
+      "target": {
+        "count": 5
+      },
+      "query": "wine bottle"
+    },
+    {
+      "id": "124",
+      "image": "counting/pixmo-points/images/124.jpg",
+      "prediction": "124.png",
+      "target": {
+        "count": 6
+      },
+      "query": "dining chairs"
+    },
+    {
+      "id": "125",
+      "image": "counting/pixmo-points/images/125.jpg",
+      "prediction": "125.png",
+      "target": {
+        "count": 6
+      },
+      "query": "cones"
+    },
+    {
+      "id": "126",
+      "image": "counting/pixmo-points/images/126.jpg",
+      "prediction": "126.png",
+      "target": {
+        "count": 6
+      },
+      "query": "star"
+    },
+    {
+      "id": "127",
+      "image": "counting/pixmo-points/images/127.jpg",
+      "prediction": "127.png",
+      "target": {
+        "count": 6
+      },
+      "query": "shoe"
+    },
+    {
+      "id": "128",
+      "image": "counting/pixmo-points/images/128.jpg",
+      "prediction": "128.png",
+      "target": {
+        "count": 6
+      },
+      "query": "bowling balls"
+    },
+    {
+      "id": "129",
+      "image": "counting/pixmo-points/images/129.jpg",
+      "prediction": "129.png",
+      "target": {
+        "count": 6
+      },
+      "query": "coke bottles front row"
+    },
+    {
+      "id": "130",
+      "image": "counting/pixmo-points/images/130.jpg",
+      "prediction": "130.png",
+      "target": {
+        "count": 6
+      },
+      "query": "cookies"
+    },
+    {
+      "id": "131",
+      "image": "counting/pixmo-points/images/131.jpg",
+      "prediction": "131.png",
+      "target": {
+        "count": 6
+      },
+      "query": "plant"
+    },
+    {
+      "id": "132",
+      "image": "counting/pixmo-points/images/132.jpg",
+      "prediction": "132.png",
+      "target": {
+        "count": 7
+      },
+      "query": "Cookies"
+    },
+    {
+      "id": "133",
+      "image": "counting/pixmo-points/images/133.jpg",
+      "prediction": "133.png",
+      "target": {
+        "count": 7
+      },
+      "query": "urinals"
+    },
+    {
+      "id": "134",
+      "image": "counting/pixmo-points/images/134.jpg",
+      "prediction": "134.png",
+      "target": {
+        "count": 7
+      },
+      "query": "images enclosed in red circles"
+    },
+    {
+      "id": "135",
+      "image": "counting/pixmo-points/images/135.jpg",
+      "prediction": "135.png",
+      "target": {
+        "count": 7
+      },
+      "query": "clocks"
+    },
+    {
+      "id": "136",
+      "image": "counting/pixmo-points/images/136.jpg",
+      "prediction": "136.png",
+      "target": {
+        "count": 7
+      },
+      "query": "windows"
+    },
+    {
+      "id": "137",
+      "image": "counting/pixmo-points/images/137.jpg",
+      "prediction": "137.png",
+      "target": {
+        "count": 7
+      },
+      "query": "group photo from behind"
+    },
+    {
+      "id": "138",
+      "image": "counting/pixmo-points/images/138.jpg",
+      "prediction": "138.png",
+      "target": {
+        "count": 7
+      },
+      "query": "table"
+    },
+    {
+      "id": "139",
+      "image": "counting/pixmo-points/images/139.jpg",
+      "prediction": "139.png",
+      "target": {
+        "count": 7
+      },
+      "query": "hands"
+    },
+    {
+      "id": "140",
+      "image": "counting/pixmo-points/images/140.jpg",
+      "prediction": "140.png",
+      "target": {
+        "count": 8
+      },
+      "query": "mugs"
+    },
+    {
+      "id": "141",
+      "image": "counting/pixmo-points/images/141.jpg",
+      "prediction": "141.png",
+      "target": {
+        "count": 8
+      },
+      "query": "skis"
+    },
+    {
+      "id": "142",
+      "image": "counting/pixmo-points/images/142.jpg",
+      "prediction": "142.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Muffins"
+    },
+    {
+      "id": "143",
+      "image": "counting/pixmo-points/images/143.jpg",
+      "prediction": "143.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Cutout people"
+    },
+    {
+      "id": "144",
+      "image": "counting/pixmo-points/images/144.jpg",
+      "prediction": "144.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Folded sweater"
+    },
+    {
+      "id": "145",
+      "image": "counting/pixmo-points/images/145.jpg",
+      "prediction": "145.png",
+      "target": {
+        "count": 8
+      },
+      "query": "white plate"
+    },
+    {
+      "id": "146",
+      "image": "counting/pixmo-points/images/146.jpg",
+      "prediction": "146.png",
+      "target": {
+        "count": 8
+      },
+      "query": "points showing direction of place on sign "
+    },
+    {
+      "id": "147",
+      "image": "counting/pixmo-points/images/147.jpg",
+      "prediction": "147.png",
+      "target": {
+        "count": 8
+      },
+      "query": "Burger"
+    },
+    {
+      "id": "148",
+      "image": "counting/pixmo-points/images/148.jpg",
+      "prediction": "148.png",
+      "target": {
+        "count": 9
+      },
+      "query": "check boxes"
+    },
+    {
+      "id": "149",
+      "image": "counting/pixmo-points/images/149.jpg",
+      "prediction": "149.png",
+      "target": {
+        "count": 9
+      },
+      "query": "front of cars"
+    },
+    {
+      "id": "150",
+      "image": "counting/pixmo-points/images/150.jpg",
+      "prediction": "150.png",
+      "target": {
+        "count": 9
+      },
+      "query": "shelved books"
+    },
+    {
+      "id": "151",
+      "image": "counting/pixmo-points/images/151.jpg",
+      "prediction": "151.png",
+      "target": {
+        "count": 9
+      },
+      "query": "heads"
+    },
+    {
+      "id": "152",
+      "image": "counting/pixmo-points/images/152.jpg",
+      "prediction": "152.png",
+      "target": {
+        "count": 9
+      },
+      "query": "shelf"
+    },
+    {
+      "id": "153",
+      "image": "counting/pixmo-points/images/153.jpg",
+      "prediction": "153.png",
+      "target": {
+        "count": 9
+      },
+      "query": "car"
+    },
+    {
+      "id": "154",
+      "image": "counting/pixmo-points/images/154.jpg",
+      "prediction": "154.png",
+      "target": {
+        "count": 9
+      },
+      "query": "bike rear wheel"
+    },
+    {
+      "id": "155",
+      "image": "counting/pixmo-points/images/155.jpg",
+      "prediction": "155.png",
+      "target": {
+        "count": 9
+      },
+      "query": "fish heads"
+    },
+    {
+      "id": "156",
+      "image": "counting/pixmo-points/images/156.jpg",
+      "prediction": "156.png",
+      "target": {
+        "count": 10
+      },
+      "query": "brown egg"
+    },
+    {
+      "id": "157",
+      "image": "counting/pixmo-points/images/157.jpg",
+      "prediction": "157.png",
+      "target": {
+        "count": 10
+      },
+      "query": "Empty spaces"
+    },
+    {
+      "id": "158",
+      "image": "counting/pixmo-points/images/158.jpg",
+      "prediction": "158.png",
+      "target": {
+        "count": 10
+      },
+      "query": "nose"
+    },
+    {
+      "id": "159",
+      "image": "counting/pixmo-points/images/159.jpg",
+      "prediction": "159.png",
+      "target": {
+        "count": 10
+      },
+      "query": "Humans"
+    },
+    {
+      "id": "160",
+      "image": "counting/pixmo-points/images/160.jpg",
+      "prediction": "160.png",
+      "target": {
+        "count": 10
+      },
+      "query": "Posts"
+    },
+    {
+      "id": "161",
+      "image": "counting/pixmo-points/images/161.jpg",
+      "prediction": "161.png",
+      "target": {
+        "count": 10
+      },
+      "query": "people"
+    },
+    {
+      "id": "162",
+      "image": "counting/pixmo-points/images/162.jpg",
+      "prediction": "162.png",
+      "target": {
+        "count": 10
+      },
+      "query": "person"
+    },
+    {
+      "id": "163",
+      "image": "counting/pixmo-points/images/163.jpg",
+      "prediction": "163.png",
+      "target": {
+        "count": 10
+      },
+      "query": "gallons of milk"
+    },
+    {
+      "id": "164",
+      "image": "counting/pixmo-points/images/164.jpg",
+      "prediction": "164.png",
+      "target": {
+        "count": 11
+      },
+      "query": "box of cereal"
+    },
+    {
+      "id": "165",
+      "image": "counting/pixmo-points/images/165.jpg",
+      "prediction": "165.png",
+      "target": {
+        "count": 11
+      },
+      "query": "butterflies"
+    },
+    {
+      "id": "166",
+      "image": "counting/pixmo-points/images/166.jpg",
+      "prediction": "166.png",
+      "target": {
+        "count": 11
+      },
+      "query": "Anchor stores on upper and lower levels"
+    },
+    {
+      "id": "167",
+      "image": "counting/pixmo-points/images/167.jpg",
+      "prediction": "167.png",
+      "target": {
+        "count": 11
+      },
+      "query": "autos"
+    },
+    {
+      "id": "168",
+      "image": "counting/pixmo-points/images/168.jpg",
+      "prediction": "168.png",
+      "target": {
+        "count": 11
+      },
+      "query": "stack of dirty bowls"
+    },
+    {
+      "id": "169",
+      "image": "counting/pixmo-points/images/169.jpg",
+      "prediction": "169.png",
+      "target": {
+        "count": 11
+      },
+      "query": "Hands"
+    },
+    {
+      "id": "170",
+      "image": "counting/pixmo-points/images/170.jpg",
+      "prediction": "170.png",
+      "target": {
+        "count": 11
+      },
+      "query": "keys"
+    },
+    {
+      "id": "171",
+      "image": "counting/pixmo-points/images/171.jpg",
+      "prediction": "171.png",
+      "target": {
+        "count": 11
+      },
+      "query": "books"
+    },
+    {
+      "id": "172",
+      "image": "counting/pixmo-points/images/172.jpg",
+      "prediction": "172.png",
+      "target": {
+        "count": 12
+      },
+      "query": "chairs at dining room table"
+    },
+    {
+      "id": "173",
+      "image": "counting/pixmo-points/images/173.jpg",
+      "prediction": "173.png",
+      "target": {
+        "count": 12
+      },
+      "query": "basketballs"
+    },
+    {
+      "id": "174",
+      "image": "counting/pixmo-points/images/174.jpg",
+      "prediction": "174.png",
+      "target": {
+        "count": 12
+      },
+      "query": "vehicle"
+    },
+    {
+      "id": "175",
+      "image": "counting/pixmo-points/images/175.jpg",
+      "prediction": "175.png",
+      "target": {
+        "count": 12
+      },
+      "query": "Baseball bats"
+    },
+    {
+      "id": "176",
+      "image": "counting/pixmo-points/images/176.jpg",
+      "prediction": "176.png",
+      "target": {
+        "count": 12
+      },
+      "query": "Cookies"
+    },
+    {
+      "id": "177",
+      "image": "counting/pixmo-points/images/177.jpg",
+      "prediction": "177.png",
+      "target": {
+        "count": 12
+      },
+      "query": "pie slices"
+    },
+    {
+      "id": "178",
+      "image": "counting/pixmo-points/images/178.jpg",
+      "prediction": "178.png",
+      "target": {
+        "count": 12
+      },
+      "query": "top row screens"
+    },
+    {
+      "id": "179",
+      "image": "counting/pixmo-points/images/179.jpg",
+      "prediction": "179.png",
+      "target": {
+        "count": 12
+      },
+      "query": "profile pictures"
+    },
+    {
+      "id": "180",
+      "image": "counting/pixmo-points/images/180.jpg",
+      "prediction": "180.png",
+      "target": {
+        "count": 13
+      },
+      "query": "Items of clothing "
+    },
+    {
+      "id": "181",
+      "image": "counting/pixmo-points/images/181.jpg",
+      "prediction": "181.png",
+      "target": {
+        "count": 13
+      },
+      "query": "Check marks"
+    },
+    {
+      "id": "182",
+      "image": "counting/pixmo-points/images/182.jpg",
+      "prediction": "182.png",
+      "target": {
+        "count": 13
+      },
+      "query": "palm trees"
+    },
+    {
+      "id": "183",
+      "image": "counting/pixmo-points/images/183.jpg",
+      "prediction": "183.png",
+      "target": {
+        "count": 13
+      },
+      "query": "burgers"
+    },
+    {
+      "id": "184",
+      "image": "counting/pixmo-points/images/184.jpg",
+      "prediction": "184.png",
+      "target": {
+        "count": 13
+      },
+      "query": "Dog's noses"
+    },
+    {
+      "id": "185",
+      "image": "counting/pixmo-points/images/185.jpg",
+      "prediction": "185.png",
+      "target": {
+        "count": 13
+      },
+      "query": "logs of lumber"
+    },
+    {
+      "id": "186",
+      "image": "counting/pixmo-points/images/186.jpg",
+      "prediction": "186.png",
+      "target": {
+        "count": 13
+      },
+      "query": "photos in collage "
+    },
+    {
+      "id": "187",
+      "image": "counting/pixmo-points/images/187.jpg",
+      "prediction": "187.png",
+      "target": {
+        "count": 13
+      },
+      "query": "Women"
+    },
+    {
+      "id": "188",
+      "image": "counting/pixmo-points/images/188.jpg",
+      "prediction": "188.png",
+      "target": {
+        "count": 14
+      },
+      "query": "comic panels"
+    },
+    {
+      "id": "189",
+      "image": "counting/pixmo-points/images/189.jpg",
+      "prediction": "189.png",
+      "target": {
+        "count": 14
+      },
+      "query": "closed doors"
+    },
+    {
+      "id": "190",
+      "image": "counting/pixmo-points/images/190.jpg",
+      "prediction": "190.png",
+      "target": {
+        "count": 14
+      },
+      "query": "Category"
+    },
+    {
+      "id": "191",
+      "image": "counting/pixmo-points/images/191.jpg",
+      "prediction": "191.png",
+      "target": {
+        "count": 14
+      },
+      "query": "Sandwiches"
+    },
+    {
+      "id": "192",
+      "image": "counting/pixmo-points/images/192.jpg",
+      "prediction": "192.png",
+      "target": {
+        "count": 14
+      },
+      "query": "tables"
+    },
+    {
+      "id": "193",
+      "image": "counting/pixmo-points/images/193.jpg",
+      "prediction": "193.png",
+      "target": {
+        "count": 14
+      },
+      "query": "packaged hair products"
+    },
+    {
+      "id": "194",
+      "image": "counting/pixmo-points/images/194.jpg",
+      "prediction": "194.png",
+      "target": {
+        "count": 14
+      },
+      "query": "app"
+    },
+    {
+      "id": "195",
+      "image": "counting/pixmo-points/images/195.jpg",
+      "prediction": "195.png",
+      "target": {
+        "count": 14
+      },
+      "query": "black piece"
+    },
+    {
+      "id": "196",
+      "image": "counting/pixmo-points/images/196.jpg",
+      "prediction": "196.png",
+      "target": {
+        "count": 15
+      },
+      "query": "counties in arizona"
+    },
+    {
+      "id": "197",
+      "image": "counting/pixmo-points/images/197.jpg",
+      "prediction": "197.png",
+      "target": {
+        "count": 15
+      },
+      "query": "doors"
+    },
+    {
+      "id": "198",
+      "image": "counting/pixmo-points/images/198.jpg",
+      "prediction": "198.png",
+      "target": {
+        "count": 15
+      },
+      "query": "cars"
+    },
+    {
+      "id": "199",
+      "image": "counting/pixmo-points/images/199.jpg",
+      "prediction": "199.png",
+      "target": {
+        "count": 15
+      },
+      "query": "red apple"
+    },
+    {
+      "id": "200",
+      "image": "counting/pixmo-points/images/200.jpg",
+      "prediction": "200.png",
+      "target": {
+        "count": 15
+      },
+      "query": "Photographs in image"
+    },
+    {
+      "id": "201",
+      "image": "counting/pixmo-points/images/201.jpg",
+      "prediction": "201.png",
+      "target": {
+        "count": 15
+      },
+      "query": "running shoe"
+    },
+    {
+      "id": "202",
+      "image": "counting/pixmo-points/images/202.jpg",
+      "prediction": "202.png",
+      "target": {
+        "count": 15
+      },
+      "query": "eggs"
+    },
+    {
+      "id": "203",
+      "image": "counting/pixmo-points/images/203.jpg",
+      "prediction": "203.png",
+      "target": {
+        "count": 15
+      },
+      "query": "green edge"
+    },
+    {
+      "id": "204",
+      "image": "counting/pixmo-points/images/204.jpg",
+      "prediction": "204.png",
+      "target": {
+        "count": 15
+      },
+      "query": "boats"
+    },
+    {
+      "id": "205",
+      "image": "counting/pixmo-points/images/205.jpg",
+      "prediction": "205.png",
+      "target": {
+        "count": 16
+      },
+      "query": "photos in collage"
+    },
+    {
+      "id": "206",
+      "image": "counting/pixmo-points/images/206.jpg",
+      "prediction": "206.png",
+      "target": {
+        "count": 16
+      },
+      "query": "balloon"
+    },
+    {
+      "id": "207",
+      "image": "counting/pixmo-points/images/207.jpg",
+      "prediction": "207.png",
+      "target": {
+        "count": 16
+      },
+      "query": "People"
+    },
+    {
+      "id": "208",
+      "image": "counting/pixmo-points/images/208.jpg",
+      "prediction": "208.png",
+      "target": {
+        "count": 16
+      },
+      "query": "book"
+    },
+    {
+      "id": "209",
+      "image": "counting/pixmo-points/images/209.jpg",
+      "prediction": "209.png",
+      "target": {
+        "count": 16
+      },
+      "query": "person"
+    },
+    {
+      "id": "210",
+      "image": "counting/pixmo-points/images/210.jpg",
+      "prediction": "210.png",
+      "target": {
+        "count": 16
+      },
+      "query": "shirts"
+    },
+    {
+      "id": "211",
+      "image": "counting/pixmo-points/images/211.jpg",
+      "prediction": "211.png",
+      "target": {
+        "count": 16
+      },
+      "query": "ski lifts"
+    },
+    {
+      "id": "212",
+      "image": "counting/pixmo-points/images/212.jpg",
+      "prediction": "212.png",
+      "target": {
+        "count": 16
+      },
+      "query": "icon"
+    },
+    {
+      "id": "213",
+      "image": "counting/pixmo-points/images/213.jpg",
+      "prediction": "213.png",
+      "target": {
+        "count": 17
+      },
+      "query": "Sketches of people"
+    },
+    {
+      "id": "214",
+      "image": "counting/pixmo-points/images/214.jpg",
+      "prediction": "214.png",
+      "target": {
+        "count": 17
+      },
+      "query": "Pens"
+    },
+    {
+      "id": "215",
+      "image": "counting/pixmo-points/images/215.jpg",
+      "prediction": "215.png",
+      "target": {
+        "count": 17
+      },
+      "query": "prices"
+    },
+    {
+      "id": "216",
+      "image": "counting/pixmo-points/images/216.jpg",
+      "prediction": "216.png",
+      "target": {
+        "count": 17
+      },
+      "query": "dimes"
+    },
+    {
+      "id": "217",
+      "image": "counting/pixmo-points/images/217.jpg",
+      "prediction": "217.png",
+      "target": {
+        "count": 17
+      },
+      "query": "bullet point "
+    },
+    {
+      "id": "218",
+      "image": "counting/pixmo-points/images/218.jpg",
+      "prediction": "218.png",
+      "target": {
+        "count": 17
+      },
+      "query": "pen"
+    },
+    {
+      "id": "219",
+      "image": "counting/pixmo-points/images/219.jpg",
+      "prediction": "219.png",
+      "target": {
+        "count": 17
+      },
+      "query": "numbers"
+    },
+    {
+      "id": "220",
+      "image": "counting/pixmo-points/images/220.jpg",
+      "prediction": "220.png",
+      "target": {
+        "count": 17
+      },
+      "query": "items of clothing"
+    },
+    {
+      "id": "221",
+      "image": "counting/pixmo-points/images/221.jpg",
+      "prediction": "221.png",
+      "target": {
+        "count": 18
+      },
+      "query": "pictures of drinks"
+    },
+    {
+      "id": "222",
+      "image": "counting/pixmo-points/images/222.jpg",
+      "prediction": "222.png",
+      "target": {
+        "count": 18
+      },
+      "query": "Cones"
+    },
+    {
+      "id": "223",
+      "image": "counting/pixmo-points/images/223.jpg",
+      "prediction": "223.png",
+      "target": {
+        "count": 18
+      },
+      "query": "white mug"
+    },
+    {
+      "id": "224",
+      "image": "counting/pixmo-points/images/224.jpg",
+      "prediction": "224.png",
+      "target": {
+        "count": 18
+      },
+      "query": "colored pens"
+    },
+    {
+      "id": "225",
+      "image": "counting/pixmo-points/images/225.jpg",
+      "prediction": "225.png",
+      "target": {
+        "count": 18
+      },
+      "query": "anime trading cards"
+    },
+    {
+      "id": "226",
+      "image": "counting/pixmo-points/images/226.jpg",
+      "prediction": "226.png",
+      "target": {
+        "count": 18
+      },
+      "query": "homes"
+    },
+    {
+      "id": "227",
+      "image": "counting/pixmo-points/images/227.jpg",
+      "prediction": "227.png",
+      "target": {
+        "count": 18
+      },
+      "query": "Finger"
+    },
+    {
+      "id": "228",
+      "image": "counting/pixmo-points/images/228.jpg",
+      "prediction": "228.png",
+      "target": {
+        "count": 18
+      },
+      "query": "colored icons"
+    },
+    {
+      "id": "229",
+      "image": "counting/pixmo-points/images/229.jpg",
+      "prediction": "229.png",
+      "target": {
+        "count": 19
+      },
+      "query": "cereal with animal mascots "
+    },
+    {
+      "id": "230",
+      "image": "counting/pixmo-points/images/230.jpg",
+      "prediction": "230.png",
+      "target": {
+        "count": 19
+      },
+      "query": "boxes number 1-19"
+    },
+    {
+      "id": "231",
+      "image": "counting/pixmo-points/images/231.jpg",
+      "prediction": "231.png",
+      "target": {
+        "count": 19
+      },
+      "query": "Chairs"
+    },
+    {
+      "id": "232",
+      "image": "counting/pixmo-points/images/232.jpg",
+      "prediction": "232.png",
+      "target": {
+        "count": 19
+      },
+      "query": "teacups and mugs"
+    },
+    {
+      "id": "233",
+      "image": "counting/pixmo-points/images/233.jpg",
+      "prediction": "233.png",
+      "target": {
+        "count": 19
+      },
+      "query": "chairs"
+    },
+    {
+      "id": "234",
+      "image": "counting/pixmo-points/images/234.jpg",
+      "prediction": "234.png",
+      "target": {
+        "count": 19
+      },
+      "query": "people "
+    },
+    {
+      "id": "235",
+      "image": "counting/pixmo-points/images/235.jpg",
+      "prediction": "235.png",
+      "target": {
+        "count": 19
+      },
+      "query": "arrows"
+    },
+    {
+      "id": "236",
+      "image": "counting/pixmo-points/images/236.jpg",
+      "prediction": "236.png",
+      "target": {
+        "count": 19
+      },
+      "query": "top row of letters"
+    },
+    {
+      "id": "237",
+      "image": "counting/pixmo-points/images/237.jpg",
+      "prediction": "237.png",
+      "target": {
+        "count": 20
+      },
+      "query": "flags"
+    },
+    {
+      "id": "238",
+      "image": "counting/pixmo-points/images/238.jpg",
+      "prediction": "238.png",
+      "target": {
+        "count": 20
+      },
+      "query": "white NIVEA label"
+    },
+    {
+      "id": "239",
+      "image": "counting/pixmo-points/images/239.jpg",
+      "prediction": "239.png",
+      "target": {
+        "count": 20
+      },
+      "query": "wooden slats"
+    },
+    {
+      "id": "240",
+      "image": "counting/pixmo-points/images/240.jpg",
+      "prediction": "240.png",
+      "target": {
+        "count": 20
+      },
+      "query": "eyes"
+    },
+    {
+      "id": "241",
+      "image": "counting/pixmo-points/images/241.jpg",
+      "prediction": "241.png",
+      "target": {
+        "count": 20
+      },
+      "query": "BANANAS"
+    },
+    {
+      "id": "242",
+      "image": "counting/pixmo-points/images/242.jpg",
+      "prediction": "242.png",
+      "target": {
+        "count": 20
+      },
+      "query": "Phones"
+    },
+    {
+      "id": "243",
+      "image": "counting/pixmo-points/images/243.jpg",
+      "prediction": "243.png",
+      "target": {
+        "count": 20
+      },
+      "query": "People"
+    },
+    {
+      "id": "244",
+      "image": "counting/pixmo-points/images/244.jpg",
+      "prediction": "244.png",
+      "target": {
+        "count": 20
+      },
+      "query": "Photos"
+    },
+    {
+      "id": "245",
+      "image": "counting/pixmo-points/images/245.jpg",
+      "prediction": "245.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Photos"
+    },
+    {
+      "id": "246",
+      "image": "counting/pixmo-points/images/246.jpg",
+      "prediction": "246.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Line"
+    },
+    {
+      "id": "247",
+      "image": "counting/pixmo-points/images/247.jpg",
+      "prediction": "247.png",
+      "target": {
+        "count": 21
+      },
+      "query": "leaves"
+    },
+    {
+      "id": "248",
+      "image": "counting/pixmo-points/images/248.jpg",
+      "prediction": "248.png",
+      "target": {
+        "count": 21
+      },
+      "query": "football players"
+    },
+    {
+      "id": "249",
+      "image": "counting/pixmo-points/images/249.jpg",
+      "prediction": "249.png",
+      "target": {
+        "count": 21
+      },
+      "query": "White and light blue staircase"
+    },
+    {
+      "id": "250",
+      "image": "counting/pixmo-points/images/250.jpg",
+      "prediction": "250.png",
+      "target": {
+        "count": 21
+      },
+      "query": "stairs"
+    },
+    {
+      "id": "251",
+      "image": "counting/pixmo-points/images/251.jpg",
+      "prediction": "251.png",
+      "target": {
+        "count": 21
+      },
+      "query": "black dots"
+    },
+    {
+      "id": "252",
+      "image": "counting/pixmo-points/images/252.jpg",
+      "prediction": "252.png",
+      "target": {
+        "count": 21
+      },
+      "query": "Coins (Euros)"
+    },
+    {
+      "id": "253",
+      "image": "counting/pixmo-points/images/253.jpg",
+      "prediction": "253.png",
+      "target": {
+        "count": 22
+      },
+      "query": "people"
+    },
+    {
+      "id": "254",
+      "image": "counting/pixmo-points/images/254.jpg",
+      "prediction": "254.png",
+      "target": {
+        "count": 22
+      },
+      "query": "pictures in collage"
+    },
+    {
+      "id": "255",
+      "image": "counting/pixmo-points/images/255.jpg",
+      "prediction": "255.png",
+      "target": {
+        "count": 22
+      },
+      "query": "black dominoes"
+    },
+    {
+      "id": "256",
+      "image": "counting/pixmo-points/images/256.jpg",
+      "prediction": "256.png",
+      "target": {
+        "count": 22
+      },
+      "query": "Vehicle"
+    },
+    {
+      "id": "257",
+      "image": "counting/pixmo-points/images/257.jpg",
+      "prediction": "257.png",
+      "target": {
+        "count": 22
+      },
+      "query": "white game pieces"
+    },
+    {
+      "id": "258",
+      "image": "counting/pixmo-points/images/258.jpg",
+      "prediction": "258.png",
+      "target": {
+        "count": 22
+      },
+      "query": "dice"
+    },
+    {
+      "id": "259",
+      "image": "counting/pixmo-points/images/259.jpg",
+      "prediction": "259.png",
+      "target": {
+        "count": 22
+      },
+      "query": "happy kids with their parents"
+    },
+    {
+      "id": "260",
+      "image": "counting/pixmo-points/images/260.jpg",
+      "prediction": "260.png",
+      "target": {
+        "count": 22
+      },
+      "query": "white marks on road "
+    },
+    {
+      "id": "261",
+      "image": "counting/pixmo-points/images/261.jpg",
+      "prediction": "261.png",
+      "target": {
+        "count": 22
+      },
+      "query": "Amstrad gx4000 game cartridges"
+    },
+    {
+      "id": "262",
+      "image": "counting/pixmo-points/images/262.jpg",
+      "prediction": "262.png",
+      "target": {
+        "count": 23
+      },
+      "query": "faces"
+    },
+    {
+      "id": "263",
+      "image": "counting/pixmo-points/images/263.jpg",
+      "prediction": "263.png",
+      "target": {
+        "count": 23
+      },
+      "query": "distinct pens for drawing"
+    },
+    {
+      "id": "264",
+      "image": "counting/pixmo-points/images/264.jpg",
+      "prediction": "264.png",
+      "target": {
+        "count": 23
+      },
+      "query": "photo"
+    },
+    {
+      "id": "265",
+      "image": "counting/pixmo-points/images/265.jpg",
+      "prediction": "265.png",
+      "target": {
+        "count": 23
+      },
+      "query": "people"
+    },
+    {
+      "id": "266",
+      "image": "counting/pixmo-points/images/266.jpg",
+      "prediction": "266.png",
+      "target": {
+        "count": 23
+      },
+      "query": "animals"
+    },
+    {
+      "id": "267",
+      "image": "counting/pixmo-points/images/267.jpg",
+      "prediction": "267.png",
+      "target": {
+        "count": 23
+      },
+      "query": "Images"
+    },
+    {
+      "id": "268",
+      "image": "counting/pixmo-points/images/268.jpg",
+      "prediction": "268.png",
+      "target": {
+        "count": 23
+      },
+      "query": "pieces of clothing"
+    },
+    {
+      "id": "269",
+      "image": "counting/pixmo-points/images/269.jpg",
+      "prediction": "269.png",
+      "target": {
+        "count": 23
+      },
+      "query": "people"
+    },
+    {
+      "id": "270",
+      "image": "counting/pixmo-points/images/270.jpg",
+      "prediction": "270.png",
+      "target": {
+        "count": 24
+      },
+      "query": "faces"
+    },
+    {
+      "id": "271",
+      "image": "counting/pixmo-points/images/271.jpg",
+      "prediction": "271.png",
+      "target": {
+        "count": 24
+      },
+      "query": "tables"
+    },
+    {
+      "id": "272",
+      "image": "counting/pixmo-points/images/272.jpg",
+      "prediction": "272.png",
+      "target": {
+        "count": 24
+      },
+      "query": "DVDs"
+    },
+    {
+      "id": "273",
+      "image": "counting/pixmo-points/images/273.jpg",
+      "prediction": "273.png",
+      "target": {
+        "count": 24
+      },
+      "query": "cartoon hats"
+    },
+    {
+      "id": "274",
+      "image": "counting/pixmo-points/images/274.jpg",
+      "prediction": "274.png",
+      "target": {
+        "count": 24
+      },
+      "query": "Wooden Chair Slats "
+    },
+    {
+      "id": "275",
+      "image": "counting/pixmo-points/images/275.jpg",
+      "prediction": "275.png",
+      "target": {
+        "count": 24
+      },
+      "query": "rock"
+    },
+    {
+      "id": "276",
+      "image": "counting/pixmo-points/images/276.jpg",
+      "prediction": "276.png",
+      "target": {
+        "count": 24
+      },
+      "query": "all books on top shelf"
+    },
+    {
+      "id": "277",
+      "image": "counting/pixmo-points/images/277.jpg",
+      "prediction": "277.png",
+      "target": {
+        "count": 24
+      },
+      "query": "Books on top of book cases"
+    },
+    {
+      "id": "278",
+      "image": "counting/pixmo-points/images/278.jpg",
+      "prediction": "278.png",
+      "target": {
+        "count": 24
+      },
+      "query": "blue dots"
+    },
+    {
+      "id": "279",
+      "image": "counting/pixmo-points/images/279.jpg",
+      "prediction": "279.png",
+      "target": {
+        "count": 25
+      },
+      "query": "square on game board"
+    },
+    {
+      "id": "280",
+      "image": "counting/pixmo-points/images/280.jpg",
+      "prediction": "280.png",
+      "target": {
+        "count": 25
+      },
+      "query": "cones"
+    },
+    {
+      "id": "281",
+      "image": "counting/pixmo-points/images/281.jpg",
+      "prediction": "281.png",
+      "target": {
+        "count": 25
+      },
+      "query": "Books"
+    },
+    {
+      "id": "282",
+      "image": "counting/pixmo-points/images/282.jpg",
+      "prediction": "282.png",
+      "target": {
+        "count": 25
+      },
+      "query": "drawers"
+    },
+    {
+      "id": "283",
+      "image": "counting/pixmo-points/images/283.jpg",
+      "prediction": "283.png",
+      "target": {
+        "count": 25
+      },
+      "query": "golf ball"
+    },
+    {
+      "id": "284",
+      "image": "counting/pixmo-points/images/284.jpg",
+      "prediction": "284.png",
+      "target": {
+        "count": 25
+      },
+      "query": "burgers"
+    },
+    {
+      "id": "285",
+      "image": "counting/pixmo-points/images/285.jpg",
+      "prediction": "285.png",
+      "target": {
+        "count": 25
+      },
+      "query": "heads"
+    },
+    {
+      "id": "286",
+      "image": "counting/pixmo-points/images/286.jpg",
+      "prediction": "286.png",
+      "target": {
+        "count": 25
+      },
+      "query": "wind turbines"
+    },
+    {
+      "id": "287",
+      "image": "counting/pixmo-points/images/287.jpg",
+      "prediction": "287.png",
+      "target": {
+        "count": 26
+      },
+      "query": "large black eyes "
+    },
+    {
+      "id": "288",
+      "image": "counting/pixmo-points/images/288.jpg",
+      "prediction": "288.png",
+      "target": {
+        "count": 26
+      },
+      "query": "car"
+    },
+    {
+      "id": "289",
+      "image": "counting/pixmo-points/images/289.jpg",
+      "prediction": "289.png",
+      "target": {
+        "count": 26
+      },
+      "query": "letters of the alphabet in each photograph"
+    },
+    {
+      "id": "290",
+      "image": "counting/pixmo-points/images/290.jpg",
+      "prediction": "290.png",
+      "target": {
+        "count": 26
+      },
+      "query": "shoes in image"
+    },
+    {
+      "id": "291",
+      "image": "counting/pixmo-points/images/291.jpg",
+      "prediction": "291.png",
+      "target": {
+        "count": 26
+      },
+      "query": "Pastry"
+    },
+    {
+      "id": "292",
+      "image": "counting/pixmo-points/images/292.jpg",
+      "prediction": "292.png",
+      "target": {
+        "count": 26
+      },
+      "query": "cans"
+    },
+    {
+      "id": "293",
+      "image": "counting/pixmo-points/images/293.jpg",
+      "prediction": "293.png",
+      "target": {
+        "count": 26
+      },
+      "query": "clothes hangers"
+    },
+    {
+      "id": "294",
+      "image": "counting/pixmo-points/images/294.jpg",
+      "prediction": "294.png",
+      "target": {
+        "count": 26
+      },
+      "query": "dark stripes on flags"
+    },
+    {
+      "id": "295",
+      "image": "counting/pixmo-points/images/295.jpg",
+      "prediction": "295.png",
+      "target": {
+        "count": 27
+      },
+      "query": "portapottys"
+    },
+    {
+      "id": "296",
+      "image": "counting/pixmo-points/images/296.jpg",
+      "prediction": "296.png",
+      "target": {
+        "count": 27
+      },
+      "query": "people in photographs"
+    },
+    {
+      "id": "297",
+      "image": "counting/pixmo-points/images/297.jpg",
+      "prediction": "297.png",
+      "target": {
+        "count": 27
+      },
+      "query": "Tennis Balls"
+    },
+    {
+      "id": "298",
+      "image": "counting/pixmo-points/images/298.jpg",
+      "prediction": "298.png",
+      "target": {
+        "count": 27
+      },
+      "query": "eggs"
+    },
+    {
+      "id": "299",
+      "image": "counting/pixmo-points/images/299.jpg",
+      "prediction": "299.png",
+      "target": {
+        "count": 27
+      },
+      "query": "tools"
+    },
+    {
+      "id": "300",
+      "image": "counting/pixmo-points/images/300.jpg",
+      "prediction": "300.png",
+      "target": {
+        "count": 27
+      },
+      "query": "people"
+    },
+    {
+      "id": "301",
+      "image": "counting/pixmo-points/images/301.jpg",
+      "prediction": "301.png",
+      "target": {
+        "count": 27
+      },
+      "query": "DVDs"
+    },
+    {
+      "id": "302",
+      "image": "counting/pixmo-points/images/302.jpg",
+      "prediction": "302.png",
+      "target": {
+        "count": 27
+      },
+      "query": "Book"
+    },
+    {
+      "id": "303",
+      "image": "counting/pixmo-points/images/303.jpg",
+      "prediction": "303.png",
+      "target": {
+        "count": 28
+      },
+      "query": "pen"
+    },
+    {
+      "id": "304",
+      "image": "counting/pixmo-points/images/304.jpg",
+      "prediction": "304.png",
+      "target": {
+        "count": 28
+      },
+      "query": "cat ears"
+    },
+    {
+      "id": "305",
+      "image": "counting/pixmo-points/images/305.jpg",
+      "prediction": "305.png",
+      "target": {
+        "count": 28
+      },
+      "query": "people seated"
+    },
+    {
+      "id": "306",
+      "image": "counting/pixmo-points/images/306.jpg",
+      "prediction": "306.png",
+      "target": {
+        "count": 28
+      },
+      "query": "windmills"
+    },
+    {
+      "id": "307",
+      "image": "counting/pixmo-points/images/307.jpg",
+      "prediction": "307.png",
+      "target": {
+        "count": 28
+      },
+      "query": "colored painting of black people"
+    },
+    {
+      "id": "308",
+      "image": "counting/pixmo-points/images/308.jpg",
+      "prediction": "308.png",
+      "target": {
+        "count": 28
+      },
+      "query": "Faces"
+    },
+    {
+      "id": "309",
+      "image": "counting/pixmo-points/images/309.jpg",
+      "prediction": "309.png",
+      "target": {
+        "count": 28
+      },
+      "query": "vehicles"
+    },
+    {
+      "id": "310",
+      "image": "counting/pixmo-points/images/310.jpg",
+      "prediction": "310.png",
+      "target": {
+        "count": 28
+      },
+      "query": "people"
+    },
+    {
+      "id": "311",
+      "image": "counting/pixmo-points/images/311.jpg",
+      "prediction": "311.png",
+      "target": {
+        "count": 29
+      },
+      "query": "hearts"
+    },
+    {
+      "id": "312",
+      "image": "counting/pixmo-points/images/312.jpg",
+      "prediction": "312.png",
+      "target": {
+        "count": 29
+      },
+      "query": "Golf ball"
+    },
+    {
+      "id": "313",
+      "image": "counting/pixmo-points/images/313.jpg",
+      "prediction": "313.png",
+      "target": {
+        "count": 29
+      },
+      "query": "white vehicles in lanes that run diagonally from top left to bottom right"
+    },
+    {
+      "id": "314",
+      "image": "counting/pixmo-points/images/314.jpg",
+      "prediction": "314.png",
+      "target": {
+        "count": 29
+      },
+      "query": "buildings"
+    },
+    {
+      "id": "315",
+      "image": "counting/pixmo-points/images/315.jpg",
+      "prediction": "315.png",
+      "target": {
+        "count": 29
+      },
+      "query": "tennis ball"
+    },
+    {
+      "id": "316",
+      "image": "counting/pixmo-points/images/316.jpg",
+      "prediction": "316.png",
+      "target": {
+        "count": 29
+      },
+      "query": "Books"
+    },
+    {
+      "id": "317",
+      "image": "counting/pixmo-points/images/317.jpg",
+      "prediction": "317.png",
+      "target": {
+        "count": 29
+      },
+      "query": "mountaineer"
+    },
+    {
+      "id": "318",
+      "image": "counting/pixmo-points/images/318.jpg",
+      "prediction": "318.png",
+      "target": {
+        "count": 29
+      },
+      "query": "dolls"
+    },
+    {
+      "id": "319",
+      "image": "counting/pixmo-points/images/319.jpg",
+      "prediction": "319.png",
+      "target": {
+        "count": 29
+      },
+      "query": "Gallon jugs of milk in the cooler"
+    },
+    {
+      "id": "320",
+      "image": "counting/pixmo-points/images/320.jpg",
+      "prediction": "320.png",
+      "target": {
+        "count": 30
+      },
+      "query": "subsections of floor plan"
+    },
+    {
+      "id": "321",
+      "image": "counting/pixmo-points/images/321.jpg",
+      "prediction": "321.png",
+      "target": {
+        "count": 30
+      },
+      "query": "reflection of images"
+    },
+    {
+      "id": "322",
+      "image": "counting/pixmo-points/images/322.jpg",
+      "prediction": "322.png",
+      "target": {
+        "count": 30
+      },
+      "query": "logs"
+    },
+    {
+      "id": "323",
+      "image": "counting/pixmo-points/images/323.jpg",
+      "prediction": "323.png",
+      "target": {
+        "count": 30
+      },
+      "query": "Books on top shelf"
+    },
+    {
+      "id": "324",
+      "image": "counting/pixmo-points/images/324.jpg",
+      "prediction": "324.png",
+      "target": {
+        "count": 30
+      },
+      "query": "Blu-ray DVD"
+    },
+    {
+      "id": "325",
+      "image": "counting/pixmo-points/images/325.jpg",
+      "prediction": "325.png",
+      "target": {
+        "count": 30
+      },
+      "query": "Crepe"
+    },
+    {
+      "id": "326",
+      "image": "counting/pixmo-points/images/326.jpg",
+      "prediction": "326.png",
+      "target": {
+        "count": 30
+      },
+      "query": "numbers in image"
+    },
+    {
+      "id": "327",
+      "image": "counting/pixmo-points/images/327.jpg",
+      "prediction": "327.png",
+      "target": {
+        "count": 30
+      },
+      "query": "tray tables"
+    },
+    {
+      "id": "328",
+      "image": "counting/pixmo-points/images/328.jpg",
+      "prediction": "328.png",
+      "target": {
+        "count": 31
+      },
+      "query": "day in january"
+    },
+    {
+      "id": "329",
+      "image": "counting/pixmo-points/images/329.jpg",
+      "prediction": "329.png",
+      "target": {
+        "count": 31
+      },
+      "query": "kellogs logo"
+    },
+    {
+      "id": "330",
+      "image": "counting/pixmo-points/images/330.jpg",
+      "prediction": "330.png",
+      "target": {
+        "count": 31
+      },
+      "query": "tools with two squeeze handles (pliers, clamps, cutters, etc.)"
+    },
+    {
+      "id": "331",
+      "image": "counting/pixmo-points/images/331.jpg",
+      "prediction": "331.png",
+      "target": {
+        "count": 31
+      },
+      "query": "plate"
+    },
+    {
+      "id": "332",
+      "image": "counting/pixmo-points/images/332.jpg",
+      "prediction": "332.png",
+      "target": {
+        "count": 31
+      },
+      "query": "funko pop"
+    },
+    {
+      "id": "333",
+      "image": "counting/pixmo-points/images/333.jpg",
+      "prediction": "333.png",
+      "target": {
+        "count": 31
+      },
+      "query": "photo"
+    },
+    {
+      "id": "334",
+      "image": "counting/pixmo-points/images/334.jpg",
+      "prediction": "334.png",
+      "target": {
+        "count": 31
+      },
+      "query": "calendar days"
+    },
+    {
+      "id": "335",
+      "image": "counting/pixmo-points/images/335.jpg",
+      "prediction": "335.png",
+      "target": {
+        "count": 31
+      },
+      "query": "day in january"
+    },
+    {
+      "id": "336",
+      "image": "counting/pixmo-points/images/336.jpg",
+      "prediction": "336.png",
+      "target": {
+        "count": 31
+      },
+      "query": "corroded looking coins"
+    },
+    {
+      "id": "337",
+      "image": "counting/pixmo-points/images/337.jpg",
+      "prediction": "337.png",
+      "target": {
+        "count": 32
+      },
+      "query": "Red Grapes"
+    },
+    {
+      "id": "338",
+      "image": "counting/pixmo-points/images/338.jpg",
+      "prediction": "338.png",
+      "target": {
+        "count": 32
+      },
+      "query": "utensils"
+    },
+    {
+      "id": "339",
+      "image": "counting/pixmo-points/images/339.jpg",
+      "prediction": "339.png",
+      "target": {
+        "count": 32
+      },
+      "query": "vacant"
+    },
+    {
+      "id": "340",
+      "image": "counting/pixmo-points/images/340.jpg",
+      "prediction": "340.png",
+      "target": {
+        "count": 32
+      },
+      "query": "Buttons"
+    },
+    {
+      "id": "341",
+      "image": "counting/pixmo-points/images/341.jpg",
+      "prediction": "341.png",
+      "target": {
+        "count": 32
+      },
+      "query": "high heels"
+    },
+    {
+      "id": "342",
+      "image": "counting/pixmo-points/images/342.jpg",
+      "prediction": "342.png",
+      "target": {
+        "count": 32
+      },
+      "query": "keyboard keys"
+    },
+    {
+      "id": "343",
+      "image": "counting/pixmo-points/images/343.jpg",
+      "prediction": "343.png",
+      "target": {
+        "count": 32
+      },
+      "query": "hot air ballons "
+    },
+    {
+      "id": "344",
+      "image": "counting/pixmo-points/images/344.jpg",
+      "prediction": "344.png",
+      "target": {
+        "count": 32
+      },
+      "query": "oranges"
+    },
+    {
+      "id": "345",
+      "image": "counting/pixmo-points/images/345.jpg",
+      "prediction": "345.png",
+      "target": {
+        "count": 33
+      },
+      "query": "coffee beans"
+    },
+    {
+      "id": "346",
+      "image": "counting/pixmo-points/images/346.jpg",
+      "prediction": "346.png",
+      "target": {
+        "count": 33
+      },
+      "query": "steps"
+    },
+    {
+      "id": "347",
+      "image": "counting/pixmo-points/images/347.jpg",
+      "prediction": "347.png",
+      "target": {
+        "count": 33
+      },
+      "query": "cars parked"
+    },
+    {
+      "id": "348",
+      "image": "counting/pixmo-points/images/348.jpg",
+      "prediction": "348.png",
+      "target": {
+        "count": 33
+      },
+      "query": "person"
+    },
+    {
+      "id": "349",
+      "image": "counting/pixmo-points/images/349.jpg",
+      "prediction": "349.png",
+      "target": {
+        "count": 33
+      },
+      "query": "logs"
+    },
+    {
+      "id": "350",
+      "image": "counting/pixmo-points/images/350.jpg",
+      "prediction": "350.png",
+      "target": {
+        "count": 33
+      },
+      "query": "restaurant menu items"
+    },
+    {
+      "id": "351",
+      "image": "counting/pixmo-points/images/351.jpg",
+      "prediction": "351.png",
+      "target": {
+        "count": 33
+      },
+      "query": "movie cases"
+    },
+    {
+      "id": "352",
+      "image": "counting/pixmo-points/images/352.jpg",
+      "prediction": "352.png",
+      "target": {
+        "count": 33
+      },
+      "query": "bags"
+    },
+    {
+      "id": "353",
+      "image": "counting/pixmo-points/images/353.jpg",
+      "prediction": "353.png",
+      "target": {
+        "count": 33
+      },
+      "query": "Far left wine bottles"
+    },
+    {
+      "id": "354",
+      "image": "counting/pixmo-points/images/354.jpg",
+      "prediction": "354.png",
+      "target": {
+        "count": 34
+      },
+      "query": "DVD Blu Ray cases"
+    },
+    {
+      "id": "355",
+      "image": "counting/pixmo-points/images/355.jpg",
+      "prediction": "355.png",
+      "target": {
+        "count": 34
+      },
+      "query": "fish"
+    },
+    {
+      "id": "356",
+      "image": "counting/pixmo-points/images/356.jpg",
+      "prediction": "356.png",
+      "target": {
+        "count": 34
+      },
+      "query": "cards"
+    },
+    {
+      "id": "357",
+      "image": "counting/pixmo-points/images/357.jpg",
+      "prediction": "357.png",
+      "target": {
+        "count": 34
+      },
+      "query": "bananas"
+    },
+    {
+      "id": "358",
+      "image": "counting/pixmo-points/images/358.jpg",
+      "prediction": "358.png",
+      "target": {
+        "count": 34
+      },
+      "query": "Shoes in a pile"
+    },
+    {
+      "id": "359",
+      "image": "counting/pixmo-points/images/359.jpg",
+      "prediction": "359.png",
+      "target": {
+        "count": 34
+      },
+      "query": "Pepperoni"
+    },
+    {
+      "id": "360",
+      "image": "counting/pixmo-points/images/360.jpg",
+      "prediction": "360.png",
+      "target": {
+        "count": 34
+      },
+      "query": "women"
+    },
+    {
+      "id": "361",
+      "image": "counting/pixmo-points/images/361.jpg",
+      "prediction": "361.png",
+      "target": {
+        "count": 34
+      },
+      "query": "Cities in Arizona"
+    },
+    {
+      "id": "362",
+      "image": "counting/pixmo-points/images/362.jpg",
+      "prediction": "362.png",
+      "target": {
+        "count": 35
+      },
+      "query": "casino chips"
+    },
+    {
+      "id": "363",
+      "image": "counting/pixmo-points/images/363.jpg",
+      "prediction": "363.png",
+      "target": {
+        "count": 35
+      },
+      "query": "images of humans"
+    },
+    {
+      "id": "364",
+      "image": "counting/pixmo-points/images/364.jpg",
+      "prediction": "364.png",
+      "target": {
+        "count": 35
+      },
+      "query": "Safety/Hazard Signage with a red background"
+    },
+    {
+      "id": "365",
+      "image": "counting/pixmo-points/images/365.jpg",
+      "prediction": "365.png",
+      "target": {
+        "count": 35
+      },
+      "query": "pictures"
+    },
+    {
+      "id": "366",
+      "image": "counting/pixmo-points/images/366.jpg",
+      "prediction": "366.png",
+      "target": {
+        "count": 35
+      },
+      "query": "glass windows"
+    },
+    {
+      "id": "367",
+      "image": "counting/pixmo-points/images/367.jpg",
+      "prediction": "367.png",
+      "target": {
+        "count": 35
+      },
+      "query": "Transition Metals"
+    },
+    {
+      "id": "368",
+      "image": "counting/pixmo-points/images/368.jpg",
+      "prediction": "368.png",
+      "target": {
+        "count": 35
+      },
+      "query": "letters written on playing cards"
+    },
+    {
+      "id": "369",
+      "image": "counting/pixmo-points/images/369.jpg",
+      "prediction": "369.png",
+      "target": {
+        "count": 35
+      },
+      "query": "Shoes in the foreground"
+    },
+    {
+      "id": "370",
+      "image": "counting/pixmo-points/images/370.jpg",
+      "prediction": "370.png",
+      "target": {
+        "count": 36
+      },
+      "query": "bottom row figurine"
+    },
+    {
+      "id": "371",
+      "image": "counting/pixmo-points/images/371.jpg",
+      "prediction": "371.png",
+      "target": {
+        "count": 36
+      },
+      "query": "movie poster art"
+    },
+    {
+      "id": "372",
+      "image": "counting/pixmo-points/images/372.jpg",
+      "prediction": "372.png",
+      "target": {
+        "count": 36
+      },
+      "query": "File icons"
+    },
+    {
+      "id": "373",
+      "image": "counting/pixmo-points/images/373.jpg",
+      "prediction": "373.png",
+      "target": {
+        "count": 36
+      },
+      "query": "Pokemon cards"
+    },
+    {
+      "id": "374",
+      "image": "counting/pixmo-points/images/374.jpg",
+      "prediction": "374.png",
+      "target": {
+        "count": 36
+      },
+      "query": "shoee"
+    },
+    {
+      "id": "375",
+      "image": "counting/pixmo-points/images/375.jpg",
+      "prediction": "375.png",
+      "target": {
+        "count": 36
+      },
+      "query": "Footwear"
+    },
+    {
+      "id": "376",
+      "image": "counting/pixmo-points/images/376.jpg",
+      "prediction": "376.png",
+      "target": {
+        "count": 36
+      },
+      "query": "Photos in the collage"
+    },
+    {
+      "id": "377",
+      "image": "counting/pixmo-points/images/377.jpg",
+      "prediction": "377.png",
+      "target": {
+        "count": 36
+      },
+      "query": "dolls"
+    },
+    {
+      "id": "378",
+      "image": "counting/pixmo-points/images/378.jpg",
+      "prediction": "378.png",
+      "target": {
+        "count": 36
+      },
+      "query": "shoe"
+    },
+    {
+      "id": "379",
+      "image": "counting/pixmo-points/images/379.jpg",
+      "prediction": "379.png",
+      "target": {
+        "count": 37
+      },
+      "query": "Apps inside of gray squares"
+    },
+    {
+      "id": "380",
+      "image": "counting/pixmo-points/images/380.jpg",
+      "prediction": "380.png",
+      "target": {
+        "count": 37
+      },
+      "query": "book"
+    },
+    {
+      "id": "381",
+      "image": "counting/pixmo-points/images/381.jpg",
+      "prediction": "381.png",
+      "target": {
+        "count": 37
+      },
+      "query": "foods"
+    },
+    {
+      "id": "382",
+      "image": "counting/pixmo-points/images/382.jpg",
+      "prediction": "382.png",
+      "target": {
+        "count": 37
+      },
+      "query": "apples"
+    },
+    {
+      "id": "383",
+      "image": "counting/pixmo-points/images/383.jpg",
+      "prediction": "383.png",
+      "target": {
+        "count": 37
+      },
+      "query": "Cars in gridlock traffic"
+    },
+    {
+      "id": "384",
+      "image": "counting/pixmo-points/images/384.jpg",
+      "prediction": "384.png",
+      "target": {
+        "count": 37
+      },
+      "query": "edge pieces"
+    },
+    {
+      "id": "385",
+      "image": "counting/pixmo-points/images/385.jpg",
+      "prediction": "385.png",
+      "target": {
+        "count": 37
+      },
+      "query": "Electroacoustic Patches on first row on left side"
+    },
+    {
+      "id": "386",
+      "image": "counting/pixmo-points/images/386.jpg",
+      "prediction": "386.png",
+      "target": {
+        "count": 37
+      },
+      "query": "silverware"
+    },
+    {
+      "id": "387",
+      "image": "counting/pixmo-points/images/387.jpg",
+      "prediction": "387.png",
+      "target": {
+        "count": 37
+      },
+      "query": "stadium lighting fixtures \"reflectors\""
+    },
+    {
+      "id": "388",
+      "image": "counting/pixmo-points/images/388.jpg",
+      "prediction": "388.png",
+      "target": {
+        "count": 38
+      },
+      "query": "Golf Balls"
+    },
+    {
+      "id": "389",
+      "image": "counting/pixmo-points/images/389.jpg",
+      "prediction": "389.png",
+      "target": {
+        "count": 38
+      },
+      "query": "coins"
+    },
+    {
+      "id": "390",
+      "image": "counting/pixmo-points/images/390.jpg",
+      "prediction": "390.png",
+      "target": {
+        "count": 38
+      },
+      "query": "Coins"
+    },
+    {
+      "id": "391",
+      "image": "counting/pixmo-points/images/391.jpg",
+      "prediction": "391.png",
+      "target": {
+        "count": 38
+      },
+      "query": "Horizontally stacked books"
+    },
+    {
+      "id": "392",
+      "image": "counting/pixmo-points/images/392.jpg",
+      "prediction": "392.png",
+      "target": {
+        "count": 38
+      },
+      "query": "cookie dough prior to baking"
+    },
+    {
+      "id": "393",
+      "image": "counting/pixmo-points/images/393.jpg",
+      "prediction": "393.png",
+      "target": {
+        "count": 38
+      },
+      "query": "upper row cases"
+    },
+    {
+      "id": "394",
+      "image": "counting/pixmo-points/images/394.jpg",
+      "prediction": "394.png",
+      "target": {
+        "count": 38
+      },
+      "query": "junked vehicle"
+    },
+    {
+      "id": "395",
+      "image": "counting/pixmo-points/images/395.jpg",
+      "prediction": "395.png",
+      "target": {
+        "count": 38
+      },
+      "query": "Tools and items"
+    },
+    {
+      "id": "396",
+      "image": "counting/pixmo-points/images/396.jpg",
+      "prediction": "396.png",
+      "target": {
+        "count": 38
+      },
+      "query": "cats"
+    },
+    {
+      "id": "397",
+      "image": "counting/pixmo-points/images/397.jpg",
+      "prediction": "397.png",
+      "target": {
+        "count": 39
+      },
+      "query": "Books along the bottom shelf"
+    },
+    {
+      "id": "398",
+      "image": "counting/pixmo-points/images/398.jpg",
+      "prediction": "398.png",
+      "target": {
+        "count": 39
+      },
+      "query": "blueberry"
+    },
+    {
+      "id": "399",
+      "image": "counting/pixmo-points/images/399.jpg",
+      "prediction": "399.png",
+      "target": {
+        "count": 39
+      },
+      "query": "mini Warning Signs under Group A upper left hand corner of image"
+    },
+    {
+      "id": "400",
+      "image": "counting/pixmo-points/images/400.jpg",
+      "prediction": "400.png",
+      "target": {
+        "count": 39
+      },
+      "query": "doors"
+    },
+    {
+      "id": "401",
+      "image": "counting/pixmo-points/images/401.jpg",
+      "prediction": "401.png",
+      "target": {
+        "count": 39
+      },
+      "query": "Light"
+    },
+    {
+      "id": "402",
+      "image": "counting/pixmo-points/images/402.jpg",
+      "prediction": "402.png",
+      "target": {
+        "count": 39
+      },
+      "query": "icons"
+    },
+    {
+      "id": "403",
+      "image": "counting/pixmo-points/images/403.jpg",
+      "prediction": "403.png",
+      "target": {
+        "count": 39
+      },
+      "query": "cars"
+    },
+    {
+      "id": "404",
+      "image": "counting/pixmo-points/images/404.jpg",
+      "prediction": "404.png",
+      "target": {
+        "count": 39
+      },
+      "query": "PC video game cases"
+    },
+    {
+      "id": "405",
+      "image": "counting/pixmo-points/images/405.jpg",
+      "prediction": "405.png",
+      "target": {
+        "count": 39
+      },
+      "query": "date"
+    },
+    {
+      "id": "406",
+      "image": "counting/pixmo-points/images/406.jpg",
+      "prediction": "406.png",
+      "target": {
+        "count": 40
+      },
+      "query": "groups of 5 marker lines that have one line through middle"
+    },
+    {
+      "id": "407",
+      "image": "counting/pixmo-points/images/407.jpg",
+      "prediction": "407.png",
+      "target": {
+        "count": 40
+      },
+      "query": "Dumbells"
+    },
+    {
+      "id": "408",
+      "image": "counting/pixmo-points/images/408.jpg",
+      "prediction": "408.png",
+      "target": {
+        "count": 40
+      },
+      "query": "purple grapes"
+    },
+    {
+      "id": "409",
+      "image": "counting/pixmo-points/images/409.jpg",
+      "prediction": "409.png",
+      "target": {
+        "count": 40
+      },
+      "query": "plus icons"
+    },
+    {
+      "id": "410",
+      "image": "counting/pixmo-points/images/410.jpg",
+      "prediction": "410.png",
+      "target": {
+        "count": 40
+      },
+      "query": "Pile of toy cars"
+    },
+    {
+      "id": "411",
+      "image": "counting/pixmo-points/images/411.jpg",
+      "prediction": "411.png",
+      "target": {
+        "count": 40
+      },
+      "query": "Cats"
+    },
+    {
+      "id": "412",
+      "image": "counting/pixmo-points/images/412.jpg",
+      "prediction": "412.png",
+      "target": {
+        "count": 40
+      },
+      "query": "white worded font"
+    },
+    {
+      "id": "413",
+      "image": "counting/pixmo-points/images/413.jpg",
+      "prediction": "413.png",
+      "target": {
+        "count": 40
+      },
+      "query": "Lemons"
+    },
+    {
+      "id": "414",
+      "image": "counting/pixmo-points/images/414.jpg",
+      "prediction": "414.png",
+      "target": {
+        "count": 40
+      },
+      "query": "Tarot cards"
+    },
+    {
+      "id": "415",
+      "image": "counting/pixmo-points/images/415.jpg",
+      "prediction": "415.png",
+      "target": {
+        "count": 41
+      },
+      "query": "red vehicle "
+    },
+    {
+      "id": "416",
+      "image": "counting/pixmo-points/images/416.jpg",
+      "prediction": "416.png",
+      "target": {
+        "count": 41
+      },
+      "query": "cards"
+    },
+    {
+      "id": "417",
+      "image": "counting/pixmo-points/images/417.jpg",
+      "prediction": "417.png",
+      "target": {
+        "count": 41
+      },
+      "query": "writing  tools"
+    },
+    {
+      "id": "418",
+      "image": "counting/pixmo-points/images/418.jpg",
+      "prediction": "418.png",
+      "target": {
+        "count": 41
+      },
+      "query": "coins"
+    },
+    {
+      "id": "419",
+      "image": "counting/pixmo-points/images/419.jpg",
+      "prediction": "419.png",
+      "target": {
+        "count": 41
+      },
+      "query": "circular pieces"
+    },
+    {
+      "id": "420",
+      "image": "counting/pixmo-points/images/420.jpg",
+      "prediction": "420.png",
+      "target": {
+        "count": 41
+      },
+      "query": "calendar day"
+    },
+    {
+      "id": "421",
+      "image": "counting/pixmo-points/images/421.jpg",
+      "prediction": "421.png",
+      "target": {
+        "count": 41
+      },
+      "query": "chairs"
+    },
+    {
+      "id": "422",
+      "image": "counting/pixmo-points/images/422.jpg",
+      "prediction": "422.png",
+      "target": {
+        "count": 41
+      },
+      "query": "Total rows"
+    },
+    {
+      "id": "423",
+      "image": "counting/pixmo-points/images/423.jpg",
+      "prediction": "423.png",
+      "target": {
+        "count": 41
+      },
+      "query": "White chairs"
+    },
+    {
+      "id": "424",
+      "image": "counting/pixmo-points/images/424.jpg",
+      "prediction": "424.png",
+      "target": {
+        "count": 42
+      },
+      "query": "dogs"
+    },
+    {
+      "id": "425",
+      "image": "counting/pixmo-points/images/425.jpg",
+      "prediction": "425.png",
+      "target": {
+        "count": 42
+      },
+      "query": "number of calendar dates"
+    },
+    {
+      "id": "426",
+      "image": "counting/pixmo-points/images/426.jpg",
+      "prediction": "426.png",
+      "target": {
+        "count": 42
+      },
+      "query": "vehicles"
+    },
+    {
+      "id": "427",
+      "image": "counting/pixmo-points/images/427.jpg",
+      "prediction": "427.png",
+      "target": {
+        "count": 42
+      },
+      "query": "triangle shaped road sign icons"
+    },
+    {
+      "id": "428",
+      "image": "counting/pixmo-points/images/428.jpg",
+      "prediction": "428.png",
+      "target": {
+        "count": 42
+      },
+      "query": "emoticon"
+    },
+    {
+      "id": "429",
+      "image": "counting/pixmo-points/images/429.jpg",
+      "prediction": "429.png",
+      "target": {
+        "count": 42
+      },
+      "query": "college logos"
+    },
+    {
+      "id": "430",
+      "image": "counting/pixmo-points/images/430.jpg",
+      "prediction": "430.png",
+      "target": {
+        "count": 42
+      },
+      "query": "photos in collage"
+    },
+    {
+      "id": "431",
+      "image": "counting/pixmo-points/images/431.jpg",
+      "prediction": "431.png",
+      "target": {
+        "count": 42
+      },
+      "query": "rocks"
+    },
+    {
+      "id": "432",
+      "image": "counting/pixmo-points/images/432.jpg",
+      "prediction": "432.png",
+      "target": {
+        "count": 42
+      },
+      "query": "toy cars"
+    },
+    {
+      "id": "433",
+      "image": "counting/pixmo-points/images/433.jpg",
+      "prediction": "433.png",
+      "target": {
+        "count": 43
+      },
+      "query": "white tile backsplash"
+    },
+    {
+      "id": "434",
+      "image": "counting/pixmo-points/images/434.jpg",
+      "prediction": "434.png",
+      "target": {
+        "count": 43
+      },
+      "query": "doors"
+    },
+    {
+      "id": "435",
+      "image": "counting/pixmo-points/images/435.jpg",
+      "prediction": "435.png",
+      "target": {
+        "count": 43
+      },
+      "query": "departments"
+    },
+    {
+      "id": "436",
+      "image": "counting/pixmo-points/images/436.jpg",
+      "prediction": "436.png",
+      "target": {
+        "count": 43
+      },
+      "query": "vehicles"
+    },
+    {
+      "id": "437",
+      "image": "counting/pixmo-points/images/437.jpg",
+      "prediction": "437.png",
+      "target": {
+        "count": 43
+      },
+      "query": "small circle"
+    },
+    {
+      "id": "438",
+      "image": "counting/pixmo-points/images/438.jpg",
+      "prediction": "438.png",
+      "target": {
+        "count": 43
+      },
+      "query": "items on menu"
+    },
+    {
+      "id": "439",
+      "image": "counting/pixmo-points/images/439.jpg",
+      "prediction": "439.png",
+      "target": {
+        "count": 43
+      },
+      "query": "Milk Gallon Jug"
+    },
+    {
+      "id": "440",
+      "image": "counting/pixmo-points/images/440.jpg",
+      "prediction": "440.png",
+      "target": {
+        "count": 43
+      },
+      "query": "red and blue poker chips"
+    },
+    {
+      "id": "441",
+      "image": "counting/pixmo-points/images/441.jpg",
+      "prediction": "441.png",
+      "target": {
+        "count": 43
+      },
+      "query": "coin"
+    },
+    {
+      "id": "442",
+      "image": "counting/pixmo-points/images/442.jpg",
+      "prediction": "442.png",
+      "target": {
+        "count": 44
+      },
+      "query": "hangers"
+    },
+    {
+      "id": "443",
+      "image": "counting/pixmo-points/images/443.jpg",
+      "prediction": "443.png",
+      "target": {
+        "count": 44
+      },
+      "query": "remote buttons"
+    },
+    {
+      "id": "444",
+      "image": "counting/pixmo-points/images/444.jpg",
+      "prediction": "444.png",
+      "target": {
+        "count": 44
+      },
+      "query": "eyes"
+    },
+    {
+      "id": "445",
+      "image": "counting/pixmo-points/images/445.jpg",
+      "prediction": "445.png",
+      "target": {
+        "count": 44
+      },
+      "query": "Skyscrapers"
+    },
+    {
+      "id": "446",
+      "image": "counting/pixmo-points/images/446.jpg",
+      "prediction": "446.png",
+      "target": {
+        "count": 44
+      },
+      "query": "Storyboard frames/Panels"
+    },
+    {
+      "id": "447",
+      "image": "counting/pixmo-points/images/447.jpg",
+      "prediction": "447.png",
+      "target": {
+        "count": 44
+      },
+      "query": "logos"
+    },
+    {
+      "id": "448",
+      "image": "counting/pixmo-points/images/448.jpg",
+      "prediction": "448.png",
+      "target": {
+        "count": 44
+      },
+      "query": "shoes"
+    },
+    {
+      "id": "449",
+      "image": "counting/pixmo-points/images/449.jpg",
+      "prediction": "449.png",
+      "target": {
+        "count": 44
+      },
+      "query": "categories"
+    },
+    {
+      "id": "450",
+      "image": "counting/pixmo-points/images/450.jpg",
+      "prediction": "450.png",
+      "target": {
+        "count": 44
+      },
+      "query": "Images with people in them"
+    },
+    {
+      "id": "451",
+      "image": "counting/pixmo-points/images/451.jpg",
+      "prediction": "451.png",
+      "target": {
+        "count": 45
+      },
+      "query": "target product departments"
+    },
+    {
+      "id": "452",
+      "image": "counting/pixmo-points/images/452.jpg",
+      "prediction": "452.png",
+      "target": {
+        "count": 45
+      },
+      "query": "empty parking spot"
+    },
+    {
+      "id": "453",
+      "image": "counting/pixmo-points/images/453.jpg",
+      "prediction": "453.png",
+      "target": {
+        "count": 45
+      },
+      "query": "shoes"
+    },
+    {
+      "id": "454",
+      "image": "counting/pixmo-points/images/454.jpg",
+      "prediction": "454.png",
+      "target": {
+        "count": 45
+      },
+      "query": "people"
+    },
+    {
+      "id": "455",
+      "image": "counting/pixmo-points/images/455.jpg",
+      "prediction": "455.png",
+      "target": {
+        "count": 45
+      },
+      "query": "doritos"
+    },
+    {
+      "id": "456",
+      "image": "counting/pixmo-points/images/456.jpg",
+      "prediction": "456.png",
+      "target": {
+        "count": 45
+      },
+      "query": "DVDs of movies on a bookcase"
+    },
+    {
+      "id": "457",
+      "image": "counting/pixmo-points/images/457.jpg",
+      "prediction": "457.png",
+      "target": {
+        "count": 45
+      },
+      "query": "PVC Pipes"
+    },
+    {
+      "id": "458",
+      "image": "counting/pixmo-points/images/458.jpg",
+      "prediction": "458.png",
+      "target": {
+        "count": 45
+      },
+      "query": "dish for sale"
+    },
+    {
+      "id": "459",
+      "image": "counting/pixmo-points/images/459.jpg",
+      "prediction": "459.png",
+      "target": {
+        "count": 46
+      },
+      "query": "People"
+    },
+    {
+      "id": "460",
+      "image": "counting/pixmo-points/images/460.jpg",
+      "prediction": "460.png",
+      "target": {
+        "count": 46
+      },
+      "query": "black stripe"
+    },
+    {
+      "id": "461",
+      "image": "counting/pixmo-points/images/461.jpg",
+      "prediction": "461.png",
+      "target": {
+        "count": 46
+      },
+      "query": "shelf cubes that hold books"
+    },
+    {
+      "id": "462",
+      "image": "counting/pixmo-points/images/462.jpg",
+      "prediction": "462.png",
+      "target": {
+        "count": 46
+      },
+      "query": "Plastic bottles. "
+    },
+    {
+      "id": "463",
+      "image": "counting/pixmo-points/images/463.jpg",
+      "prediction": "463.png",
+      "target": {
+        "count": 46
+      },
+      "query": "Number of Hot Wheels cars and trucks in the image"
+    },
+    {
+      "id": "464",
+      "image": "counting/pixmo-points/images/464.jpg",
+      "prediction": "464.png",
+      "target": {
+        "count": 46
+      },
+      "query": "Fingers & thumbs"
+    },
+    {
+      "id": "465",
+      "image": "counting/pixmo-points/images/465.jpg",
+      "prediction": "465.png",
+      "target": {
+        "count": 46
+      },
+      "query": "words"
+    },
+    {
+      "id": "466",
+      "image": "counting/pixmo-points/images/466.jpg",
+      "prediction": "466.png",
+      "target": {
+        "count": 46
+      },
+      "query": "Vehicles"
+    },
+    {
+      "id": "467",
+      "image": "counting/pixmo-points/images/467.jpg",
+      "prediction": "467.png",
+      "target": {
+        "count": 47
+      },
+      "query": "horizontal book"
+    },
+    {
+      "id": "468",
+      "image": "counting/pixmo-points/images/468.jpg",
+      "prediction": "468.png",
+      "target": {
+        "count": 47
+      },
+      "query": "chairs"
+    },
+    {
+      "id": "469",
+      "image": "counting/pixmo-points/images/469.jpg",
+      "prediction": "469.png",
+      "target": {
+        "count": 47
+      },
+      "query": "automobiles"
+    },
+    {
+      "id": "470",
+      "image": "counting/pixmo-points/images/470.jpg",
+      "prediction": "470.png",
+      "target": {
+        "count": 47
+      },
+      "query": "sweet snacks"
+    },
+    {
+      "id": "471",
+      "image": "counting/pixmo-points/images/471.jpg",
+      "prediction": "471.png",
+      "target": {
+        "count": 47
+      },
+      "query": "dish"
+    },
+    {
+      "id": "472",
+      "image": "counting/pixmo-points/images/472.jpg",
+      "prediction": "472.png",
+      "target": {
+        "count": 47
+      },
+      "query": "Golf Ball"
+    },
+    {
+      "id": "473",
+      "image": "counting/pixmo-points/images/473.jpg",
+      "prediction": "473.png",
+      "target": {
+        "count": 47
+      },
+      "query": "arm"
+    },
+    {
+      "id": "474",
+      "image": "counting/pixmo-points/images/474.jpg",
+      "prediction": "474.png",
+      "target": {
+        "count": 47
+      },
+      "query": "VHS tape"
+    },
+    {
+      "id": "475",
+      "image": "counting/pixmo-points/images/475.jpg",
+      "prediction": "475.png",
+      "target": {
+        "count": 48
+      },
+      "query": "remote control buttons"
+    },
+    {
+      "id": "476",
+      "image": "counting/pixmo-points/images/476.jpg",
+      "prediction": "476.png",
+      "target": {
+        "count": 48
+      },
+      "query": "silver coins"
+    },
+    {
+      "id": "477",
+      "image": "counting/pixmo-points/images/477.jpg",
+      "prediction": "477.png",
+      "target": {
+        "count": 48
+      },
+      "query": "colored pen"
+    },
+    {
+      "id": "478",
+      "image": "counting/pixmo-points/images/478.jpg",
+      "prediction": "478.png",
+      "target": {
+        "count": 48
+      },
+      "query": "Ornate and colorful doors "
+    },
+    {
+      "id": "479",
+      "image": "counting/pixmo-points/images/479.jpg",
+      "prediction": "479.png",
+      "target": {
+        "count": 48
+      },
+      "query": "pictures in a collage"
+    },
+    {
+      "id": "480",
+      "image": "counting/pixmo-points/images/480.jpg",
+      "prediction": "480.png",
+      "target": {
+        "count": 48
+      },
+      "query": "Bats"
+    },
+    {
+      "id": "481",
+      "image": "counting/pixmo-points/images/481.jpg",
+      "prediction": "481.png",
+      "target": {
+        "count": 48
+      },
+      "query": "Women's faces"
+    },
+    {
+      "id": "482",
+      "image": "counting/pixmo-points/images/482.jpg",
+      "prediction": "482.png",
+      "target": {
+        "count": 48
+      },
+      "query": "take out menu"
+    },
+    {
+      "id": "483",
+      "image": "counting/pixmo-points/images/483.jpg",
+      "prediction": "483.png",
+      "target": {
+        "count": 48
+      },
+      "query": "buttons"
+    },
+    {
+      "id": "484",
+      "image": "counting/pixmo-points/images/484.jpg",
+      "prediction": "484.png",
+      "target": {
+        "count": 49
+      },
+      "query": "menu items"
+    },
+    {
+      "id": "485",
+      "image": "counting/pixmo-points/images/485.jpg",
+      "prediction": "485.png",
+      "target": {
+        "count": 49
+      },
+      "query": "people"
+    },
+    {
+      "id": "486",
+      "image": "counting/pixmo-points/images/486.jpg",
+      "prediction": "486.png",
+      "target": {
+        "count": 49
+      },
+      "query": "movies"
+    },
+    {
+      "id": "487",
+      "image": "counting/pixmo-points/images/487.jpg",
+      "prediction": "487.png",
+      "target": {
+        "count": 49
+      },
+      "query": "departments"
+    },
+    {
+      "id": "488",
+      "image": "counting/pixmo-points/images/488.jpg",
+      "prediction": "488.png",
+      "target": {
+        "count": 49
+      },
+      "query": "animals"
+    },
+    {
+      "id": "489",
+      "image": "counting/pixmo-points/images/489.jpg",
+      "prediction": "489.png",
+      "target": {
+        "count": 49
+      },
+      "query": "Tennis ball"
+    },
+    {
+      "id": "490",
+      "image": "counting/pixmo-points/images/490.jpg",
+      "prediction": "490.png",
+      "target": {
+        "count": 49
+      },
+      "query": "people"
+    },
+    {
+      "id": "491",
+      "image": "counting/pixmo-points/images/491.jpg",
+      "prediction": "491.png",
+      "target": {
+        "count": 49
+      },
+      "query": "foreign country channel lineup"
+    },
+    {
+      "id": "492",
+      "image": "counting/pixmo-points/images/492.jpg",
+      "prediction": "492.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Different states"
+    },
+    {
+      "id": "493",
+      "image": "counting/pixmo-points/images/493.jpg",
+      "prediction": "493.png",
+      "target": {
+        "count": 50
+      },
+      "query": "automobiles on the right half of the image"
+    },
+    {
+      "id": "494",
+      "image": "counting/pixmo-points/images/494.jpg",
+      "prediction": "494.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Red chair"
+    },
+    {
+      "id": "495",
+      "image": "counting/pixmo-points/images/495.jpg",
+      "prediction": "495.png",
+      "target": {
+        "count": 50
+      },
+      "query": "items on table"
+    },
+    {
+      "id": "496",
+      "image": "counting/pixmo-points/images/496.jpg",
+      "prediction": "496.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Grapes"
+    },
+    {
+      "id": "497",
+      "image": "counting/pixmo-points/images/497.jpg",
+      "prediction": "497.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Personal hygiene products"
+    },
+    {
+      "id": "498",
+      "image": "counting/pixmo-points/images/498.jpg",
+      "prediction": "498.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Bottom five rows of chairs"
+    },
+    {
+      "id": "499",
+      "image": "counting/pixmo-points/images/499.jpg",
+      "prediction": "499.png",
+      "target": {
+        "count": 50
+      },
+      "query": "Movie covers"
+    }
+  ]
+}

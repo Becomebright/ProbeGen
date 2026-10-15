@@ -1,0 +1,15 @@
+# Copy to api.local.yaml (git-ignored) and replace the key of the provider you use.
+# base_url defaults to the official endpoint; change it to use a compatible proxy.
+
+openai:                       # --model gpt-image-2
+  base_url: https://api.openai.com/v1
+  api_key: <YOUR_OPENAI_API_KEY>
+
+gemini:                       # --model nano-banana-2, nano-banana-pro, nano-banana-2.1
+  base_url: https://generativelanguage.googleapis.com/v1beta
+  api_key: <YOUR_GEMINI_API_KEY>
+  auth_mode: x-goog-api-key   # or "bearer" for proxies that expect Authorization: Bearer
+
+seedream:                     # --model seedream-5.0
+  base_url: https://ark.cn-beijing.volces.com/api/v3
+  api_key: <YOUR_ARK_API_KEY>
